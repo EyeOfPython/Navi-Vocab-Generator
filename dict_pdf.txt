@@ -1,0 +1,4948 @@
+NA’VI - ENGLISH DICTIONARY v. 13.10
+Compiled by Mark Miller
+www.LearnNavi.org
+Last updated: September 2nd, 2014
+This is the definitive dictionary for Na’vi, the language created by Dr. Paul Frommer for
+James Cameron’s film, Avatar. The words within come directly from, or are derived from, Dr.
+Frommer.
+Some notes: The traditional Na’vi transcription in use by Dr. Frommer has been maintained
+throughout: the IPA transcription is given as well. Compound non-inflected words and loan
+words from English have been noted. Some lenited words have been included if in the official
+corpus. Some inflected words are included here, if their inclusion is deemed particularly useful.
+Note that adpositions are free if before their modifier, but are bound as a suffix if situated
+after it.
+Bold indicates Na’vi word. Italics indicate English definition. Plain text indicates grammatical
+categorization: parentheses such as «x» represents an infix, where t«pre-first»«1»ar«2»on
+are the positions: Included are periods in the IPA to mark syllable divisions, and mid-dots to
+show infix positions (for beginners), as in [t·a.R·on]. Irregular infixes are marked with (ii). Transitivity
+is marked if known: words marked v. are either unattested or ambitransitive. Most,
+if not all transitive verbs can be used intransitively in the absence of a direct object. Known
+modal verbs and verbs known to use modal syntax are marked with vim or vtrm, depending
+upon transitivity according to the previous note. Knowledge of lenition and other sound
+changes will be assumed. Monosyllabic words are not noted for having a single primary stress
+in the IPA; if an enclitic is added, the root will be assumed to have primary stress. Note also
+that allomorphs, where specified, are subject only to personal preference, and not syntactic or
+morphological rules. There are several useful appendices that hold further information.
+Abbreviations:
+– = morpheme boundary
++ = leniting morpheme boundary
+« » = infix morpheme
+adj. = adjective
+adp. = adposition
+adv. = adverb
+conj. = conjunction
+c.w. = compound word
+dem. = demonstrative
+intj. = interjection
+inter. = interrogative
+n. = noun
+nfp. = not for people
+num. = number
+ofp. = only for people
+part. = particle
+ph. = phrase
+pn. = pronoun
+prop. n. = proper noun
+v. = verb
+svin. = stative intransitive verb
+vtr. = transitive verb
+vin. = intransitive verb
+vtrm. = transitive modal verb
+vim. = intransitive modal verb
+sbd. = subordinated
+1
+An English - Na’vi dictionary, and a Dictionary Categorized by Parts of Speech are provided,
+and may be helpful when searching fails. Translations are also available in French, Estonian,
+German, Hungarian, Português and Swedish. There are also other, unfinished translations
+in other languages available.
+Sources
+We have sourced every word as best as we could. This sourcing is placed in a subscript after
+the IPA transcription and reveals the source of each word. For historical interest, this dictionary
+was originally based on an initial list of around 500 words provided by Dr. Frommer in early
+March, 2010. As the language has continued to develop, additional vocabulary has been added
+as it appears in communications from Dr. Frommer via his blog and emails. Dr. Frommer has
+solicited the LearnNavi.org community to help come up with new vocabulary via the Lexical
+Expansion Project. This project continues and many suggested words now appear in the cannon
+lexicon presented in this dictionary. Other sources are words modified by unproductive
+affixes that are included here if Dr. Frommer has used them and words that have a modified
+semantic meaning due to a productive affix. Order of canonicity, from most to least:
+• PF = Dr. Paul Frommer
+• M = The Movie
+• JC = James Cameron
+• G = the Avatar Games
+• ASG = The Survival Guide
+• PND = Pandorapedia.com
+The Activists Survival Guide, a key early source of words, contained many words which
+are illegal - these are in the appendix. However, the plant names and songs are distinctly Frommerian,
+and are thus included in the dictionary proper. James Cameron himself made up many
+words, which Dr. Frommer then legalized. Dr. Frommer legalized some pronunciation errors
+made during filming: these, like oìsss, are now canon. Finally, Dr. Frommer has approved several
+constructions made by learners as good words, and so, occasionally there are extra sources.
+These sources are as follows: CP for CCH Pounder, LA for Laz Alonso, Prr for Prrton, RL for
+Richard Littauer, SW for SigourneyWeaver, ZS for Zoë Saldana, CM for Carla Meyer and Skxawng.
+LN is for LearnNavi, specified when the original sourcing has been lost or is ambiguous.
+Regarding the IPA, there are some other possible interpretations. Open syllables always
+use a tense [u] pronunciation, but closed syllables can be either tense [u] or lax [U]. There is no
+rule for which to use in closed syllables. So tsun, for example, can be either [>tsun] or [>tsUn],
+but lu is always [lu], never [lU]. Also, an alternate method of transcribing the diphthongs [Ej],
+[aj], [Ew], and [aw], not used here (for Frommer prefers the former), is [EI
+
+], [aI
+], [EU
+
+], and [aU
+].
+Concerning syllables, where not made clear by Dr. Frommer, the divisions have been split in
+accordance with the Maximal Onset Principle. Also note that stress and ejective markers can
+be difficult to differentiate. One example is the word atxkxe which is described as [at’."k’E].
+Please note the subtle difference between the characters ’ for ejective, and "for stress.
+This dictionary is a work in progress and is likely to have errors. Rutxe, if you note any,
+let me know here or by email to mark@learnnavi.org, and I will correct them. As for version
+number, I’ll change the first digit when there is a big change, .0x0 for a significant, but not large
+change and the .00x number for tiny edits. Refer to the Changelog for enlightenment.
+2
+I would like to take this opportunity to recognize those who have been instrumental in
+the creation and maintenance of this dictionary. First of course, is Dr. Paul Frommer and his
+monumental effort in creating this amazing language. Eternal thanks to Richard Littauer for
+originally creating and maintaining this document. Thanks to Tirea Aean (Corey Scheideman)
+for being invaluable in keeping track of new vocabulary as it is introduced by Dr. Frommer.
+Thanks also to Tuiq, who applied significant time and skills to automate the maintenance of
+this dictionary and its variants. Tuiq’s scripts also make the process of updating much easier
+for the authors of the various translations. Finally, thanks to everyone in the Learn Na’vi
+Community who are helping Na’vi to bloom!
+- Mark Miller, et alia
+3
+This page intentionally left blank.
+4
+P
+’a’aw: ["Pa.Paw] PF adj. a few, several (Used
+with countable nouns in the singular form)
+’akra: ["Pak.Ra] PF n. soil (fertile)
+’aku: ["P·a.k·u] PF vtr. remove, take away, take off
+’al: [P·al] PF vtr. waste
+’ali’ä: [Pa."liP.æ] PF n. collar / choker
+’ampi: ["P·am.p·i] PF vtr. touch
+’ana: ["Pa.na] PF n. hanging vine
+’ango: ["Pa.No] PF adj. soft (of a sound)
+’anla: ["P·an.l·a] PF vtr. yearn for
+’are: ["Pa.RE] PF n. poncho, cape, shawl
+’aw: [Paw] PF num. one
+’awkx: [Pawk'] PF n. cliff
+’awlie: [Paw."li.E] PF adv. once (in the past)
+’awlo: ["Paw.lo] PF adv. once
+’awm: [Pawm] PF n. camp
+’awnìm: ["P·aw.nIm] PF vtr. avoid (c.w. from
+’ì’awn remain and alìm distance)
+’awpo: ["Paw.po] PF pn. one individual
+’awsiteng: [Paw.si."tEN] PF adv. together (c.w.
+from ’aw one and teng same, equal)
+’awstengyem: [Paw.stEN."j·Em] PF vtr. bind /
+bring two or more things together (ii) (c.w.
+from ’awsiteng together and yem put)
+’awve: ["Paw.vE] PF adj. first (ordinal) (derived
+from ’aw one)
+’ä’: [PæP] PF intj. oops!
+’änsyem: [Pæn."sjEm] PF adj. complete
+’ärìp: ["P·æ.R·Ip^] PF vtr. move
+’e’al: ["PE.Pal] PF adj. worst
+’efu: ["P·E.f·u] PF vtr. feel, sense, perceive
+’eko: ["P·E.k·o] PF vtr. attack
+’ekong: ["PE.koN] PF n. beat (rhythmic)
+’ekxin: [PE."k'in] PF adj. tight
+’ekxinum: [PE."k'i.num] PF n. degree of tightness,
+looseness (c.w. from ’ekxin tight and
+um loose)
+’ekxinumpe: [PE."k'i.num.pE] PF inter. how
+tight, loose? (derived from ’ekxinum tightness,
+looseness)
+’em: [P·Em] PF vtr. cook
+’emyu: ["PEm.ju] PF n. cook, cooker (derived
+from ’em cook)
+’en: [PEn] PF n. guess, informed guess, hunch, intuition
+’engeng: ["PEN.EN] PF adj. level
+’en si: ["PEn "s·i] PF vin. make an informed guess
+(derived from ’en guess)
+’eoio: ["PE.o.i.o] PF adj. ceremonious
+’etnaw: ["PEt.naw] PF n. shoulder
+’evan: ["PE.van] PF n. boy (colloquial) (derived
+from ’evengan boy)
+’eve: ["PE.vE] PF n. girl (colloquial) (derived
+from ’evenge girl)
+’eveng: ["PE.vEN] PF n. child
+’evengan: ["PE.vE.Nan] PF n. boy (derived from
+’eveng child)
+’evenge: ["PE.vE.NE] PF n. girl (derived from
+’eveng child)
+’evi: ["PE.vi] PF n. kid (affectionate form of
+’eveng child)
+’ewan: ["PE.wan] PF adj. young
+’ewll: ["PE.wl
+"
+] PF n. plant
+’eylan: ["PEj.lan] PF n. friend
+’eylanay: [PEj.la."naj] PF n. acquaintance (with
+the potential for becoming a friend) (derived
+from ’eylan friend)
+’eyng: [P·EjN] PF v. answer, respond
+’eyt: [PEjt^] PF n. the symbol 8 (not the value
+eight)
+’i’a: ["P·iP.·a] PF vin. end, conclude
+’ia: ["P·i.·a] PF vin. lose oneself (spiritual sense)
+’ipu: ["Pi.pu] PF adj. humorous, funny, amusing
+’it: [Pit^] PF n. bit, a small amount
+’itan: ["Pi.tan] JC,PF n. son
+’ite: ["Pi.tE] JC,PF n. daughter
+’itetsyìp: ["Pi.tE.
+>
+tsjIp^] PF n. little daughter (term
+of endearment) (derived from ’ite daughter)
+’ì’awn: [P·I."P·awn] PF vin. remain, stay
+’ìheyu: [PI."hE.ju] PF n. spiral
+’ìn: [P·In] PF svin. be busy, be occupied
+’ìp: [P·Ip] PF vin. disappear, vanish, recede from
+view
+’llngo: ["Pl
+"
+.No] PF n. hip
+’o’: [PoP] PF adj. bringing fun, exciting
+’ok: [Pok^] PF n. remembrance
+’okrol: [Pok."Rol] PF n. history (ancient) (derived
+from ’ok remembrance and rol sing)
+’okvur: [Pok."vuR] PF n. history (non-ancient)
+(c.w. from ’ok remembrance and vur story)
+’om: [Pom] PF adj. violet, purple, magenta
+’ompin: ["Pom.pin] PF n. violet, purple, magenta
+(derived from ’om purple)
+5
+’on: [Pon] PF n. shape, form
+’ong: [P·oN] PF v. unfold, blossom
+’ongokx: ["P·o.N·ok'] PF vin. be born (c.w. from
+’ong unfold and nokx give birth to)
+’ongop: ["Po.N·op^] PF vtr. design (c.w. from ’on
+shape, form and ngop create)
+’ongopyu: ["Po.Nop.ju] PF n. designer (derived
+from ’ongop design)
+’opin: ["Po.pin] PF n. color
+’ora: ["Po.Ra] PF n. lake
+’oratsyìp: ["Po.Ra.
+>
+tsjIp^] PF n. pond, pool (derived
+from ’ora lake)
+’otxang: [Po."t'aN] PF n. musical instrument (generic
+term)
+’rrpxom: ["Pr
+"
+.p'om] PF n. thunder
+’u: [Pu] PF n. thing (object, fact, abstraction)
+’ul: [P·ul] PF vin. increase
+’uo: ["Pu.o] PF pn. something
+’upe: ["Pu.pE] PF inter. what (thing) (c.w. from
+’u thing and pe inter. marker)
+’upxare: [Pu."p'a.RE] PF n. message
+’ur: [PuR] PF n. sight, look, appearance
+A
+a: [a] PF,LN part. clause-level attributive marker
+akrrmaw: [a."kr
+"
+.maw] PF conj. after (temporal)
+allomorph of mawkrra (c.w. from krr time
+and maw after)
+akrrta: [a."kr
+"
+.ta] PF conj. since (temporal) allomorph
+of takrra (c.w. from krr time and ta
+from)
+akum: [a."kum] PF conj. that (as a result) (derived
+from kum result) this form follows
+the result, I.E. ’Poe yawne slolu oer akum,
+nìftxan lu sevin’ (She was so beautiful that I
+fell in love with her.); see also ’kuma’
+alaksi: [a."lak.si] PF adj. ready
+alìm: [a."lIm] PF adv. far away, at a distance (derived
+from lìm far, be far)
+alo: ["a.lo] PF n. time, turn, instance, one of a
+number of repeated or recurring actions
+alu: ["a.lu] PF conj. that is, in other words (derived
+from a subordinator and lu be) (Used for
+appositions)
+alunta: [a."lun.ta] PF conj. because, from the reason
+am’a: [am."Pa] PF n. doubt
+am’ake: [am."Pa.kE] PF adj. sure, confident (c.w.
+from am’a doubt and ke not)
+am’aluke: [am."Pa.lu.kE] PF adv. without a
+doubt (derived from am’ake sure, confident)
+apxa: [a."p'a] PF adj. large nfp.
+asim: [a."sim] PF adv. nearby, at close range (derived
+from sim near, be near)
+atan: [a."tan] JC n. light
+atanvi: [a."tan.vi] PF n. ray (derived from atan
+light)
+atanzaw: [a."tan.zaw] PF n. forked lightning
+(derived from atan light and swizaw arrow)
+atxar: [a."t'aR] PF adj. smell of living animals, as
+found around a watering hole
+atxkxe: [at'."k'E] PF n. land
+atxkxerel: [at'."k'E.REl] PF n. map (c.w. from
+atxkxe land and rel picture)
+au: ["a.u] JC n. drum (made of skin)
+au: [a."u] LA intj. exclamation of consternation
+aungia: [a."u.Ni.a] PF n. sign, omen
+awnga: [aw."Na] PF pn. we (derived from ayoeng
+we)
+ayfo: [aj."fo] or ["aj.fo] PF pn. they (derived
+from po he, she)
+aylaru: [aj."la.Ru] PF pn. to the others (contraction
+of ay+lahe–ru)
+aynga: [aj."Na] PF pn. you all, you (pl.) (derived
+from nga you)
+ayoe: [aj."o.E] PF pn. we, us (exclusive) (derived
+from oe I)
+ayoeng: [aj."wEN] PF pn. we, us (inclusive) (derived
+from oe I) (ayoenga– base for suffixes)
+ayu: [a."ju] PF n. things (derived from ’u thing)
+(never plural u)
+6
+Ä
+äie: [æ."i.E] PF n. vision (spiritual)
+äo–: ["æ.o] PF adp. under, below
+ätxäle: [æ."t'æ.lE] PF n. request
+ätxäle si: [æ."t'æ.lE "s·i] PF vin. request (with
+tsnì clause for object) (derived from ätxäle
+request)
+E
+eampin: ["E.am.pin] PF n. blue, green (derived
+from ean blue, green)
+ean: ["E.an] PF adj. blue, green
+ekxan: [E."k'an] PF n. barricade, obstruction
+ekxtxu: [Ek'."t'u] PF adj. rough
+eltu: ["El.tu] PF n. brain
+eltu lefngap: ["El.tu lE."fNap^] Prr n. computer
+(c.w. from eltu brain and lefngap metallic)
+eltur tìtxen si: ["El.tuR tI."t'En s·i] PF vin. be
+interesting, intriguing (derived from eltu-r
+brain (dative) and tìtxen awakeness)
+eltu si: ["El.tu s·i] PF vin. pay attention, quit goofing
+off (derived from eltu brain)
+emrey: [Em."R·Ej] PF vin. survive
+emza’u: [Em."z·a.P·u] PF vtr. pass (a test), overcome
+(c.w. from za’u come)
+eo–: ["E.o] PF adp. before, in front of (place)
+ep’ang: [Ep."PaN] PF adj. complex
+epxang: [E."p'aN] PF n. stone jar used to hold
+small toxic arachnid
+etrìp: ["Et.RIp^] PF adj. favorable, auspicious
+ewktswo: ["Ewk.
+>
+tswo] PF n. (sense of) taste (derived
+from ewku taste)
+ewku: ["·Ew.k·u] PF vtr. taste (not intentionally)
+eyawr: [E."jawR] PF adj. correct, right
+eyk: [·Ejk^] JC,PF vtr. lead
+eyktan: ["Ejk.tan] JC n. leader (derived from
+eyk lead)
+eyktanay: [Ejk.ta."naj] JC,PF n. deputy, general,
+one step down from leader (derived from eyktan
+leader)
+eykyu: ["Ejk.ju] PF n. leader (typically temporary,
+of a small group like a hunting party) (derived
+from eyk lead)
+F
+fa–: [fa] PF adp. with, by means of
+fahew: [fa."hEw] PF n. smell
+faoi: ["fa.o.i] PF adj. smooth
+fayluta: [faj."lu.ta] PF n. these words (contraction
+of fay+lì’u–t a, patientive case)
+fäkä: [fæ."k·æ] PF vin. go up, ascend (c.w. from
+fäpa top and kä go)
+fäpa: ["fæ.pa] PF n. top
+fäza’u: [fæ."z·a.P·u] PF vin. come up, ascend
+(c.w. from fäpa top and za’u come)
+fe’: [fEP] PF adj. bad nfp.
+fe’lup: ["fE.lup^] PF adj. tacky, in poor taste (c.w.
+from fe’ bad and lupra style)
+fe’ran: ["fEP.Ran] PF n. flawed nature, something
+ill-conceived or inherently defective (c.w. from
+fe’ bad and ran intrinsic character or nature)
+fe’ranvi: ["fEP.Ran.vi] PF n. blemish, deformity,
+stain, flawed feature (derived from fe’ran
+flawed nature, inherently defective)
+fe’ul: ["fE.P·ul] PF vin. worsen, get worse (c.w.
+from fe’ bad and ’ul increase)
+fekem: ["fE.kEm] PF n. accident (c.w. from fe’
+bad and kem action)
+few–: [fEw] PF adp. across, aiming for the opposite
+side of
+fewi: ["f·E.w·i] PF vtr. chase
+fewtusok: ["fEw.tu.sok^] PF adj. opposite, on the
+opposite side (derived from few– across)(In
+casual speech, fewtsok (few.tsok)
+fì’u: [fI."Pu] PF pn. this (thing) (derived from ’u
+thing)
+fìfya: [fI."fja] PF adv. this way, like this (derived
+from fya’o path)
+fìkem: [fI."kEm] PF pn. this (action) (derived
+from kem action, deed)
+fìpo: ["fI.po] PF pn. this one person or thing (derived
+from po he, she)
+fìtrr: [fI."tr
+"
+] PF adv. today (derived from trr day)
+fìtsap: [fI."
+>
+tsap^] PF adv. each other (c.w. from
+fipo this one and tsapo that one)
+fìtseng(e): [fI."
+>
+tsEN(E)] PF adv., n. here, this place
+(derived from tseng place)
+7
+fìtxan: [fI."t'an] PF adv. so, to such an extent (derived
+from txan great, much)
+fìtxon: [fI."t'on] PF adv., n. tonight (derived
+from txon night)
+fkan: [fk·an] PF vin. resemble in a sensory modality,
+come to the senses as
+fkarut: ["fk·a.R·ut^] PF v. peel
+fkay: [fkaj] PF adj. hateful
+fkew: [fkEw] PF adj. mighty
+fkeytok: ["fkEj.t·ok^] PF vin. exist (derived
+from kifkeyti tok be in the world)
+fkip–: [fkip^] PF adp. up among
+fko: [fko] PF pn. one, they (singular usage) (unspecified
+agent)
+fkxake: ["fk'·a.k·E] PF v. itch
+fkxen: [fk'En] PF n. vegetable (food)
+fkxile: ["fk'i.lE] PF n. bib necklace
+flawkx: [flawk'] PF n. leather
+flawm: [flawm] PF n. cheek
+flä: [fl·æ] PF vin. succeed
+flew: [flEw] PF n. throat
+flì: [flI] PF adj. thin nfp.
+flìnutx: [flI."nut'] PF n. thickness (c.w. from flì
+thin and nutx thick)
+flrr: [flr
+"
+] PF adj. gentle, mild, tender (people or
+things)
+fmal: [fm·al] PF vtr. sustain
+fmawn: [fmawn] PF n. news, something to report
+fmawnta: [fmawnta] PF n. that news (contraction
+of fmawn–it a)
+fmetok: ["fm·E.t·ok^] PF v. test
+fmi: [fm·i] PF vtrm. try, attempt (with the
+subjunctive)
+fmokx: [fmok'] PF n. jealousy, envy
+fnan: [fn·an] PF vtr. be good at
+fnawe’: [fna."wEP] PF adj. cowardly
+fnawe’tu: [fna."wEP.tu] PF n. coward (derived
+from fnawe’ cowardly)
+fnel: [fnEl] PF n. kind, type
+fnepe: ["fnE.pE] PF inter. which kind allomorph
+of pefnel
+fnetxum: [fnE."t'um] n. allergen (derived from
+txum poison)
+fngap: [fNap^] PF n. metal
+fngä’: [fN·æP] PF vin. relieve oneself; (on Earth:)
+use the restroom, go to the bathroom
+fngo’: [fN·oP] PF vtr. require, demand
+fnu: [fn·u] PF vin. quiet, be quiet
+fo: [fo] PF pn. they (derived from ay+ deleted
+plural leniting morpheme and po he/she)
+fpak: [fp·ak^] PF v. hold off, suspend action
+fpe’: [fp·EP] PF vtr. send
+fpeio: [fpE."i.o] PF n. challenge (ceremonial)
+fpi+: [fpi] PF adp. for the sake of, for the benefit
+of
+fpìl: [fp·Il] PF vtr. think
+fpìlfya: ["fpIl.fja] PF n. thought pattern, way of
+thinking (c.w. from fpìl think and fya’o path)
+fpom: [fpom] PF n. well-being, peace, happiness
+fpomtokx: [fpom."tok'] PF n. health (physical)
+(c.w. from fpom well-being and tokx body)
+fpxäkìm: ["fp'·æ.k·Im] PF vin. enter
+fra’u: ["fRa.Pu] PF pn. everything (derived from
+’u thing)
+frafya: ["fra.fja] PF adv. in every way (c.w. from
+fra’u everything and fya’o way)
+frakrr: ["fRa.kr
+"
+] PF adv. always, all the time (derived
+from krr time)
+fralo: ["fRa.lo] PF adv. every time, every instance,
+each time (derived from alo time)
+frapo: ["fRa.po] PF pn. everyone (derived from
+po he/she)
+frato: ["fRa.to] PF part. superlative marker than
+all
+fratrr: [fRa."tr
+"
+] PF adv. daily, every day (derived
+from trr day)
+fratseng: ["fRa.
+>
+tsEN] PF adv. everywhere (derived
+from tseng place)
+fratxon: [fRa."t'on] PF adv. every night (derived
+from txon night)
+frawzo: [fRaw."zo] PF intj. all is well, everything
+is fine or OK (derived from fra’u everything
+and zo be well)
+frìp: [fR·Ip^] PF vtr. bite
+frrfen: ["f·r"
+.f·En] PF vtr. visit
+frrtu: ["fr
+"
+.tu] PF n. guest, visitor
+fta: [fta] PF n. knot
+ftang: [ft·aN] PF vim. stop
+fta si: [fta s·i] PF vin. knot, make or tie a knot
+(derived from fta knot)
+ftawnemkrr: [ftaw."nEm.kr
+"
+] PF n. past (c.w.
+from ft«awn»em pass by (passive participle
+form) and krr time)
+ftär: [ftæR] PF adj. left (not right)
+ftärpa: ["ftæR.pa] PF n. left side (c.w. from ftär
+left and pa’o side)
+8
+fte: [ftE] PF conj. so that, in order to (with
+subjunctive verb in dependant clause)
+fteke: ["ftE.kE] PF conj. so that not, lest (c.w.
+from fte so that and ke not) (with subjunctive
+verb in dependant clause)
+ftem: [ft·Em] PF vtr. pass by (something)
+ftia: [ft·i.·"a] PF vtr. study
+ftu–: [ftu] PF adp. from (direction)
+ftue: ["ftu.E] PF adj. easy, simple
+ftumfa–: ["ftum.fa] PF adp. out of, from inside
+(derived from mìfa inside)
+ftxavang: ["ft'a.vaN] PF adj. passionate
+ftxey: [ft'·Ej] PF vtr. choose
+ftxey: [ft'Ej] PF conj. whether, or
+ftxì: [ft'I] PF n. tongue
+ftxìlor: [ft'I."loR] PF adj. delicious, good tasting
+(c.w. from ftxì tongue and lor beautiful)
+ftxìvä’: [ft'I."væP] PF adj. bad tasting (c.w. from
+ftxì tongue and vä’ noisome)
+ftxozä: [ft'o."zæ] PF n. celebration, happy occasion
+ftxozä si: [ft'o."zæ s·i] PF vin. celebrate (derived
+from ftxozä celebration)
+ftxulì’u: [ft'·u."lI.Pu] PF vin. orate, give speech
+(c.w. from täftxu weave and lì’u word)
+ftxulì’uyu: [ft'u."lI.Pu.ju] PF n. orator, (public)
+speaker (derived from ftxulì’u orate, give
+speech)
+fu: [fu] PF conj. or
+fuke: [fu."kE] PF conj. or not (c.w. from fu or
+and ke not)
+fula: ["fu.la] PF pn., sbd. that (c.w. from fì’ul
+this (agentive) and a subordinator)
+furia: ["fu.Ri.a] PF pn., sbd. that (c.w. from
+fì’uri this (topical) and a subordinator)
+futa: ["fu.ta] PF pn., sbd. that (c.w. from fì’u-t
+this (patientive) and a subordinator)
+fwa: [fwa] PF pn., sbd. that (subordinate clause
+marker) (c.w. from fì’u this (subjective) and a
+subordinator)
+fwang: [fwaN] PF adj. savory, umami, rich
+fwefwi: ["fw·E.fw·i] PF vin. whistle
+fwel: [fwEl] PF adj. broken
+fwem: [fwEm] PF adj. dull, blunt (as a point)
+fwep: [fwEp^] PF n. dust (on a surface)
+fwew: [fw·Ew] PF vtr. look for, seek, search
+fwi: [fw·i] PF vin. slip, slide
+fwopx: [fwop'] PF n. dust (in the air) (derived
+from fwep dust and pìwopx cloud)
+fya’o: ["fja.Po] PF n. path, way, manner
+fyape: ["fja.pE] PF inter. how allomorph of pefya
+fyawìntxu: [fja.w·In."t'·u] PF vin. guide (with
+dative of thing guided) (c.w. from fya’o path
+and wìntxu show)
+fyel: [fy·El] PF vtr. seal, make impervious
+fyep: [fj·Ep^] PF vtr. hold in the hand, grasp, grip
+fyeyn: [fjEjn] PF adj. ripe, mature, adult
+fyeyntu: ["fjEjn.tu] PF n. adult person (derived
+from fyeyn ripe, mature)
+fyin: [fjin] PF adj. simple
+fyinep’ang: [fjin.Ep."PaN] PF n. degree of complexity
+(c.w. from fyin simple and ep’ang
+complex)
+fyinep’angpe: [fjin.Ep."PaN.pE] PF inter. how
+complex? (derived from fyinep’ang degree of
+complexity) allomorph of pefyinep’ang
+fyole: ["fjo.lE] PF adj. sublime, beyond perfection
+fyolup: ["fJo.lup^] PF adj. exquisite, sublime in
+style (c.w. from fyole sublime and lupra style)
+H
+ha: [ha] PF adv. so, in that case
+ha’: [h·aP] PF vin. fit, suit, complement, inherently
+enhance
+ha’ngir: [haP."NiR] PF n. afternoon
+hahaw: ["h·a.h·aw] PF vin. sleep
+ham: [ham] PF adj. previous
+hamalo: [ha."ma.lo] PF adv. last time (c.w. from
+ham previous and alo time)
+hangham: ["h·aN.h·am] PF vin. laugh
+hangvur: ["haN.vuR] PF n. joke, funny story (c.w.
+from hangham laugh and vur story)
+hapxì: [ha."p'I] PF n. part
+hapxìtu: [ha."p'I.tu] PF n. member (derived
+from hapxì part)
+hasey: [ha."sEj] PF adj. done, finished
+hasey si: [ha."sEj "s·i] PF vin. accomplish, bring
+to a conclusion (derived from hasey done, finished)
+hawl: [h·awl] PF vtr. prepare
+9
+hawng: [hawN] PF n. overabundance
+hawngkrr: ["hawN.kr
+"
+] PF adv. late (c.w. from
+hawng overabundance and krr time)
+hawntsyokx: [hawn."
+>
+tsjok'] PF n. glove (c.w.
+from hawnu protect and tsyokx hand)
+hawnu: ["h·aw.n·u] PF vtr. protect, shelter
+hawnven: [hawn."vEn] PF n. shoe (c.w. from
+hawnu protect and venu foot)
+hawre’: [haw."REP] PF n. hat (c.w. from hawnu
+protect and re’o head)
+hawtsyìp: ["haw.
+>
+tsjIp^] PF n. nap (derived from
+hahaw sleep)
+hay: [haj] PF adj. next
+hayalo: [ha."ja.lo] PF adv. next time (c.w. from
+hay next and alo time)
+hefi: ["h·E.f·i] PF vtr. smell (not intentially)
+hefitswo: ["hE.fi.
+>
+tswo] PF n. (sense of) smell (derived
+from hefi smell)
+hek: [h·Ek^] PF vin. be curious, odd, strange, unexpected
+hena: ["h·E.na] PF vtr. carry
+hermeyp: [hER."mEjp^] PF n. snow flurry (derived
+from herwì snow and meyp weak)
+hertxayo: ["hER.t'a.jo] PF n. snow field (derived
+from herwì snow and txayo field)
+herwì: ["hER.wI] PF n. snow
+herwìva: ["hER.wI.va] PF n. snowflake (derived
+from herwì snow and ìlva flake)
+hewne: ["hEw.nE] PF adj. soft (of an object)
+heyn: [h·Ejn] PF vin. sit
+hifwo: ["h·i.fw·o] PF vin. flee, escape
+hiyìk: ["hi.jIk^] PF adj. funny, strange
+hì’ang: ["hI.PaN] PF n. insect (c.w. from hì’i
+small and ioang animal)
+hì’i: ["hI.Pi] PF adj. small, little (in size)
+hìkrr: ["hI.kr
+"
+] PF n. second, very short time (c.w.
+from hì’i little, small and krr time)
+hìm: [hIm] PF adj. small (in quantity)
+hìmpxì: [hIm."p'I] PF n. minority, least, small
+part
+hìmtxampe: [hIm."t'am.pE] PF inter. how much
+allomorph of pìmtxan
+hìmtxan: [hIm."t'an] PF n. amount (c.w. from
+hìm small and txan much)
+hìmtxew: [hIm."t'Ew] PF n. minimum (c.w.
+from hìm small and txew limit)
+hìmtxewvay: [hIm."t'Ew.vaj] PF adv. minimally
+(derived from hìmtxew minimum)
+hìno: [hI."no] PF adj. fine, detailed, precise, intricate
+(of things)
+hìtxoa: [hI."t'o.a] PF intj. excuse me (derived
+from hì’i small and txoa forgiveness)
+hoet: [ho."Et^] PF adj. vast, broad, expansive
+hol: [hol] PF adj. few
+holpxay: [hol."p'aj] PF n. number (c.w. from
+hol few and pxay many)
+holpxaype: [hol."p'aj.pE] PF inter. how many
+(c.w. from holpxay number and pe how)
+hona: ["ho.na] PF adj. endearing, adorable, cute
+hrrap: ["hr
+"
+.ap^] PF n. danger
+hu–: [hu] PF adp. with (accompaniment)
+hufwa: [hu."fwa] PF conj. although
+hufwe: [hu."fwE] PF n. wind
+hufwetsyìp: [hu."fwE.
+>
+tsjIp^] PF n. breeze, light
+wind (derived from hufwe wind)
+hultstxem: [h·ul."
+>
+tst'·Em] PF vtr. hinder
+hum: [h·um] PF vin. leave, depart
+I
+i’en: ["iP.En] JC n. stringed instrument
+il: [i·l] PF vin. bend
+inan: [·i."n·an] PF vtr. read (e.g. the forest), gain
+knowledge from sensory input (stress moves
+to first syllable with infixation)
+inanfya: [i."nan.fja] PF n. sense (means of perception)
+(c.w. from inan read, gain knowledge
+from sensory input and fya’o ‘path, way)
+ingyen: ["iN.jEn] PF n. feeling of mystery or incomprehension
+ingyenga’: ["iN.jE.NaP] PF adj. mysterious, puzzling,
+enigmatic (derived from ingyen feeling
+of mystery)
+ingyentsim: ["iN.jEn.
+>
+tsim] PF n. mystery, riddle,
+enigma, conundrum (c.w. from ingyen feeling
+of mystery and tsim source)
+ingyentsyìp: ["iN.jEn.
+>
+tsjIp^] PF n. trick, sleight
+of hand, clever/special methodology (derived
+from ingyen feeling of mystery)
+io–: ["i.o] PF adp. over, above
+ioang: [i."o.aN] PF n. animal, beast
+ioi: [i."o.i] PF n. adornment, or ceremonial apparel
+(item of)
+10
+ioi si: [i."o.i s·i] PF vin. adorn (derived from ioi
+adornment)
+irayo: [i."Ra.jo] JC n., intj. thank you, thanks
+irayo si: [i."Ra.jo "s·i] PF vin. thank, give thanks
+(derived from irayo thanks)
+Ì
+ìì: [I:] PF filler um, er
+ìlä+: ["I.læ] or [I."læ] PF adp. by, via, following,
+according to
+ìley: [I."lEj] LA intj. war cry
+ìlva: ["Il.va] PF n. flake, drop, chip
+ìpxa: [I."p'a] RL,PF n. fern
+K
+ka–: [ka] PF adp. across, covering thoroughly
+kakpam: [kak."pam] PF adj. deaf (derived from
+pam sound)
+kakrel: [kak."REl] PF adj. blind (derived from
+rel image, picture)
+kalin: [ka."lin] PF adj. sweet to the taste
+kaltxì: [kal."t'I] PF intj. hello
+kaltxì si: [kal."t'I "s·i] PF vin. say hello, greet (derived
+from kaltxì hello)
+kam–: [kam] PF adp. ago
+kame: ["k·a.m·E] PF vtr. see, see into, understand,
+know (spiritual sense)
+kan: [k·an] PF vtrm. aim
+kan’ìn: ["k·an.P·In] PF vtr. focus on, specialize in,
+be particularly interested in (derived from ’ìn
+be busy)
+kanfpìl: ["k·an.fp·Il] PF vin. concentrate, focus
+one’s attention (c.w. from kan aim and fpìl
+think)
+kangay: [ka."Naj] PF adj. valid (cognate with
+ngay true)
+kangay si: [ka."Naj s·i] PF vin. validate, confirm
+(derived from kangay valid)
+kanom: ["k·a.n·om] PF vtr. acquire, get
+kanu: ["ka.nu] PF adj. smart, intelligent ofp.
+kar: [k·aR] PF vtr. teach
+karyu: ["kaR.ju] PF n. teacher (derived from kar
+teach)
+karyunay: [kaR.ju."naj] PF n. apprentice teacher
+(derived from karyu teacher)
+kato: ["ka.to] PF n. rhythm
+kavuk: [ka."vuk^] PF n. treachery
+kavuk si: [ka."vuk^ "s·i] PF vin. betray (derived
+from kavuk treachery)
+kaw’it: [kaw."Pit^] PF adv. not at all, not a bit
+(used with ke; see ke kaw’it not...at all in phrases)
+(c.w. from ke ’aw not one and ’it bit)
+kawkrr: ["kaw.kr
+"
+] PF adv. never (c.w. from ke
+’aw not one and krr time)
+kawng: [kawN] PF adj. bad, evil
+kawnglan: ["kawN.lan] PF adj. malicious, bad hearted
+(c.w. from kawng bad, evil and txe’lan
+heart)
+kawngsar: ["kawN.s·aR] PF vtr. exploit
+kawtseng: ["kaw.
+>
+tsEN] PF adv. nowhere (c.w.
+from ke ’aw not one and tseng place)
+kawtu: ["kaw.tu] PF pn. no-one (c.w. from ke
+’aw not one and tute person)
+kay–: [kaj] PF adp. from now (in the future)
+kaym: [kajm] PF n. evening (before twilight), late
+afternoon
+kä: [k·æ] PF vin. go
+kä’ärìp: [kæ."P·æ.R·Ip^] PF vtr. push (c.w. from
+kä go and ’ärìp move)
+kämakto: [kæ."m·ak.t·o] PF v. ride out (c.w.
+from kä go and makto ride)
+käpxì: [kæ."p'I] PF n. rear (part or section) (c.w.
+from kä go and hapxì part)
+käsatseng: [kæ."sa.
+>
+tsEN] PF adv. out there (c.w.
+from kä go and tseng place)
+käsrìn: [kæ."sR·In] PF vtr. lend (derived from
+srìn temporarily transfer from one to another)
+käteng: ["k·æ.tEN] PF vin. spend time with, hang
+out with
+ke: [kE] PF adv. not
+ke’aw: [kE."Paw] PF adj. divided, torn apart,
+strife-ridden (c.w. from ke not and ’aw one)
+ke’u: ["kE.Pu] PF pn. nothing (c.w. from ke not
+and ’u thing)
+kea: ["kE.a] PF adj. no (before a noun)
+keftxo: [kE."ft'o] PF adj., intj. unhappy, upset,
+’How sad!’
+kefyak: [kE."fjak^] PF,P rr part. isn’t it?, right?
+(c.w. from kefya not the way and srak ques-
+11
+tion marker)
+kehe: ["kE.hE] PF part., intj. no
+kekem: ["kE.kEm] PF pn., adv. no action or activity
+(c.w. from ke not and kem activity)
+kelemweypey: [kE.lEm."wEj.pEj] PF adj. impatient
+(derived from ke not and lemweypey
+patient)
+kelfpomtokx: [kEl."fpom.tok'] PF adj. unhealthy
+(c.w. from ke not and fpomtokx health)
+kelkin: [kEl."kin] PF adj. unnecessary
+kelku: ["kEl.ku] PF n. home, house
+kelku si: ["kEl.ku "s·i] PF vin. live, dwell (derived
+from kelku home)
+kelsar: [kEl."saR] PF adj. useless, in vain (c.w.
+from ke not and lesar useful)
+keltsun: [kEl."
+>
+tsun] PF adj. impossible (c.w.
+from ke not and tsun be able)
+kem: [kEm] PF n. thing (action), deed
+kemlì’u: ["kEm.lI.Pu] PF n. verb (c.w. from kem
+action and lì’u word)
+kemlì’uvi: ["kEm.lI.Pu.vi] PF n. infix (derived
+from kemlì’u verb)
+kempe: ["kEm.pE] PF inter. what (action) allomorph
+of pehem (c.w. from kem action,
+deed)
+kem si: ["kEm "s·i] PF vin. do (derived from
+kem action, deed)
+keng: [kEN] PF adv. even, so much as
+kenong: ["k·E.n·oN] or ["kE.n·oN] PF v. model, represent,
+exemplify (ii) (c.w. from ke not and
+nong follow)
+kerusey: ["kE.Ru.sEj] PF adj. dead (c.w. from ke
+not and r«us»ey alive (participle infix))
+kesran: [kE."sRan] PF adj. so-so, mediocre (c.w.
+from ke not and sran yes) (The derivation of
+this word is not entirely clear. It may have
+originally been kesrankekehe, literally, ‘not
+yes, not no,’ in reference to whether a certain
+action was performed well or not, and
+over time it became shortened to just kesran,
+its use expanding to include anything
+only mediocre in quality.)
+keteng: ["kE.tEN] PF adj. different (c.w. from ke
+not and teng same, equal)
+ketsran: [kE."
+>
+tsRan] PF adj., conj. no matter, no
+matter what, whatever (c.w. from ke not and
+tsranten Matter, be of importance)
+ketsuktswa’: [kE.
+>
+tsuk."
+>
+tswaP] PF adj. unforgettable
+(derived from tswa’ forget)
+ketuwong: ["kE.tu.woN] PF n. alien
+kew: [kEw] PF num. zero
+kewong: ["kE.woN] PF adj. alien
+key: [kEj] PF n. face
+keyawr: [kE."jawR] PF adj. incorrect, wrong, not
+right (c.w. from ke not and eyawr correct)
+keye’ung: [kE."jE.PuN] PF n. insanity
+keyrel: ["kEy.REl] n. facial expression (c.w. from
+key face and rel image)
+kezemplltxe: [kE.zEm.pl
+"
+."t'E] PF adv. of
+course, needless to say (contraction of
+ke+zene+pivlltxe)
+ki: [ki] PF conj. but rather, but instead
+kifkey: [ki."fkEj] PF n. world (physical, solid)
+kilvan: [kil."van] PF n. river
+kin: [k·in] PF vtr. need
+kinam: [ki."nam] PF n. leg
+kinamtil: [ki."nam.til] PF n. knee (c.w. from kinam
+leg and til joint)
+kinä: ["ki.næ] PF num. seven
+kintrr: ["kin.tr
+"
+] PF n. week (derived from kinä
+seven and trr day)
+kintrram: ["kin.tr
+"
+am] PF n. last week (derived
+from kintrr week)
+kintrray: ["kin.tr
+"
+aj] PF n. next week (derived
+from kintrr week)
+kip–: [kip^] PF adp. among
+kive: ["ki.vE] PF adj. seventh (ordinal) (derived
+from kinä seven)
+kì’ong: [kI."PoN] PF adj. slow
+kìm: [k·Im] PF vtr. spin, to spin (something) Pol
+rumit kolìm He spun the ball
+kìmar: [kI."maR] PF adj. in season (of foods, vegetable
+or animal)
+kìng: [kIN] PF n. thread
+kìte’e: [kI.tE."PE] PF n. service
+kìte’e si: [kI.tE."PE "s·i] PF vin. serve (derived
+from kìte’e service)
+kllfro’: [kl
+"
+."fR·oP] PF svin. be responsible
+kllkä: [kl
+"
+."k·æ] PF vin. go down, descend (c.w.
+from kllpa bottom and kä go)
+kllkulat: [kl
+"
+."k·u.l·at^] PF vtr. dig up
+kllkxem: [kl
+"
+."k'·Em] PF vin. stand
+kllpa: ["kl
+"
+.pa] PF n. bottom
+kllpä: [kl
+"
+."p·æ] PF vin. land, reach the ground
+(c.w. from kllte ground and pähem arrive)
+kllpxìltu: [kl
+"
+."p'Il.tu] PF n. territory
+kllte: ["kl
+"
+.tE] PF n. ground
+12
+klltseng: ["kl
+"
+.
+>
+tsEN] PF n. position (derived from
+tseng place)
+klltxay: [kl
+"
+."t'·aj] PF vin. lie on the ground (c.w.
+from kllte ground and txay lie flat)
+klltxeykay: [kl
+"
+.t'Ej."k·aj] PF vtr. lay (something)
+on the ground (c.w. from kllte ground and txay
+lie flat) transitive form of klltxay
+kllvawm: ["kl
+"
+.vawm] PF adj. brown (c.w. from
+kllte ground and vawm dark)
+kllwo: [kl
+"
+."w·o] PF vin. alight, land (process of)
+(c.w. from kllte ground and wo reach for)
+kllyem: [kl
+"
+."j·Em] PF vtr. bury (c.w. from kllte
+ground and yem put)
+kllza’u: [kl
+"
+."z·a.P·u] PF vin. come down, descend
+(c.w. from kllte ground and za’u come)
+ko: [ko] PF part. solicit agreement
+ko’on: ["ko.Pon] PF n. ring, oval, closed shape
+roughly circular (derived from koum rounded,
+curved and ’on shape)
+koak: ["ko.ak^] PF adj. old, aged (for living
+things)
+koaktan: ["ko.ak.tan] PF n. old man (derived
+from koak old, aged)
+koakte: ["ko.ak.tE] PF n. old woman (derived
+from koak old, aged)
+koaktu: ["ko.ak.tu] PF n. old person (derived
+from koak old, aged)
+kolan: [ko."lan] PF intj. I mean, rather (selfcorrecting)
+(derived from kan aim, intend)
+kop: [kop^] PF adv. too, also, additionally
+koren: [ko."REn] PF n. rule, guideline
+kosman: [ko."sman] PF adj. wonderful, terrific,
+fantastic
+koum: ["ko.um] PF adj. rounded, curved
+krr: [kr
+"
+] PF n. time
+krra: ["kr
+"
+.a] PF conj. when, at the time that (derived
+from krr time)
+krrka–: ["kr
+"
+.ka] PF adp. during (derived from
+krr time)
+krrnekx: [kr
+"
+."n·Ek'] PF vin. take/consume time
+(ii) (c.w. from krr time and nekx consume)
+krrpe: ["kr
+"
+.pE] PF inter. when allomorph of pehrr
+(c.w. from krr time)
+ku’up: ["ku.Pup^] PF adj. heavy (physical weight)
+kulat: ["k·u.l·at^] PF vtr. reveal, bring forth, uncover
+(literally and metaphorically)
+kum: [kum] PF n. result
+kuma: ["kum.a] PF conj. that (as a result) (derived
+from kum result) this form precedes
+the result, I.E. ’Lu poe sevin nìftxan kuma
+yawne slolu oer’ (She was so beautiful that I
+fell in love with her.); see also ’akum’
+kur: [k·uR] PF vin. hang
+kurakx: [k·u."R·ak'] PF vtr. drive out
+Kx
+kxa: [k'a] PF n. mouth
+kxakx: [k'·ak'] PF vin. break, snap in two
+kxam: [k'am] PF n. middle, midpoint
+kxamlä–: ["k'am.læ] PF adp. through (via the
+middle of) (derived from kxam middle)
+kxamtrr: ["k'am.tr
+"
+] PF n. mid-day, noon (c.w.
+from kxam middle and trr day)
+kxamtrrmaw: ["k'am.tr
+"
+.maw] PF n. the time
+immediately after noon, early afternoon (c.w.
+from kxamtrr noon and maw after)
+kxamtseng: ["k'am.
+>
+tsEN] PF n. center, place in
+the middle (c.w. from kxam middle and tseng
+place)
+kxamtxomaw: ["k'am.t'o.maw] PF n. after midnight
+(c.w. from kxamtxon midnight and
+maw after)
+kxamtxon: ["k'am.t'on] PF n. midnight (c.w.
+from kxam middle and txon night)
+kxamyì: ["k'am.jI] PF n. intermediate level (c.w.
+from kxam middle and yì level)
+kxangangang: ["k'aN.aN.aN] PF intj. boom (onomatopoeic)
+kxanì: ["k'a.nI] PF adj. forbidden
+kxawm: [k'awm] PF adv. perhaps, maybe
+kxayl: [k'ajl] PF adj. high
+kxaylyì: ["k'ajl.jI] PF n. high level (c.w. from kxayl
+high and yì level)
+kxänäng: ["k'æ.næN] PF adj. smell of decaying
+animal/flesh, rotting, putrid
+kxeltek: ["k'·El.t·Ek] PF vtr. pick up, lift
+kxem: [k'·Em] PF vin. be vertical
+kxemyo: ["k'Em.jo] PF n. wall, vertical surface
+(c.w. from kxem be vertical and yo surface)
+kxener: ["k'E.nER] PF n. smoke
+kxetse: ["k'E.
+>
+tsE] PF n. tail
+kxeyey: ["k'E.jEj] PF n. error, mistake
+kxitx: [k'it'] PF n. death
+13
+kxll: [k'l
+"
+] PF n. charge, running attack
+kxll si: ["k'l
+"
+"s·i] PF vin. charge (derived from
+kxll charge)
+kxor: [k'oR] PF n. a wall or bank of powerful waterfalls
+noted for its deafening roar and deadly
+force (countable, but only rarely)
+kxu: [k'u] PF n. harm
+kxuke: ["k'u.kE] PF adj. safe (c.w. from kxu
+harm and ke not)
+kxukx: [k'·uk'] PF vtr. swallow
+kxutu: ["k'u.tu] PF n. enemy (derived from kxu
+harm)
+L
+lahe: ["la.hE] PF adj. other, else
+lam: [l·am] PF vin. seem, appear
+lapo: ["la.po] PF pn. other one person or thing
+(c.w. from lahe other, else and po he, she)
+laro: ["la.Ro] PF adj. clean
+latem: ["l·a.t·Em] PF vin. change (l«eyk»atem
+vtr. change)
+latsi: [l·a."
+>
+ts·i] LA v. keep up with someone
+law: [law] PF adj. clear, certain
+lawk: [l·awk^] PF vtr. discourse on, talk about,
+say something concerning
+lawnol: ["law.nol] PF n. great joy
+lawr: [lawR] PF n. melody
+law si: ["law "s·i] PF vin. make clear (derived
+from law clear)
+layompin: [la."jom.pin] PF n. black (derived
+from layon black)
+layon: [la."jon] PF adj. black
+lätxayn: [l·æ."t'·ajn] PF vtr. defeat in battle, conquer
+le’al: [lE."Pal] PF adj. wasteful (derived from ’al
+waste) nfp.
+le’aw: [lE."Paw] PF adj. only
+le’en: [lE."PEn] PF adj. speculative, intuitive (derived
+from ’en guess) nfp.
+lefkrr: [lE."fkr
+"
+] PF adj. current (derived from
+fìkrr this time)
+lefngap: [lE."fNap^] PF adj. metallic (derived
+from fngap metal)
+lefpom: [lE."fpom] PF adj. happy, peaceful, joyous,
+pleasant (derived from fpom happiness,
+peace) nfp.
+lefpomtokx: [lE."fpom.tok'] PF adj. healthy (derived
+from fpomtokx health)
+lehawng: [lE."hawN] PF adj. excessive (derived
+from hawng overabundance)
+lehawngkrr: [lE."hawN.kr
+"
+] PF adj. late (derived
+from hawngkrr late)
+lehrrap: [lE."hr
+"
+.ap^] PF adj. dangerous (derived
+from hrrap danger)
+leioae: [lE.i.o."a.E] PF n. respect
+leioae si: [lE.i.o."a.E s·i] PF vin. to respect (derived
+from leioae respect)
+lek: [l·Ek^] PF vtr. heed, obey
+lekin: [lE."kin] PF adj. necessary (derived from
+kin need)
+lekoren: [lE.ko."REn] PF adj. lawlike (derived
+from koren rule)
+lekye’ung: [lEk."jE.PuN] PF adj. insane, crazy
+(derived from keye’ung insanity)
+lelì’fya: [lE."lIP.fja] PF adj. concerning language,
+regarding language (derived from lì’fya language)
+lemrey: [lEm."REj] PF adj. surviving (e.g. of entities
+from a group some of whom have died) (derived
+from emrey survive)
+lemweypey: [lEm."wEj.pEj] PF adj. patient (derived
+from maweypey be patient)
+len: [l·En] PF vin. happen, occur
+leNa’vi: [lE."naP.vi] PF adj. having to do with the
+Na’vi, the People (derived from Na’vi the People)
+leno: [lE."no] PF adj. thorough, detail-orientated
+(of a person)
+lenomum: [lE."no.mum] PF adj. curious (derived
+from newomum be curious)
+lenrra: [lE."nr
+"
+.a] PF adj. proud (derived from
+nrra pride)
+lepay: [lE."paj] PF adj. watery (derived from
+pay water)
+lepwopx: [lEp."wop'] PF adj. cloudy (derived
+from pìwopx cloud)
+lerìk: [lE."RIk^] PF adj. leafy (derived from rìk
+leaf )
+leronsrel: [lE."Ron.sREl] PF adj. imaginary (derived
+from ronsrelngop imagine)
+lertu: ["lER.tu] PF n. colleague
+lesar: [lE."saR] PF adj. useful (derived from sar
+use)
+14
+leskxir: [lE."sk'iR] PF adj. wounded (derived
+from skxir wound)
+lesngä’i: [lE."sNæ.Pi] PF adj. original, existing at
+or from the start, first in a series (derived from
+sngä’i begin)
+lesnonrra: [lE.sno."nr
+"
+.a] PF adj. full of self-pride
+(derived from snonrra self-pride)
+leso’ha: [lE."soP.ha] PF adj. enthusiastic, keen
+(derived from so’ha be enthusiastic about)
+ofp.
+letam: [lE."tam] PF adj. sufficient (derived from
+tam suffice)
+letokx: [lE."tok'] PF adj. bodily, physical (derived
+from tokx body)
+letrr: [lE."tr
+"
+] RL adj. daily (derived from trr day)
+letrrtrr: [lE."tr
+"
+.tr
+"
+] PF adj. ordinary (derived
+from trr day)
+letsim: [lE."
+>
+tsim] PF adj. original, unique, not derived
+from another source (derived from tsim
+source)
+letsranten: [lE."
+>
+tsRan.tEn] PF adj. important
+(derived from tsranten matter)
+letsunslu: [lE."
+>
+tsun.slu] PF adj. possible (derived
+from tsunslu may, be possible)
+letwan: [lEt."wan] PF adj. dodgy, sneaky (of a
+person) (derived from tute person and wan
+hide)
+letxi: [lE."t'i] PF adj. hurried, frenzied (derived
+from txi hurry)
+letxiluke: [lE."t'i.lu.kE] PF adj. unhurried (c.w.
+from txi hurry and luke without)
+lew: [lEw] PF n. cover, lid
+lewäte: [lE.wæ."tE] PF adj. disagreeable, argumentative
+(of an agent) (derived from wäte
+argue)
+lew si: ["lEw "s·i] PF vin. cover (derived from
+lew cover)
+ley: [l·Ej] PF vin. be of value, have some positive
+value, be worth something
+leyapay: [lE."ja.paj] PF adj. foggy, misty (derived
+from yapay fog)
+leye’krr: [lE."jEP.kr
+"
+] PF adj. early (derived from
+ye’krr early)
+leyewla: [lE."jEw.la] PF adj. disappointing (derived
+from yewla disappointment)
+leyn: [l·Ejn] PF vtr. repeat, do again
+lezeswa: [lE."zE.swa] PF adj. grassy (derived
+from zeswa grass)
+li: [li] PF adv. already
+lie: ["li.E] PF n. experience
+lini: ["li.ni] PF n. young of an animal, bird, fish,
+insect
+lisre+: ["li.sRE] PF adp. by, before, up to but not
+after (c.w. from li already and sre+ before)
+litx: [lit'] PF adj. sharp (as a blade)
+lì’fya: ["lIP.fja] PF n. language (c.w. from lì’u
+word and fya’o way)
+lì’fyaolo’: ["lIP.fja.o."loP] PF n. language group,
+language users (c.w. from lì’fya language and
+olo’ clan)
+lì’fyavi: ["lIP.fja.vi] PF n. expression, bit of language
+(derived from lì’fya language)
+lì’u: ["lI.Pu] PF n. word
+lì’upam: ["lI.Pu.pam] PF n. accent, pronunciation
+(c.w. from lì’u word and pam sound)
+lì’upe: ["lI.Pu.pE] PF inter. what (word, utterance)
+allomorph of pelì’u
+lì’upuk: ["lI.Pu.puk^] PF n. dictionary (c.w. from
+li’u word and puk book (English loan word))
+lì’uvan: ["lI.Pu.van] PF n. pun, word-play (c.w.
+from li’u word and uvan game)
+lìm: [l·Im] PF svin. be far
+lìng: [l·IN] PF vin. float in the air, hover
+loi: ["lo.i] PF n. egg
+lok: [l·ok^] PF vtr. approach
+lok–: [l·ok^] PF adp. close to
+lom: [lom] PF adj. missing, missed (as an absent
+person who is longed for)
+lomtu: ["lom.tu] PF n. missed person (derived
+from lom missing, missed)
+lonu: [l·o."n·u] PF vtr. release, let go
+lopx: [l·op'] PF vin. panic
+lor: [loR] PF adj. beautiful, pleasant to the senses
+loran: ["lo.Ran] PF n. elegance, grace (c.w. from
+lor beautiful and ran intrinsic character or nature)
+lrrtok: ["lr
+"
+.tok^] PF n. smile
+lrrtok si: ["lr
+"
+.tok^ "s·i] PF vin. smile (derived
+from lrrtok smile)
+lu: [l·u] PF vin., svin. be, am, is, are (predicative
+copula, existential verb) (signifies possession
+with dative of possessor)
+luke–: ["lu.kE] PF adp. without
+lukpen: [luk."pEn] PF adj. without clothing, naked
+(c.w. from luke without and pen clothing
+(plural))
+lumpe: ["lum.pE] PF inter. why allomorph of
+pelun
+lun: [lun] PF n. reason
+lupra: ["lup.Ra] PF n. style
+15
+M
+ma: [ma] PF part. O (vocative marker)
+makto: ["m·ak.t·o] PF vtr. ride
+mal: [mal] PF adj. trustworthy, trust-inspiring
+masat: ["ma.sat] PF n. breastplate (armor)
+maw–: [maw] PF adp. after (time)
+mawey: [ma."wEj] CM adj. calm
+maweypey: [ma."wEj.p·Ej] PF svin. be patient
+(ii) (c.w. from mawey calm and pey wait)
+maweypeyyu: [ma."wEj.pEj.ju] PF n. One who
+is patient (derived from maweypey be patient)
+mawfwa: ["maw.fwa] PF conj. after (c.w. from
+maw after and fwa that)
+mawkrr: ["maw.kr
+"
+] PF adv. after, afterwards
+(c.w. from maw after and krr time)
+mawkrra: [maw."kr
+"
+.a] PF conj. after (temporal)
+allomorph of akrrmaw (c.w. from krr time
+and maw after)
+mawl: [mawl] PF n. half
+may’: [majP] PF vtrm. try, sample, evaluate,
+check out, test-drive
+mäkxu: [m·æ."k'u] PF vtr. interrupt, throw out of
+harmonious balance (derived from kxu harm)
+me’em: [mE."PEm] PF adj. harmonious
+mefo: ["mE.fo] PF pn. they, those two (derived
+from me+ dual marker and po he/she)
+mek: [mEk^] PF adj. empty, or metaphorically:
+having no value
+mekre: ["mEk.RE] PF n. supplies
+mektseng: ["mEk.
+>
+tsEN] PF n. gap, breach (c.w.
+from mek empty and tseng place)
+melo: ["mE.lo] PF adv. twice (derived from me+
+dual marker and alo time)
+menari: [mE."na.Ri] PF n. eyes (two) (derived
+from me+ dual and nari eye)
+meoauniaea: [mE.o.a.u.ni.a."E.a] PF n. harmony,
+living at one with nature
+mesrram: [mE.sr
+"
+."am] PF n., adv. the day before
+yesterday, two days ago (derived from trr
+day)
+mesrray: [mE.sr
+"
+."aj] PF n., adv. the day after tomorrow,
+two days from now (derived from trr
+day)
+meuia: [mE."u.i.a] PF n. honor
+meuianga’: [mE."u.i.a.NaP] PF adj. honorable,
+honorably (derived from meuia honor and
+nga’ contain)
+meyam: [m·E."y·am] PF vtr. hug, embrace, hold
+in one’s arms
+meyp: [mEjp^] PF adj. weak
+mi: [mi] PF adv. yet, still, as before
+miktsang: ["mik.
+>
+tsaN] PF n. earring (c.w. from
+mikyun ear and tsang piercing)
+mikyun: ["mik.jun] JC n. ear
+mip: [mip^] PF adj. new
+mì+: [mI] PF adp. in, on
+mìfa: ["mI.fa] or [mI."fa] PF n., adv. inside
+mìftxele: [mI."ft'E.lE] PF adv. in this regard, related
+to this matter
+mìkam–: [mI."kam] PF adp. between
+mìn: [m·In] PF vin. turn, rotate on an axis Mìn
+ne ftärpa Turn to the left
+mìnyu: ["mIn.ju] PF n. turner (derived from
+mìn turn)
+mìso: [mI."so] PF adv. away (position) (derived
+from mì in)
+mll’an: [m·l"
+."P·an] PF vtr. accept
+mllte: [m·l"
+."t·E] PF vin. agree
+mo: [mo] PF n. space, hollow, enclosed open area
+moe: ["mo.E] PF pn. we two, us two (exclusive)
+(derived from me+ dual and oe I)
+mok: [m·ok^] PF vtr. suggest
+mokri: ["mok.Ri] PF n. voice
+momek: ["mo.mEk^] PF adj. hollow, not solid
+mong: [m·oN] PF vtr. depend on, rely on, trust for
+protection
+mowan: [mo."wan] PF adj. pleasing, enjoyable
+(physically, sexually)
+mowar: [mo."waR] PF n. advice, bit or piece of advice
+mowar si: [mo."waR s·i] PF vin. advise (derived
+from mowar advice)
+mowarsiyu: [mo."waR.si.ju] PF n. advisor (derived
+from mowar advice)
+mrr: [mr
+"
+] PF num. five
+mrrtrr: ["mr
+"
+.tr
+"
+] PF n. five day work week (derived
+from mrr five and trr day)
+mrrve: ["mr
+"
+.vE] PF adj. fifth (ordinal) (derived
+from mrr five)
+muiä: [mu."i.æ] PF adj. proper, fair, right, justified
+mun’i: [m·un."P·i] PF v. cut
+mune: ["mu.nE] PF num. two
+munge: ["m·u.N·E] PF vtr. take, bring
+16
+mungwrr–: [muN."wr
+"
+] PF adp. except
+munsna: ["mun.sna] PF n. pair (derived from
+mune two and sna’o set, group)
+muntrr: ["mun.tr
+"
+] PF n. weekend (derived from
+mune two and trr day)
+muntrram: ["mun.tr
+"
+.am] PF n. last weekend (derived
+from muntrr weekend)
+muntrray: ["mun.tr
+"
+.aj] PF n. next weekend (derived
+from muntrr weekend)
+muntxa: [mun."t'a] PF adj. mated, married
+muntxa si: [mun."t'a "s·i] PF vin. mate (with someone),
+marry (derived from muntxa mated)
+muntxatan: [mun."t'a.tan] PF n. husband, male
+spouse (derived from muntxatu spouse)
+muntxate: [mun."t'a.tE] PF n. wife, female
+spouse (derived from muntxatu spouse)
+muntxatu: [mun."t'a.tu] PF n. spouse (derived
+from muntxa mated)
+muve: ["mu.vE] PF adj. second (ordinal) (derived
+from mune two)
+muwìntxu: [mu.w·In."t'·u] PF vtr. introduce,
+present (derived from wìntxu show)
+N
+na–: [na] PF adp. like, as
+na’rìng: ["naP.RIN] PF n. forest
+naer: [na."ER] PF n. drink, something able to be
+drunk
+nafì’u: [na.fI."Pu] PF adj. such (c.w. from na as
+and fì’u this)
+nam’ake: [nam."Pa.kE] PF adv. confidently (derived
+from am’ake confident)
+nang: [naN] PF part. surprise, exclamation, encouragement
+(mirative)
+nari: ["na.Ri] PF n. eye
+nari si: ["na.Ri s·i] PF vin. watch out, be careful
+(derived from nari eye)
+natkenong: [nat."kE.noN] PF conj. for example,
+as an example (c.w. from na like, as and tìkenong
+example)
+nawm: [nawm] PF adj. great, noble
+nawmtu: ["nawm.tu] PF n. great person (derived
+from nawm great)
+nayn: [najn] PF n. the symbol 9 (not the value
+nine)
+näk: [n·æk^] PF vtr. drink
+nän: [n·æn] PF vin. decrease
+ne–: [nE] PF adp. to, towards (direction)
+ne’ìm: [nE."PIm] PF adv. back (direction)
+nefä: [nE."fæ] PF adv. up (direction)
+nekll: [nE."kl
+"
+] PF adv. down (direction)
+nekx: [n·Ek'] PF vtr. burn, consume
+nemfa–: ["nEm.fa] PF adp. into, inside (c.w.
+from ne towards and mìfa inside)
+nemrey: [nEm."REj] PF adv.,intj. in a fashion as if
+one’s life were at stake (derived from emrey
+survive)
+neni: ["nE.ni] PF n. sand
+neto: [nE."to] PF adv. away (direction) (derived
+from ne to)
+netrìp: ["nEt.RIp^] PF adv. luckily, happily
+new: [n·Ew] PF vtrm. want
+newomum: [n·Ew."o.mum] PF svin. be curious,
+want to know (c.w. from new want and
+omum know)
+neympin: ["nEjm.pin] PF n. light color (derived
+from neyn light, shade of white)
+neyn: [nEjn] PF adj. light colors, shades of white
+niä: [n·i.·"æ] PF vtr. grab
+nikre: ["nik.RE] PF n. hair
+nikroi: [nik."Ro.i] PF n. hair adornment (c.w.
+from nikre hair and ioi adornment)
+nim: [nim] PF adj. timid, shy
+ninan: ["ni.nan] PF adv. by reading (derived
+from inan read)
+ningyen: ["niN,jEn] PF adv. mysteriously, in a
+puzzling fashion (derived from ingyen feeling
+of mystery)
+nitram: [nit."Ram] PF adj. happy (of people)
+nì–: [nI] PF adverbial deriving affix
+nì’al: [nI."Pal] PF adv. wastefully (derived from
+’al waste)
+nì’aw: [nI."Paw] PF adv. only (derived from ’aw
+one)
+nì’awtu: [nI."Paw.tu] PF adv. alone (as one person)
+(c.w. from ’aw one and tute person)
+nì’awve: [nI."Paw.vE] PF adv. first (derived
+from ’awve first)
+nì’en: [nI."PEn] PF adv. making an informed
+guess, acting on intuition (derived from ’en
+guess)
+17
+nì’eng: [nI."PEN] PF adv. equally, on the same level
+(derived from ’engeng level)
+nì’eoio: [nI."PE.o.i.o] PF adv. ceremoniously (derived
+from ’eoio ceremonious)
+nì’eveng: [nI."PE.vEN] PF adv. like a child, immaturely
+(derived from ’eveng child)
+nì’eyng: [nI."PEjN] PF adv. back, in response, in
+answer (derived from ’eyng answer)
+nì’i’a: [nI."PiP.a] PF adv. finally, at long last (derived
+from ’i’a end)
+nì’it: [nI."Pit^] PF adv. a bit, a small amount (abstract)
+(derived from ’it bit, a small amount)
+nì’o’: [nI."PoP] PF adv. in a manner which is enjoyable,
+enjoyably (derived from ’o’ exciting)
+nì’ul: [nI."Pul] PF adv. more
+nì’ul’ul: [nI."Pul.Pul] PF adv. increasingly, more
+and more (derived from ’ul increase)
+nìawnomum: [nI.aw."no.mum] PF adv. as
+you know, as is known (casual speech
+[naw."no.mum]) (derived from «awn» passive
+participle infix and omum know)
+nìayoeng: [nI.aj."wEN] PF adv. like us, as we do
+(casual speech [naj."wEN]) (derived from ayoeng
+us (inclusive))
+nìfe’: [nI."fEP] PF adv. badly (derived from fe’
+bad)
+nìfkeytongay: [nI.fkEj.to."Naj] PF adv. actually,
+as a matter of fact (c.w. from tìfkeytok situation
+and ngay true)
+nìfkrr: [nI."fkr
+"
+] PF adv. lately, currently (derived
+from fìkrr this time)
+nìflrr: [nI."flr
+"
+] PF adv. gently, tenderly (derived
+from flrr gentle)
+nìfmokx: [nI."fmok'] PF adv. jealously, enviously
+(derived from fmokx jealousy)
+nìfnu: [nI."fnu] PF adv. silently (derived from
+fnu quiet)
+nìfrakrr: [nI."fRa.kr
+"
+] PF adv. as always (derived
+from frakrr always)
+nìftär: [nI."ftæR] PF adv. to the left (derived
+from ftär left)
+nìftue: [nI."ftu.E] PF adv. easily (derived from
+ftue easy)
+nìftxan: [nI."ft'an] PF adv. so, to such an extent
+(derived from fìtxan so, to such an extent)
+nìftxavang: [nI."ft'a.vaN] PF adv. passionately,
+with all heart (derived from ftxavang passionate)
+nìfwefwi: [nI."fwE.fwi] PF adv. by whistling, in
+a whistling manner (derived from fwefwi
+whistle)
+nìfya’o: [nI."fja.Po] PF adv. in a manner (derived
+from fya’o way)
+nìfyeyntu: [nI."fjEjn.tu] PF adv. like an adult,
+maturely (derived from fyeyntu adult)
+nìhawng: [nI."hawN] PF adv. too, excessively
+(derived from hawng overabundance)
+nìhay: [nI."haj] Prr adv. next (derived from hay
+next)
+nìhek: [nI."hEk^] PF adv. strangely, oddly (derived
+from hek be curious, odd) (sentence, not
+manner, adverbial)
+nìhoet: [nI."ho.Et^] PF adv. widely, pervasively
+(derived from hoet vast, broad, expansive)
+nìhol: [nI."hol] PF adv. few, not many (derived
+from hol few)
+nìhona: [nI."ho.na] PF adv. endearingly, sweetly
+(derived from hona endearing)
+nìk’ärìp: [nIk."æ.RIp^] PF adv. steadily (derived
+from ke ärìp not move) lit.: ’without letting
+it move’
+nìk’ong: [nIk."PoN] PF adv. slowly (derived
+from kì’ong slow)
+nìkanu: [nI."ka.nu] PF adv. intelligently, in a
+smart way (derived from kanu smart)
+nìkeftxo: [nI.kE."ft'o] PF adv. unfortunately,
+sadly (derived from keftxo unhappy)
+nìkelkin: [nI.kEl."kin] PF adv. unnecessarily
+(derived from kelkin unnecessary)
+nìkemweypey: [nI.kEm."wEj.pEj] PF adv. impatiently
+(derived from ke not and lemweypey
+patient)
+nìklonu: [nIk.lo."nu] PF adv. firmly, steadfastly,
+faithfully (derived from ke lonu not let go)
+lit.: ’without releasing it’
+nìkmar: [nIk."maR] PF adv. in the right season,
+opportunely (derived from kìmar in season)
+nìksman: [nIk."sman] PF adv. wonderfully (derived
+from kosman wonderful)
+nìksran: [nIk."sRan] PF adv. in a mediocre manner
+(derived from kesran mediocre)
+nìktungzup: [nIk.tuN."zup^] PF adv. carefully,
+firmly (derived from ke tungzup not drop)
+lit.: ’without letting it fall’
+nìkxem: [nI."k'Em] PF adv. vertically (derived
+from kxem be vertical)
+18
+nìlam: [nI."lam] PF adv. apparently (derived
+from lam seem)
+nìlaw: [nI."law] PF adv. clearly (derived from
+law clear)
+nìli: [nI."li] PF adv. in advance (derived from li
+already)
+nìlkeftang: [nIl.kE."ftaN] PF adv. continuously,
+incessantly, without stopping (c.w. from luke
+without and ftang stop)
+nìltsan: [nIl."
+>
+tsan] PF adv. well (derived from
+sìltsan good)
+nìlun: [nI."lun] PF adv. of course, logically,
+following common sense
+nìmal: [nI."mal] PF adv. trustingly, without hesitation
+(derived from mal trustworthy)
+nìmeyp: [nI."mEjp^] PF adv. weakly, loosely (derived
+from meyp weak)
+nìmun: [nI."mun] PF adv. again
+nìmwey: [nIm."wEj] PF adv. calmly, peacefully
+(derived from mawey calm)
+nìmweypey: [nIm."wEj.pEj] PF adv. patiently
+(derived from maweypey be patient)
+nìn: [n·In] PF vtr. look at
+nìNa’vi: [nI."naP.vi] PF adv. like the Na’vi,
+Na’vi-ly (derived from Na’vi the People)
+nìnäk: [nI."næk^] PF adv. by drinking, in a liquid
+way (derived from näk drink)
+nìnän: [nI."næn] PF adv. less (derived from nän
+decrease)
+nìnänän: [nI."næn.æn] PF adv. decreasingly, less
+and less (derived from nän decrease)
+nìngay: [nI."Naj] PF adv. truly (derived from
+ngay true)
+nìngong: [nI."NoN] PF adv. lethargically, lazily
+(derived from ngong lazy)
+nìno: [nI."no] PF adv. in detail, expansively, thoroughly
+nìnrra: [nI."nr
+"
+.a] PF adv. proudly, with pride (derived
+from nrra pride)
+nìnu: [nI."nu] PF adv. failingly, falteringly, in
+vain, fruitlessly, not achieving the desired or expected
+end (derived from nui fail, falter)
+nìolo’: [nI."o.loP] PF adv. (together) as members
+of a clan (derived from olo’ clan)
+nìprrte’: [nI."pr
+"
+.tEP] PF adv. pleasurably, gladly,
+with pleasure (derived from prrte’ pleasurable)
+nìpxay: [nI."p'aj] PF adv. many, manily (derived
+from pxay many)
+nìpxi: [nI."p'i] PF adv. especially, pointedly, unambiguously
+(derived from pxi sharp)
+nìpxim: [nI."p'im] PF adv. erectly, rightly (derived
+from pxim erect, upright)
+nìran: [nI."Ran] PF adv. basically, fundamentally,
+in essence (derived from ran intrinsic character
+or nature)
+nìrangal: [nI."Ra.Nal] PF adv. wish (contrary to
+fact, with perfective or imperfective subjunctive)
+(derived from rangal wish)
+nìronsrel: [nI."Ron.sREl] PF adv. in imagination,
+by imagination (derived from ronsrelngop
+imagine)
+nìsìlpey: [nI.sIl."pej] PF adv. hopefully (derived
+from sìlpey hope)
+nìskien: [nI."ski.En] PF adv. to the right (derived
+from skien right)
+nìslele: [nI."slE.lE] PF adv. by swimming (derived
+from slele swim)
+nìsngä’i: [nI."sNæ.Pi] PF adv. originally, at first
+(derived from sngä’i begin)
+nìsngum: [nI."sNum] PF adv. worryingly, fretfully
+(derived from sngum worry)
+nìso’ha: [nI."soP.ha] PF adv. enthusiastically
+(derived from so’ha be enthusiastic about)
+nìsoaia: [nI.so."a.i.a] PF adv. (together) as members
+of a family (derived from soaia family)
+nìsteng: [nI."stEN] PF adv. similarly (derived
+from steng similar)
+nìsti: [nI."sti] PF adv. angrily (derived from sti
+be angry)
+nìsung: [nI."suN] PF adv. besides, additionally,
+furthermore (derived from sung add)
+nìswey: [nI."swEj] PF adv. optimally, best (derived
+from swey best)
+nìsyayvi: [nI."sjaj.vi] PF adv. by chance or coincidence
+(derived from syayvi luck)
+nìsyen: [nI."sjEn] PF adv. lastly (derived from
+syen last)
+nìsyep: [nI."sjEp^] PF adv. tightly, in an iron grip
+(derived from syep trap) lit.: ’like a trap’
+nìtam: [nI."tam] PF adv. enough (derived from
+tam suffice)
+nìteng: [nI."tEN] PF adv. too, also, as well, likewise
+(derived from teng same, equal)
+nìtengfya: [nI."tEN.fja] PF adv. as, same way as
+(similar action) (derived from tengfya as, same
+way as (conj.))
+19
+nìtkan: [nIt."kan] PF adv. purposefully, deliberately
+(derived from tìkan aim, goal, purpose)
+nìtkanluke: [nIt."kan.lu.ke] PF adv. accidentally,
+unintentionally (c.w. from nìtkan purposefully,
+deliberately and luke- without)
+nìtrrtrr: [nI."tr
+"
+.tr
+"
+] PF adv. on a daily basis, regularly
+(derived from trr day)
+nìtsim: [nI."
+>
+tsim] PF adv. originally, in an original
+way, with originality (derived from tsim
+source)
+nìtsìsyì: [nI."
+>
+tsI.syI] PF adv. by whispering, in a
+whisper (derived from tsìsyì whisper, v.)
+nìtsyìl: [nI."
+>
+tsjIl] PF adv. by climbing (derived
+from tsyìl climb)
+nìtut: [nI."tut^] PF adv. continually (derived
+from tut continuation marker)
+nìtxan: [nI."t'an] PF adv. much (abstract), very
+(derived from txan much)
+nìtxay: [nI."t'aj] PF adv. horizontally (derived
+from txay be horizontal)
+nìtxi: [nI."t'i] PF adv. hurriedly, in a frenzied way
+(derived from txi hurry)
+nìtxiluke: [nI."t'i.lu.kE] PF adv. unhurriedly, leisurely
+(c.w. from txi hurry and luke without)
+nìvingkap: [nI."viN.kap^] PF adv. by the way,
+incidentally (derived from vingkap occur to
+one, pop into one’s mind)
+nìwan: [nI."wan] PF adv. secretly, in hiding, by
+hiding (derived from wan hide)
+nìwawe: [nI.wa."wE] PF adv. meaningfully, significantly
+(derived from wawe meaning, significance)
+nìwä: [nI."wæ] PF adv. on the contrary, conversely
+nìwäte: [nI.wæ."tE] PF adv. disagreeably, begrudgingly
+(derived from wäte argue)
+nìwin: [nI."win] PF adv. fast, quickly (derived
+from win fast)
+nìwok: [nI."wok^] PF adv. loudly (derived from
+wok loud)
+nìwotx: [nI."wot'] PF adv. all (of), in toto, completely
+(derived from wotx totality, whole)
+nìyawr: [nI."jawR] PF adv. correctly, rightly (derived
+from eyawr correct, right)
+nìyewla: [nI."jEw.la] PF adv. in a disappointing
+fashion, in a way failing to meet expectations
+(derived from yewla disappointment)
+nìyey: [nI."jEj] PF adv. directly, straight to the
+point (derived from yey straight)
+nìyeyfya: [nI."jEj.fja] PF adv. straight ahead, in
+a straight line (derived from yeyfya straight
+line)
+nìyll: [nI."jl
+"
+] PF adv. communally, in a communal
+manner (derived from yll communal)
+nìyo’: [nI."joP^] PF adv. perfectly, flawlessly (derived
+from yo’ be perfect)
+nìyol: [nI."jol] PF adv. briefly, shortly (of time)
+(derived from yol short (of time))
+nìyrr: [nI."jr
+"
+] PF adv. naturally, without tampering
+with or changing the nature (derived
+from yrr natural)
+nìzawnong: [nI."zaw.noN] PF adv. safely (derived
+from «awn» passive participle infix and
+zong save)
+nokx: [n·ok'] PF vtr. give birth to
+nong: [n·oN] PF v. follow, proceed after
+nrr: [n·r"
+] PF vin. glow, be luminous
+nrra: ["nr
+"
+.a] PF n. pride, feeling of pride
+nuä+: ["nu.æ] PF adp. beyond
+nui: ["n·u.·i] PF vin. fail, falter, go astray, not obtain
+expected or desired result
+nulkrr: [nul."kr
+"
+] PF adv. longer (time) (derived
+from krr time)
+nulnew: [nul."n·Ew] PF vtrm. prefer (ii) (derived
+from new want)
+nume: ["n·u.m·E] PF vin. learn
+numeyu: ["nu.mE.ju] PF n. student (derived
+from nume learn)
+numtseng: ["num.
+>
+tsEN] PF n. school (c.w. from
+nume learn and tseng place)
+numtsengvi: ["num.
+>
+tsEN.vi] PF n. classroom, division
+of a school (derived from numtseng
+school)
+numultxa: [nu.mul."t'a] PF n. class (for instruction)
+(c.w. from nume learn and ultxa meeting)
+numultxatu: [nu.mul."t'a.tu] PF n. classmate,
+member of a class (derived from numultxa
+class (for instruction))
+nutx: [nut'] PF adj. thick
+20
+Ng
+nga: [Na] PF pn. you
+nga’: [NaP] PF vtr. contain
+ngam: [Nam] PF n. echo
+ngampam: ["Nam.pam] PF n. rhyme (c.w. from
+ngam echo and pam sound)
+ngampam si: ["Nam.pam s·i] PF vin. rhyme (derived
+from ngampam rhyme)
+ngatsyìp: ["Na.
+>
+tsjIp^] PF pn. little you, you little
+(derived from nga you)
+ngawng: [NawN] PF n. worm
+ngay: [Naj] PF adj. true
+ngaytxoa: [Naj."t'o.a] PF intj. sorry, my apologies
+(acknowledgment of guilt and regret) (c.w.
+from ngeyä your and txoa forgiveness)
+ngä’än: [N·æ."P·æn] PF vin. suffer mentally or
+emotionally, be miserable
+ngäng: [NæN] PF n. stomach
+ngäzìk: ["Næ.zIk^] PF adj. difficult, hard
+ngenga: [NE."Na] PF pn. you (honorific (honourific)
+form) (derived from nga you)
+ngep: [NEp^] PF n. navel
+nget: [NEt^] PF adj. smell of decaying wood and
+leaves, dank (non-animal decay)
+ngeyn: [NEjn] PF adj. tired
+ngian: [Ni."an] PF,SW adv. however
+ngim: [Nim] PF adj. long (physical length)
+ngimpup: [Nim."pup^] PF n. length (derived
+from ngim long and pup short)
+ngoa: ["No.a] PF n. mud
+ngong: [NoN] PF adj. lethargic, lacking sufficient
+energy, lazy
+ngop: [N·op^] PF vtr. create
+ngopyu: ["Nop.ju] PF n. creator (derived from
+ngop create)
+ngrr: [Nr
+"
+] PF n. root
+ngrrpongu: [Nr
+"
+.po.Nu] PF n. grassroots movement
+(c.w. from ngrr root and pongu party)
+ngul: [Nul] PF adj. grey, drab
+ngulpin: ["Nul.pin] PF n. grey (derived from
+ngul grey, drab)
+nguway: ["Nu.waj] PF n. howl, viperwolf cry (derived
+from way song)
+O
+oe: ["o.E] PF pn. I, me
+oeng: ["wEN] PF pn. we two, us two (dual inclusive),
+you and I (derived from oe I)
+oetsyìp: ["wE.
+>
+tsjIp^] PF pn. little me, little I (derived
+from oe I)
+oeyk: [o."Ejk^] PF n. cause
+oeyktìng: [o."Ejk.t·IN] PF v. explain (why) (ii)
+(c.w. from oeyk cause and tìng give)
+ohakx: [o."hak'] PF adj. hungry
+ohe: ["o.hE] PF pn. I (deferential or ceremonial
+form)
+oìsss: [o.I"s:] LA intj. angry snarl, ’watch it!’
+oìsss si: [o."􀀀ISSS s·i] PF vin. hiss (derived from
+oìsss angry snarl)
+okup: ["o.kup^] PF n. milk
+olo’: [o."loP] PF n. clan
+olo’eyktan: [o.lo."PEjk.tan] JC n. clan leader
+(c.w. from olo’ clan and eyktan leader)
+omum: [·o."m·um] PF vtr. know (stress moves
+to first syllable with infixation)
+onlor: [on."loR] PF adj. good-smelling (c.w. from
+ontu nose and lor pleasant to the senses)
+ontsang: ["on.
+>
+tsaN] PF n. nose ring (c.w. from
+ontu nose and tsang piercing)
+ontu: ["on.tu] JC n. nose
+onvä’: [on."væP] PF adj. bad-smelling (c.w. from
+ontu nose and vä’ unpleasant to the senses)
+P
+pa’o: ["pa.Po] PF n. side
+pak: [pak^] PF part. disparagement
+pam: [pam] PF n. sound
+pamrel: [pam."REl] PF n. writing (c.w. from
+pam sound and rel image)
+pamrelfya: [pam."REl.fja] PF n. spelling (derived
+from pamrel writing and fya’o way)
+pamrel si: [pam."REl "s·i] PF vin. write (derived
+from pamrel writing)
+pamrelsiyu: [pam."rEl.si.ju] PF n. writer (derived
+from pamrel writing)
+pamrelvi: [pam."REl.vi] PF n. letter (phonetic
+symbol) (derived from pamrel writing)
+21
+pamtseo: ["pam.
+>
+tsE.o] PF n. music (c.w. from
+pam sound and tseo art)
+pamtseo si: ["pam.
+>
+tsE.o "s·i] PF vin. play music
+(with fa for instrument played) (derived from
+pamtseo music)
+pamtseotu: ["pam.
+>
+tsE.o.tu] PF n. musician (derived
+from pamtseo music)
+pan: [pan] PF n. third, one third
+pate: ["p·a.t·E] ZS v. get to a place, arrive
+pawm: [p·awm] PF vin. ask
+pay: [paj] PF n. water, liquid
+payfya: ["paj.fja] PF n. stream (c.w. from pay
+water and fya’o way)
+payìva: ["paj.I.va] PF n. drop of water (derived
+from pay water and ìlva drop)
+paynga’: ["paj.NaP] PF adj. moist, humid, damp
+(derived from pay water and nga’ contain)
+payoang: [paj."o.aN] PF n. fish (c.w. from pay
+water and ioang animal)
+paysena: ["paj.sE.na] PF n. water container (c.w.
+from pay water and sähena container)
+pähem: ["p·æ.h·Em] PF vin. arrive
+pängkxo: [p·æN."k'·o] PF vin. chat, converse, have
+a conversation
+pängkxoyu: [pæN."k'o.ju] PF n. chatter, converser
+(derived from pängkxo chat)
+pängkxoyu lekoren: [pæN."k'o.ju lE.ko."REn]
+PF n. lawyer (c.w. from pängkxoyu chatter
+and lekoren lawlike)
+pänu: ["pæ.nu] PF n. promise
+pänutìng: ["pæ.nu.t·IN] PF vtr. promise (a thing
+to someone) (ii) (c.w. from pänu promise and
+tìng give)
+–pe+: [pE] PF affix inter. marker
+pe’un: ["p·E.P·un] PF vtr. decide
+pefnel: [pE."fnEl] PF inter. which kind allomorph
+of fnepe
+pefya: [pE."fja] PF inter. how allomorph of fyape
+pefyinep’ang: [pE.fjin.Ep."PaN] PF inter. how
+complex? (derived from fyinep’ang degree of
+complexity) allomorph of fyinep’angpe
+pehem: [pE."hEm] PF inter. what (action) allomorph
+of kempe (c.w. from kem action,
+deed)
+pehrr: [pE."hr
+"
+] PF inter. when allomorph of krrpe
+(c.w. from krr time)
+pekxinum: [pE."k'in.um] PF inter. how tight,
+loose? (derived from ’ekxinum tightness,
+looseness)
+pelì’u: [pE."lI.Pu] PF inter. what (word, utterance)
+allomorph of lì’upe
+pelun: [pE."lun] PF inter. why allomorph of
+lumpe
+peng: [p·EN] PF vtr. tell
+peseng: [pE."sEN] PF inter. where allomorph of
+tsengpe
+peslosnep: [pE.slo."snEp^] PF inter. what width,
+how wide? (derived from snep narrow) (allomorph
+of slosneppe)
+pesomwew: [pE.som."wEw] PF inter. what temperature?
+(derived from somwew temperature)
+pesu: [pE."su] PF inter. who allomorph of tupe
+peu: [pE."u] PF inter. what (thing) allomorph of
+’upe
+pewn: [pEwn] PF n. neck
+pey: [p·Ej] PF vin. wait, wait for
+piak: [pi."ak^] PF adj. open, clear (for cloudless
+skies)
+piak si: [pi."ak^ s·i] PF vin. open (derived from
+piak open)
+pil: [pil] PF n. facial stripe
+pizayu: ["pi.za.ju] PF n. ancestor
+pìmtxan: [pIm."t'an] PF inter. how much allomorph
+of hìmtxampe
+pìwopx: [pI."wop'] PF n. cloud
+pìwopxtsyìp: [pI."wop'.
+>
+tsjIp] PF n. nebula (derived
+from pìwopx cloud) lit.: ’little cloud’
+pllngay: [p·l"
+."Naj] PF vin. admit
+plltxe: [p·l"
+."t'·E] PF v. speak
+po: [po] PF pn. he, she
+poan: [po."an] PF pn. he (no plural form: use
+(ay)fo) (derived from po he, she)
+poe: [po."E] PF pn. she (no plural form: use
+(ay)fo) (derived from po he, she)
+polpxay: [pol."p'aj] PF inter. how many (c.w.
+from holpxay number and pe how)
+pom: [p·om] PF vtr. kiss
+pongu: ["po.Nu] PF n. group of people, party (derived
+from po he/she) ofp.
+prrku: ["pr
+"
+.ku] PF n. womb (c.w. from prrnen
+baby and kelku home)
+prrkxentrrkrr: [pr
+"
+.k'En.tr
+"
+.kr
+"
+] Skxawng n. day time
+smoking pleasure, vibrating tongue (Na’vi
+idiom) (c.w. from prrte’ pleasurable, kxener
+smoke, trr day and krr time)
+prrnen: ["pr
+"
+.nEn] PF n. infant, baby
+22
+prrnesyul: ["pr
+"
+.nE.sjul] PF n. bud (c.w. from
+prrnen baby and syulang flower)
+prrte’: ["pr
+"
+.tEP] PF adj. pleasurable (of an activity)
+prrwll: ["pr
+"
+.wl
+"
+] Prr n. moss (c.w. from prrnen
+baby and ’ewll plant)
+pukap: ["pu.kap^] PF num. six
+pum: [pum] PF pn. one (place-holder pronoun
+referring to a previously mentioned noun
+or pronoun)
+pup: [pup^] PF adj. short (physical length)
+puve: ["pu.vE] PF adj. sixth (ordinal) (derived
+from pukap six)
+Px
+pxan: [p'an] PF adj. worthy
+pxasìk: ["p'a.sIk^] PF intj. screw that!, no way!
+(vulgar)
+pxasul: ["p'a.sul] PF adj. fresh, appealing as food
+pxaw–: [p'aw] PF adp. around
+pxawpa: ["p'aw.pa] PF n. perimeter, circumference,
+border (c.w. from pxaw around and
+pa’o side)
+pxawpxun: ["p'aw.p'un] PF n. armband (c.w.
+from pxaw around and pxun arm)
+pxay: [p'aj] PF adj. many (used with singular
+or plural noun forms)
+pxayopin: ["p'aj.o.pin] PF adj. colorful, multicolored,
+variegated (c.w. from pxay many and
+’opin color)
+pxek: [p'·Ek^] PF vtr. kick, shove
+pxel–: [p'El] PF adp. like, as
+pxelo: ["p'E.lo] PF adv. thrice, three times (derived
+from pxe+ trial marker and alo time)
+pxen: [p'En] PF n. functional clothing (item of)
+pxesrram: [p'E.sr
+"
+."am] PF n., adv. three days ago
+(derived from trr day)
+pxesrray: [p'E.sr
+"
+."aj] PF n., adv. three days from
+now (derived from trr day)
+pxey: [p'Ej] PF num. three
+pxeyve: ["p'Ej.vE] PF adj. third (ordinal) (derived
+from pxey three)
+pxi: [p'i] PF adj. sharp (as a point)
+pxim: [p'im] PF adj. erect, upright
+pximaw–: [p'i."maw] PF adp. right after (c.w.
+from maw after (time) and pxi sharp)
+pxiset: [p'i."sEt^] PF adv. right now (c.w. from
+set now and pxi sharp)
+pxisre+: [p'i."sRE] PF adp. right before (c.w. from
+sre before (time) and pxi sharp)
+pxiswawam: [p'i.swaw."am] PF adv. just a moment
+ago (c.w. from swaw moment and –am
+past)
+pxiswaway: [p'i.swaw."aj] PF adv. in just a second
+from now (c.w. from swaw moment and
+ay future marker)
+pxiye’rìn: [p'i."jEP.RIn] PF adv. immediately (not
+as soon as pxiswaway) (c.w. from ye’rìn soon
+and pxi sharp)
+pxìm: [p'Im] PF adv. often
+pxìmun’i: [p'I.m·un.P"·i] PF vtr. divide, cut into
+parts (c.w. from hapxì part and mun’i cut)
+pxor: [p'·oR] PF vin. explode
+pxorpam: ["p'oR.pam] PF n. ejective consonant
+(c.w. from pxor explode and pam sound)
+pxun: [p'un] PF n. arm
+pxuntil: ["p'un.til] PF n. elbow (c.w. from pxun
+arm and til joint)
+R
+ral: [Ral] PF n. meaning
+ralnga’: ["Ral.NaP] PF adj. meaningful, instructive,
+something from which a lesson can be learned
+(c.w. from ral meaning and nga’ contain)
+ralpeng: [Ral."p·EN] PF vtr. interpret (ii) (c.w.
+from ral meaning and peng tell)
+ram: [Ram] PF n. mountain
+ramtsyìp: ["Ram.
+>
+tsjIp^] PF n. hill (derived from
+ram mountain)
+ramunong: [Ra."mu.noN] PF n. well
+ran: [Ran] PF n. intrinsic character or nature, essence,
+constititution; basic nature of something
+resulting from the totality of its properties; often
+best translated as personality
+rangal: ["R·a.N·al] PF vin. wish
+raspu’: [Ra."spuP] PF n. leggings (used in war)
+rawke: ["Raw.kE] PF intj. alarm cry, call to defense
+23
+rawm: [Rawm] PF n. lightning (general term)
+rawmpxom: ["Rawm.p'om] PF n. thunder and
+lightning (derived from rawm lightning and
+’rrpxom thunder)
+rawn: [R·awn] PF vtr. replace, substitute
+rä’ä: [Ræ."Pæ] PF part. do not (for negative imperatives,
+commands only)
+re’o: ["RE.Po] PF n. head
+rel: [REl] PF n. image, picture
+rel arusikx: ["rEl a.ru."sikx] PF n. movie, film,
+video (c.w. from rel picture and rikx move)
+reltseo: ["REl.
+>
+tsE.o] PF n. visual art (c.w. from
+rel image and tseo art)
+reltseotu: ["REl.
+>
+tsE.o.tu] PF n. artist (derived
+from reltseo art)
+reng: [REN] PF adj. shallow (physically) nfp.
+rengop: ["rE.N·op^] PF vtr. design (finer detail)
+(c.w. from renu pattern and ngop create)
+renten: ["REn.tEn] PF n. goggles, (made from insect
+wings, carved from wood, etc)
+renu: ["RE.nu] PF n. pattern
+renulke: ["RE.nul.kE] PF adj. irregular, random
+(derived from renu pattern and luke without)
+rewon: ["RE.won] PF n. morning
+rey: [R·Ej] PF vin. live
+rey’eng: [REj."PEN] PF n. the Balance of Life (derived
+from rey live)
+reyfya: ["REj.fja] PF n. way of living, culture (c.w.
+from rey live and fya’o path, way)
+reykol: [REj."kol] PF vtr. play music, make to sing
+(poetic) (derived from rol sing and «eyk»
+causitive infix)
+reypay: ["REj.paj] PF n. blood (c.w. from rey live
+and pay water)
+rikx: [R·ik'] PF vin. move, shift position
+rim: [Rim] PF adj. yellow
+rimpin: ["Rim.pin] PF n. yellow (derived from
+rim yellow)
+rina’: [Ri."naP] PF n. seed (derived from atokirina’
+seeds of the great tree)
+rì’ìr: ["RIP.IR] PF n. reflection
+rì’ìr si: ["RIP.IR s·i] PF vin. reflect, imitate (derived
+from rì’ìr reflection)
+rìk: [RIk^] PF n. leaf
+rìkean: ["RI.kE.an] PF adj. leaf green (c.w. from
+rìk leaf and ean green)
+rìn: [RIn] PF n. wood
+ro+: [Ro] PF adp. at (locative)
+ro’a: ["R·o.P·a] PF vin. be impressive, inspire awe
+or respect
+rofa–: ["Ro.fa] PF adp. beside, alongside
+rol: [R·ol] PF v. sing
+rolun: [Ro."lun] PF intj. Eureka! I’ve found it!
+rong: [RoN] PF n. tunnel
+ronsem: ["Ron.sEm] PF n. mind
+ronsrel: ["Ron.sREl] PF n. something imagined
+(derived from ronsrelngop imagine)
+ronsrelngop: ["Ron.sREl.N·op^] PF vtr. imagine,
+envision (c.w. of ronsem mind, rel
+picture, ngop create, casual pronunciation
+["Ron.sREw.Nop^] )
+ropx: [Rop'] PF n. hole (going clear through an
+object)
+rou: ["R·o.·u] PF vin. be, or get drunk (example
+use: rou fa pxir)
+rum: [Rum] PF n. ball
+run: [R·un] PF vtr. find, discover
+rurur: [Ru."RuR] PF n. water that is aeriated while
+flowing among the rocks of a very gradually
+sloping stream (countable)
+rusey: [Ru."sEj] PF adj., n. alive, living, living
+thing (c.w. from rey live and «us» active participle
+infix)
+rutxe: [Ru."t'E] PF intj. please
+S
+sa’nok: ["saP.nok^] PF n. mother (from
+sa’atenuk C)
+sa’nu: ["saP.nu] PF n. mum, mommy (affectionate
+form of sa’nok mother)
+sa’nutsyìp: ["saP.nu.
+>
+tsjIp^] PF n. little mommy
+(used for young girls) (derived from sa’nu
+mommy)
+sa’sem: ["saP.sEm] PF n. parent or set of parents
+(derived from sa’nok mother and sempul
+father)
+saa: ["sa:] LA intj. threatening cry
+salew: [s·a."l·Ew] PF v. proceed, go
+salewfya: [sa."lEw.fja] PF n. direction, course
+(derived from salew proceed and fya’o path)
+san: [san] PF adv. saying, quote
+24
+sang: [saN] PF adj. warm
+sar: [s·aR] PF vtr. use
+sat: [sat^] PF pn. that (lenited form of tsat)
+sau: [sa."u] LA intj. exclamation upon exertion,
+urgh
+sayrìp: ["saj.RIp^] PF adj. handsome, good looking
+ofp. (male)
+sä’anla: [sæ."Pan.la] PF n. yearning (derived
+from ’anla yearn for)
+sä’eoio: [sæ."PE.o.i.o] PF n. ceremony, ritual, rite
+(derived from ’eoio ceremonious)
+sä’eoio si: [sæ."PE.o.i.o s·i] PF vin. take part in
+a ceremony, perform a ritual (derived from
+sä’eoio ceremony)
+sä’ipu: [sæ."Pi.pu] PF n. something humorous
+(derived from ’ipu humorous)
+sä’o: ["sæ.Po] PF n. tool, utensil
+säfe’ul: [sæ."fE.Pul] PF n. worsening (specific instance)
+(derived from fe’ul worsen)
+säflä: [sæ."flæ] PF n. success (an instance of succeeding)
+(derived from flä succeed)
+säfmi: [sæ."fmi] PF n. attempt (derived from
+fmi try, attempt)
+säfngo’: [sæ."fNoP] PF n. requirement, demand
+(derived from fngo’ require)
+säfpìl: [sæ."fpIl] PF n. idea (derived from fpìl
+think)
+säftxulì’u: [sæ.ft'u."lI.Pu] PF n. speech, oration
+(derived from ftxulì’u orate, give speech)
+säfyep: [sæ."fjEp^] PF n. handle (derived from
+fyep hold in the hand)
+sähena: [sæ."hE.na] PF n. container, vessel, carrier
+(derived from hena carry)
+säkanom: [sæ."ka.nom] PF n. something acquired,
+an acquisition, a possession (derived from
+kanom acquire)
+sälätxayn: [sæ.læ."t'ajn] PF n. defeat, an instance
+of defeat (derived from lätxayn defeat)
+sämok: [sæ."mok^] PF n. a suggestion (derived
+from mok suggest)
+sämyam: [sæm."yam] PF n. hug, embrace (derived
+from meyam hug)
+sängä’än: [sæ.Næ."Pæn] PF n. bout of suffering;
+episode of depression (derived from ngä’än
+suffer mentally or emotionally)
+sänrr: [sæ."nr
+"
+] PF n. glow, an instance of glowing
+(derived from nrr glow)
+sänui: [sæ."nu.i] PF n. failure (particular instance
+of failure) (derived from nui fail, falter)
+sänume: [sæ."nu.mE] PF n. teaching, instruction
+(derived from nume learn)
+sänumvi: [sæ."num.vi] PF n. lesson (derived
+from sänume teaching)
+säomum: [sæ."o.mum] PF n. (piece of) information
+(derived from omum know)
+säplltxe: [sæ.p·l"
+."t'·E] PF n. statement
+säplltxevi: [sæ.p·l"
+."t'·E.vi] PF n. comment (derived
+from säplltxe statement)
+säpom: [sæ."pom] PF n. kiss (derived from
+pom kiss)
+särawn: [sæ."Rawn] PF n. replacement, substitute,
+something that replaces something else (derived
+from rawn replace)
+särengop: [sæ."rE.Nop^] PF n. design (a particular
+instance of designing) (derived from
+rengop design)
+säro’a: [sæ."Ro.Pa] PF n. feat, accomplishment,
+great deed
+säro’a si: [sæ."Ro.Pa s·i] PF vin. do great deeds
+(derived from säro’a great deed)
+säsìlpey: [sæ.sIl."pEj] PF n. hope (particular instance)
+(derived from sìlpey hope)
+säspxin: [sæ."sp'in] PF n. disease, sickness, illness
+(derived from spxin sick)
+säspxintsyìp: [sæ."sp'in.
+>
+tsjIp^] PF n. minor ailment
+(derived from säspxin illness)
+säsrätx: [sæ."sRæt'] PF n. annoyance (derived
+from srätx annoy)
+säsrìn: [sæ."sRIn] PF n. lent or borrowed thing
+(derived from srìn temporarily transfer from
+one to another)
+sästarsìm: [sæ."staR.sIm] PF n. collection (put
+together intentionally by a person) (derived
+from starsìm gather, collect)
+säsulìn: [sæ."su.lIn] PF n. hobby, pleasureyielding
+activity (derived from sulìn be busy
+(positive sense))
+säsyep: [sæ."sjEp^] PF n. trap (derived from
+syep trap)
+sätare: [sæ."ta.RE] PF n. connection, relationship
+(derived from tare connect, relate to)
+sätaron: [sæ."ta.Ron] PF n. hunt (derived from
+taron hunt)
+sätsan’ul: [sæ."
+>
+tsan.Pul] PF n. improvement
+(specific instance) (derived from tsan’ul improve)
+sätsìsyì: [sæ."
+>
+tsI.syI] PF n. whisper (derived
+from tsìsyì whisper)
+25
+sätswayon: [sæ."
+>
+tswaj.on] PF n. flight (an instance
+of flying) (derived from tswayon fly)
+sätsyìl: [sæ."
+>
+tsjIl] PF n. climbing event, a climb
+(derived from tsyìl climb)
+säwäsul: [sæ."wæ.sul] PF n. a competition (derived
+from wäsul compete)
+säwäsultsyìp: [sæ."wæ.sul.
+>
+tsjIp^] PF n. a contest
+(derived from säwäsul a competition)
+säwäte: [sæ.wæ."tE] PF n. point of contention,
+source of argument, thing disputed (derived
+from wäte argue)
+säwìntxu: [sæ.wIn."t'u] PF n. a showing, an exhibition
+(derived from wìntxu show)
+säzärìp: [sæ."zæ.RIp^] RL,PF n. face lead, rein
+(derived from za’ärìp pull)
+se’ayl: [sE."Pajl] PF n. an individual tall, thin waterfall
+that pours down a sheer high cliff, or off
+of a floating mountain (countable)
+sekrr: ["sE.kr
+"
+] PF n. present (c.w. from set now
+and krr time)
+sempu: ["sEm.pu] PF n. daddy (affectionate
+form of sempul father)
+sempul: ["sEm.pul] PF n. father
+set: [sEt^] PF adv. now
+sevin: [sE."vin] PF adj. pretty ofp. (female)
+seykxel: [sEj."k'El] PF adj. strong (emotionally,
+spiritually, not physical), confident
+seyri: ["sEj.Ri] JC n. lip
+seysonìltsan: [sEj.so.nIl."
+>
+tsan] PF intj. well done!
+(derived from hasey soli nìltsan accomplished
+well)
+si: [s·i] PF auxiliary verb, postpositional nonbound
+verb do, make deriving affix
+sim: [s·im] PF svin. be near
+sì: [sI] PF conj. and (connects two things, can
+be attached as –sì: for clauses use ulte and)
+sìk: [sIk^] PF adv. unquote
+sìlpey: [sIl."p·Ej] PF vin. hope (with tsnì for thing
+hoped, unless in independent clause) (ii) (c.w.
+from sìltsan good and pey wait)
+sìlronsem: [sIl."Ron.sEm] PF adj. clever, smart
+(thing) (c.w. from sìltsan good and ronsem
+mind)
+sìltsan: [sIl."
+>
+tsan] PF adj. good (of its kind), well
+done
+sìn–: [sIn] PF adp. on, onto
+ska’a: [sk·a."P·a] PF vtr. destroy
+skepek: ["skE.pEk^] PF adj. formal
+skiempa: ["ski.Em.pa] PF n. right side (c.w.
+from skien right and pa’o side)
+skien: ["ski.En] PF adj. right (not left)
+sko+: [sko] PF adp. as, in the capacity of, in the
+role of
+skxakep: ["sk'a.kEp^] PF adj., adv. probable, probably
+skxawng: [sk'awN] PF n. moron, idiot
+skxir: [sk'iR] PF n. wound
+skxir si: ["sk'iR "s·i] PF vin. wound (derived
+from skxir wound)
+skxirtsyìp: ["sk'iR.
+>
+tsjIp^] PF n. cut, bruise, minor
+wound (derived from skxir wound)
+skxom: [sk'om] PF n. chance, opportunity
+sla’tsu: ["sl·aP.
+>
+ts·u] PF vtr. describe
+slan: [sl·an] PF vtr. support (emotional, social or
+personal support) ofp.
+slantire: [slan.ti."RE] PF n. inspiration (c.w. from
+slan support and tirea spirit)
+slantire si: [slan.ti."RE s·i] PF vin. inspire (derived
+from slantire inspiration)
+slä: [slæ] PF conj. but
+slär: [slæR] PF n. cave
+slele: ["sl·E.l·E] PF vin. swim
+sleyku: [slEj."k·u] PF vtr. produce (derived from
+slu become and «eyk» causative infix)
+sloa: ["slo.a] PF adj. wide
+sloan: [sl·o."·an] PF vtr. pour
+slosnep: [slo."snEp^] PF n. width (derived from
+snep narrow)
+slosneppe: [slo."snE.pE] PF ques. what width,
+how wide? (derived from snep narrow) (allomorph
+of peslosnep)
+slu: [sl·u] PF vin. become (noun predicate with
+ne in ambiguous constructions)
+smar: [smaR] PF n. prey, hunted thing
+smon: [sm·on] PF vin. be familiar, be known
+(with dative)
+sna’o: ["sna.Po] PF n. set, group, pile, clump,
+stand nfp.
+snafpìlfya: [sna."fpIl.fja] PF n. philosophy (c.w.
+from sna’o group and fpìlfya way of thinking)
+lit.: ’a group of mindsets’
+snanumultxa: [sna.nu.mul."t'a] PF n. course (as
+a collection of classes) (derived from numultxa
+class (for instruction))
+snapamrelvi: [sna.pam."REl.vi] PF n. alphabet
+(derived from pamrelvi letter (phonetic symbol))
+26
+snatanhì: [sna.tan."hI] PF n. constellation (c.w.
+from sna’o clump and tanhì star) lit.: ’a
+clump of stars’
+snatanhìtsyìp: [sna.tan."hI.
+>
+tsjIp] PF n. star
+cluster (c.w. from sna’o group and tanhì(
+tsyìp) star)
+snatxärem: [sna."t'æ.REm] PF n. skeleton (c.w.
+from sna’o group and txärem bone) lit.: ’set
+of bones’
+snayì: [sna."jI] PF n. staircase, series of step-like
+levels (derived from yì level, step)
+snaytu: ["snaj.tu] PF n. loser (derived from
+snaytx lose)
+snaytx: [sn·ajt'] PF vtr. lose
+snep: [snEp^] PF adj. narrow
+snew: [sn·Ew] PF vtr. constrict, tighten
+snewsye: ["snEw.sjE] PF adj. weird, spooky (c.w.
+from snew tighten, constrict and syeha breath)
+sneyä: [snE."jæ] PF pn. his own, her own, its own
+(derived from sno his self, her self, its self )
+sngap: [sN·ap^] PF vtr. sting
+sngä’i: ["sN·æ.P·i] PF vim. begin, start
+sngä’ikrr: ["sNæ.Pi.kr
+"
+] PF n. beginning, starting
+time (c.w. from sngä’i begin and krr time)
+sngä’itseng: ["sNæ.PI.
+>
+tsEN] PF n. beginning,
+starting position, initial location (c.w. from
+sngä’i start and tseng place)
+sngä’iyu: ["sNæ.Pi.ju] PF n. beginner (derived
+from sngä’i begin)
+sngel: [sNEl] PF n. garbage, trash, rubbish
+sngeltseng: ["sNEl.
+>
+tsEN] PF n. rubbish place, garbage
+dump (c.w. from sngel garbage and
+tseng place)
+sngum: [sNum] PF n. worry
+sngumtsim: ["sNum.
+>
+tsim] PF n. worrisome matter,
+source of worry (c.w. from sngum worry
+and tsim source)
+sngunga’: ["sNu.NaP] PF adj. worrisome,
+troubling (derived from sngu worry)
+sno: [sno] PF pn. his self, her self, its self (reflexive,
+genitive form sneyä)
+snolup: ["sno.lup^] PF n. personal style or aesthetic,
+presence (c.w. from sno self and lupra
+style)
+snomo: ["sno.mo] PF n. private space that one can
+retreat to (c.w. from sno his or her self and
+mo space)
+snonrra: [sno."nr
+"
+.a] PF n. self-pride (negative
+connotation) (c.w. from sno his/her self and
+nrra pride)
+snumìna: ["snu.mI.na] CP adj. dim ofp. (refers
+to a ’dim’ person)
+so’ha: ["s·oP.h·a] PF vtr. be enthusiastic about,
+show enthusiasm for, be excited about (Note:
+Being enthusiastic is always transitive in
+Na’vi -PF)
+soaia: [so."a.i.a] PF n. family (irregular genitive
+form soaiä)
+sok: [sok^] PF adj. recent
+som: [som] PF adj. hot
+somwew: [som."wEw] PF n. temperature (derived
+from som hot and wew cold)
+somwewpe: [som."wEw.pE] PF inter. what temperature?
+(more common) (derived from
+somwew temperature)
+sop: [s·op^] PF vin. travel
+sopyu: ["sop.ju] PF n. traveller (derived from
+sop travel)
+sosul: [so."sul] PF adj. pleasant smell of nearby
+running water, rain, moist vegetation
+spaw: [sp·aw] PF vtr. believe
+spä: [sp·æ] PF v. jump
+späpeng: [spæ."p·EN] PF vin. restore oneself (metaphorically)
+(derived from speng restore)
+spe’e: [sp·E."P·E] PF vtr. capture
+spe’etu: [spE."PE.tu] PF n. captive (derived
+from spe’e capture)
+speng: [sp·EN] PF vtr. restore
+spono: ["spo.no] PF n. island
+spule: ["sp·u.l·E] PF vtr. propel
+spulmokri: [spul."mok.Ri] PF n. telephone (derived
+from spule propel and mokri voice)
+spuwin: ["spu.win] PF adj. old, former nfp.
+spxam: [sp'am] PF n. mushroom, fungus
+spxin: [sp'in] PF adj. sick
+srak(e): ["sRak(E)] PF part. inter. marker for yes
+or no questions
+sran: [sRan] PF part., intj. yes (colloquial)
+srane: ["sRa.nE] PF part., intj. yes
+sraw: [sRaw] PF adj. painful
+srä: [sRæ] PF n. cloth; a piece of cloth woven on a
+loom
+srätx: [sR·æt'] PF vtr. annoy, bother
+sre+: [sRE] PF adp. before (time)
+sre’: [sREP] PF n. tooth
+27
+srefey: [sRE."f·Ej] PF vtr., vin. expect (c.w. from
+sre+ before and pey wait)
+srekamtrr: [sRE."kam.tr"
+] PF n. the time before
+noon (c.w. from sre before and kxamtrr midday)
+srekamtxon: [sRE."kam.t'on] PF n. before midnight
+(c.w. from sre before and kxamtxon
+midnight)
+srekrr: [sRE."kr
+"
+] PF adv. before, already, ahead of
+time (c.w. from sre before and krr time)
+srer: [sR·ER] PF vin. appear, materialize, come into
+view
+srese’a: [sRE.s·E."P·a] PF vtr. prophetize, prophesize,
+prophesy, predict (c.w. from sre+ before
+and tse’a see)
+sresrr’ong: [sRE.sr
+"
+."PoN] PF n. before dawn (c.w.
+from sre before and trr’ong dawn)
+sreton’ong: [sRE.ton."PoN] PF n. dusk, evening
+before sunset (c.w. from sre before and txon’ong
+night-fall)
+srew: [sR·Ew] PF vin. dance
+srey: [sREj] PF n. version
+srìn: [sR·In] PF vtr. transfer from one to another
+(rarely used without prefix)
+srok: [sRok^] PF n. bead (decorative)
+sru’: [sR·uP] PF vtr. crush, trample
+srung: [sRuN] PF n. help, assistance
+srung si: ["sRuN "s·i] PF vin. help (derived from
+srung help)
+srungsiyu: ["sRuN.si.ju] PF n. assistant, helper
+(derived from srung help)
+srungtsyìp: ["sRuN.
+>
+tsjIp^] PF n. helpful hint, tip
+(derived from srung help)
+starsìm: ["st·aR.s·Im] PF vtr. gather, collect
+stawm: [st·awm] PF vtr. hear
+stawmtswo: ["stawm.
+>
+tswo] PF n. (sense of) hearing
+(derived from stawm hear)
+stä’nì: ["st·æP.n·I] PF vtr. catch
+steftxaw: [st·E."ft'·aw] PF vtr. examine, check
+steng: [stEN] PF adj. similar
+steyki: [stEj."k·i] PF vtr. anger, make someone angry
+(derived from sti be angry and «eyk»
+causative infix)
+sti: [st·i] PF vin. anger (intransitive), be angry
+sto: [st·o] PF vtrm. refuse (to do something)
+stum: [stum] PF adv. almost
+stxeli: ["st'E.li] PF n. gift
+stxenu: ["st'E.nu] PF n. offer (c.w. from stxeli
+gift and lonu release)
+stxenutìng: ["st'E,nu,t·IN] PF vtr. offer (derived
+from stxenu offer, n.)
+stxong: [st'oN] PF adj. strange, unfamiliar, unknown
+sulìn: ["s·u.l·In] PF svin. be busy (positive sense),
+be engrossed in something one finds especially
+pleasant and energizing (derived from ’ìn be
+busy)
+sung: [s·uN] PF vtr. add
+sunu: ["s·u.n·u] PF vin. be pleasing or likeable,
+bring enjoyment
+sur: [suR] PF n. taste, flavor
+sutx: [s·ut'] PF vtr. track, follow
+swaw: [swaw] PF n. moment
+swawtsyìp: ["swaw.
+>
+tsjIp^] PF n. little moment,
+second (derived from swaw moment)
+swek: [swEk^] PF n. bar, rod, pole
+swey: [swEj] PF adj. best
+sweylu: ["swEj.l·u] PF v. should (derived from
+swey best and lu is)
+swirä: [swi."Ræ] PF n. creature
+swizaw: [swi."zaw] PF n. arrow
+swizawsena: [swi."zaw.sE.na] PF n. quiver (attached
+to ikran’s saddle) (c.w. from swizaw
+arrow and sähena carrier)
+swoa: ["swo.a] PF n. intoxicating beverage, or
+“spirits”
+swok: [swok^] PF adj. sacred
+swotu: ["swo.tu] PF n. sacred place
+syam: [sj·am] PF vtr. to smell (intentially)
+syanan: ["sja.nan] PF n. a single drop or series of
+smaller waterfalls occurring sequentially along
+a stream or series of pools (countable)
+syaw: [sj·aw] PF vin. call
+syay: [sjaj] PF n. fate
+syayvi: ["sjaj.vi] PF n. luck, chance (derived
+from syay fate)
+syä’ä: ["sjæ.Pæ] PF adj. bitter
+syeha: ["sjE.ha] PF n. breath
+syeha si: ["sjE.ha s·i] PF vin. breathe (derived
+from syeha breath)
+syen: [sjEn] PF adj. last, final
+syep: [sj·Ep^] PF vtr. trap
+syeprel: [sjEp."REl] PF n. camera (c.w. from syep
+trap and rel image)
+syo: [sjo] PF adj. light (physical weight),
+lightweight
+syon: [sjon] PF n. feature, trait, attribute, characteristic,
+point, aspect, facet, property
+28
+syor: [sj·oR] PF vin. relax, chill out
+syulang: ["sju.laN] PF n. flower
+syura: [sju."Ra] PF n. energy (physical or spiritual)
+syuratan: [sju."Ra.tan] PF,JC n. bioluminescence
+(c.w. from syura energy and atan light)
+syuve: ["sju.vE] PF n. food (collective noun, cannot
+be pluralised)
+T
+ta–: [ta] PF adp. from (locative), from (temporal
+sense with other time words)
+ta’em: [ta."PEm] PF adv. from above
+ta’leng: ["taP.lEN] PF n. skin
+ta’lengean: ["taP.lE.NE.an] PF adj. skin blue
+(c.w. from ta’leng skin and ean blue)
+tafkip–: [ta."fkip^] PF adp. from up among (c.w.
+from ta from and fkip– up among)
+tafral: [ta."fRal] PF adv. therefore, because of that
+takip–: [ta."kip^] PF adp. from among (c.w. from
+ta from and kip– among)
+takrra: [ta."kr
+"
+.a] PF conj. since (temporal) allomorph
+of akrrta (c.w. from krr time and ta
+from)
+takuk: ["t·a.k·uk^] PF vtr. strike
+talun–: [ta."lun] PF adp. because of, due to
+talun(a): [ta."lun(a)] PF conj. because, from the
+reason (c.w. from ta from and lun reason)
+tam: [t·am] PF vin., intj. that will suffice, that
+will do, OK
+tam tam: ["tam "tam] M intj. calm, be content,
+there there
+tangek: ["ta.NEk^] PF n. trunk (of a tree)
+tanhì: [tan."hI] PF n. star, bioluminescent freckle
+tare: ["t·a.R·E] PF vtr. connect, relate to, have a relationship
+with
+tarnioang: ["taR.ni.o.ang] PF n. predator animal
+(c.w. from taron hunt and ioang animal)
+taron: ["t·a.R·on] JC,PF vtr. hunt
+taronyu: ["ta.Ron.ju] JC,PF n. hunter (c.w. from
+taron hunt and –yu agent suffix)
+taronyutsyìp: ["ta.Ron.ju.
+>
+tsjIp^] PF n. little hunter
+(derived from taronyu hunter)
+tatep: ["t·a.t·Ep^] PF vtr. lose track, lose awareness
+of something
+tatlam: [tat."lam] PF adv. apparently (derived
+from lam seem)
+taw: [taw] PF n. sky
+taweyk(a): [ta."wEjk(a)] PF conj. because, based
+on the cause
+tawng: [t·awN] PF vin. duck, dive
+tawsyuratan: [taw.sju."Ra.tan] PF,LN n. aurora
+(c.w. from taw sky and syuratan
+(bio)luminescence)
+täftxu: [t·æ."ft'·u] PF vtr. weave
+täftxuyu: [tæ."ft'u.ju] PF n. weaver (derived
+from täftxu weave and –yu agent suffix)
+tätxaw: [t·æ."t'·aw] PF vin. return
+te: [tE] JC part. used in full names
+tel: [t·El] PF vtr. receive
+telem: [tE."lEm] PF n. cord
+tem: [t·Em] PF vin. shoot
+temrey: [tEm."REj] PF n. survival (derived from
+emrey survive)
+teng: [tEN] PF adj. same, equal
+tengfya: ["tEN.fja] PF conj. as, same way as (situational
+similarity) (c.w. from teng same, equal
+and fya’o path)
+tengkrr: [tEN."kr
+"
+] PF conj. while, same time as
+(c.w. from teng same, equal and krr time)
+teri–: [tE."Ri] PF adp. about, concerning
+terkup: ["t·ER.k·up^] PF vin. die
+teswotìng: [tE."swo.t·IN] PF vtr. grant (ii) (c.w.
+from tìng give)
+tete: ["tE.tE] PF adj. dull (as a blade)
+tewng: [tEwN] PF n. loincloth
+tewti: ["tEw.ti] PF intj. wow, expression of surprise
+and pleasure
+teya: [tE."ja] PF adj. full
+teya si: [tE."ja "s·i] PF vin. fill (with dative of
+thing filled) (derived from teya full)
+teynga: ["tEjN.a] PF n. that answer (contraction
+of tì’eyng a)
+teyngla: ["tEjN.la] PF n. that answer (agentive)
+(contraction of tì’eyng–ìl a)
+teyngta: ["tEjN.ta] PF n. that answer (patientive)
+(contraction of tì’eyng–it a)
+teyr: [tEjR] PF adj. white
+teyrpin: ["tEjR.pin] PF n. white (derived from
+teyr white)
+til: [til] PF n. joint, hinge
+tinan: ["ti.nan] PF n. reading (derived from inan
+read)
+29
+tirea: [ti."RE.a] PF n. spirit
+tireafya’o: [ti."RE.a.fja.Po] PF n. spirit path (c.w.
+from tirea spirit and fya’o path)
+tireaioang: [ti."RE.a.i.o.aN] PF n. spirit animal
+(c.w. from tirea spirit and ioang animal)
+tireapängkxo: [ti."RE.a.p·æN.k'·o] PF v. commune
+(c.w. from tirea spirit and pängkxo chat)
+tì’al: [tI.".Pal] PF n. wastefulness (derived from
+’al waste)
+tì’awm: [tI."Pawm] PF n. camping (derived
+from ’awm camp)
+tì’awm si: [tI."Pawm "s·i] PF vin. camp (derived
+from ’awm camp)
+tì’awpo: [tI."Paw.po] PF n. individuality (negative
+connotation), selfishness (derived from
+’awpo one individual)
+tì’efu: [tI."PE.fu] PF n. feeling (derived from
+’efu feel)
+tì’em: [tI."PEm] PF n. the art of cooking (derived
+from ’em cook)
+tì’eylan: [tI."PEj.lan] PF n. friendship (derived
+from ’eylan friend)
+tì’eyng: [tI."PEjN] PF n. answer, response (derived
+from ’eyng answer)
+tì’i’a: [tI."PiP.a] PF n. ending, conclusion (derived
+from ’i’a end)
+tì’i’avay: [tI."PiP.a.vaj] PF adv. until the end
+(c.w. from ’i’a end and vay until)
+tì’ipu: [tI."Pi.pu] PF n. humor (derived from
+’ipu humorous)
+tì’o’: [tI."PoP] PF n. fun, excitement (derived
+from ’o’ exciting)
+tì’ong: [tI."PoN] PF n. blooming, unfolding (derived
+from ’ong bloom)
+tìeyktan: [tI."Ejk.tan] PF,JC n. leadership (derived
+from eyktan leader)
+tìfe’ul: [tI."fE.Pul] PF n. worsening (in the general
+or abstract sense) (derived from fe’ul worsen)
+tìfkeytok: [tI."fkEj.tok^] PF n. state, condition,
+situation (derived from fkeytok exist)
+tìflä: [tI."flæ] PF n. success (in general) (derived
+from flä succeed)
+tìflrr: [tI."flr
+"
+] PF n. gentleness, tenderness (derived
+from flrr gentle)
+tìfmetok: [tI."fmE.tok^] PF n. test (derived from
+fmetok test)
+tìfmi: [tI."fmi] PF n. attempt (derived from fmi
+attempt)
+tìfnu: [tI."fnu] PF n. quiet, silence (derived from
+fnu quiet)
+tìfnunga’: [tI."fnu.NaP] PF adj. quiet (derived
+from fnu quiet) nfp.
+tìftang: [tI."ftaN] PF n. stopping, the glottal stop
+(derived from ftang stop)
+tìftang si: [tI."ftaN s·i] PF vin. stop (someone or
+something) (derived from tìftang stopping)
+tìftia: [tI.fti".a] PF n. study (derived from ftia
+study)
+tìftia kifkeyä: [tI.fti".a ki."fkE.jæ] PF n. science,
+the study of the physical world (c.w. from tìftia
+study and kifkey world)
+tìftxavang: [tI."ft'a.vaN] PF n. passion (derived
+from ftxavang passionate)
+tìftxey: [tI."ft'Ej] PF n. choice (derived from ftxey
+choose)
+tìftxulì’u: [tI.ft'u."lI.Pu] PF n. speech-making,
+public speaking (derived from fxtulì’u orate,
+give speech)
+tìfyawìntxu: [tI.fja.wIn."t'u] PF n. guidance
+(derived from fyawìntxu guide)
+tìfyeyn: [tI."fjEjn] PF n. ripeness, maturity, full
+fruition (derived from fyeyn ripe, mature)
+tìhawl: [tI."hawl] PF n. preparations, plan (derived
+from hawl prepare)
+tìhawnu: [tI."haw.nu] PF n. protection (derived
+from hawnu protect, shelter)
+tìhawnu si: [tI."haw.nu "s·i] PF vin. protect (derived
+from tìhawnu protection)
+tìhona: [tI."ho.na] PF n. cuteness, adorableness
+(derived from hona endearing)
+tìk’ìn: [tIk."PIn] PF n. free time, the absence of business
+(derived from ’ìn be busy)
+tìkakpam: [tI.kak."pam] PF n. deafness (derived
+from kakpam deaf )
+tìkakrel: [tI.kak."REl] PF n. blindness (derived
+from kakrel blind)
+tìkan: [tI."kan] PF n. aim, goal, purpose, target
+(derived from kan aim)
+tìkangkem: [tI."kaN.kEm] PF n. work (derived
+from kem action, deed)
+tìkangkem si: [tI."kaN.kEm "s·i] PF vin. work
+(derived from tìkangkem work)
+tìkangkemvi: [tI."kaN.kEm.vi] PF n. project, piece
+of work (derived from tìkangkem work)
+tìkanu: [tI."ka.nu] PF n. intelligence (derived
+from kanu smart)
+30
+tìkawng: [tI."kawN] PF n. evil (derived from
+kawng bad)
+tìkenong: [tI."kE.noN] PF n. example (derived
+from kenong model)
+tìketeng: [tI."kE.tEN] PF n. difference (c.w. from
+ke not and teng same)
+tìkin: [tI."kin] PF n. need (derived from kin
+need)
+tìkusar: [tI.ku."saR] PF n. teaching (the act) (derived
+from kar teach)
+tìkxey: [tI."k'Ej] PF n. incorrectness, mistakeness
+(derived from kxeyey mistake)
+tìkxey si: [tI."k'Ej "s·i] PF vin. mess up, foul, do
+wrong (derived from tìkxey incorrectness)
+tìlam: [tI."lam] PF n. appearance (derived from
+lam seem)
+tìlen: [tI."lEn] Prr n. event, happening (derived
+from len happen)
+tìlor: [tI."loR] PF n. beauty (derived from lor
+beautiful)
+tìm: [tIm] PF adj. low
+tìmal: [tI."mal] PF n. trustworthiness (derived
+from mal trustworthy)
+tìme’em: [tI."mE.PEm] PF n. harmony (general
+sense) (derived from me’em harmonious)
+tìmeyp: [tI."mEjp] PF n. weakness (derived
+from meyp weak)
+tìmll’an: [tI.ml
+"
+."Pan] PF n. acceptance (derived
+from mll’an accept)
+tìmok: [tI."mok^] PF n. abstract idea of a suggestion
+(derived from mok suggest)
+tìmuntxa: [tI.mun."t'a] PF n. mating, marriage
+(derived from muntxa mated)
+tìmweypey: [tIm."wEj.pEj] PF n. patience (derived
+from maweypey be patient)
+tìmwiä: [tIm."wi.æ] PF n. fairness, justice (derived
+from muiä proper, fair, right, justified)
+tìmyì: ["tIm.jI] PF n. low level (c.w. from tìm low
+and yì level)
+tìn: [tIn] PF n. activity that keeps one busy (derived
+from ’ìn be busy)
+tìng: [t·IN] PF vtr. give
+tìngay: [tI."Naj] PF n. truth (derived from ngay
+true)
+tìngäzìk: [tI."Næ.zIk^] PF n. difficulty, problem
+(derived from ngäzìk difficult)
+tìng lawr: [t·IN lawR] PF vin. sing wordlessly, give
+out a tune or melody (derived from lawr
+melody)
+tìng mikyun: ["t·IN "mik.jun] PF vin. listen (derived
+from tìng give and mikyun ear)
+tìng nari: ["t·IN "na.Ri] PF vin. look (derived
+from tìng give and nari eye)
+tìngong: [tI."NoN] PF n. lethargy, laziness (derived
+from ngong lazy)
+tìngop: [tI."Nop^] PF n. creation (derived from
+ngop create)
+tìng tseng: ["t·IN "
+>
+tsEN] PF vin. back down, give
+ground (derived from tìng give and tseng
+ground)
+tìno: [tI."no] PF n. thoroughness, attention to detail
+tìnomum: [tI."no.mum] PF n. curiosity (derived
+from newomum be curious)
+tìnui: [tI."nu.i] PF n. failure (abstract concept)
+(derived from nui fail, falter)
+tìoeyktìng: [tI."o.Ejk.tIN] PF n. explanation (derived
+from «eyk» cause (root)) (Pronounced
+[tI."wEjk.tIN] in casual speech)
+tìohakx: [tI.o."hak'] PF n. hunger (derived from
+ohakx hungry)
+tìomum: [tI."o.mum] PF n. knowledge (derived
+from omum know)
+tìpawm: [tI."pawm] PF n. question (derived
+from pawm ask)
+tìpähem: [tI."pæ.hEm] PF n. arrival (derived
+from pähem arrive)
+tìpängkxo: [tI.pæN."k'o] PF n. conversation, discussion
+(derived from pängkxo chat)
+tìpängkxotsyìp: [tI.pæN."k'o.
+>
+tsjIp^] PF n. little
+conversation (derived from tìpängkxo conversation)
+tìpe’un: [tI."pE.Pun] PF n. decision (derived
+from pe’un decide)
+tìprrte’: [tI."pr
+"
+.tEP] PF n. pleasure (derived
+from prrte’ pleasurable)
+tìran: [t·I."R·an] PF vin. walk
+tìrawn: [tI."Rawn] PF n. replacement, the act of
+replacing (derived from rawn replace)
+tìrengop: [tI."rE.Nop^] PF n. design (the act or art
+of designing (derived from rengop design)
+tìrey: [tI."REj] PF n. life (derived from rey live)
+tìrol: [tI."Rol] PF n. song (vocal) (derived from
+rol sing)
+tìronsrel: [tI."Ron.sREl] PF n. imagination (derived
+from ronsrelngop imagine)
+tìska’a: [tI.ska."Pa] PF n. destruction (derived
+from ska’a destroy)
+31
+tìsla’tsu: [tI."slaP.
+>
+tsu] PF n. description (derived
+from sla’tsu describe)
+tìslan: [tI."slan] PF n. support (emotional, social
+or personal support) (derived from slan support)
+ofp.
+tìsnaytx: [tI."snajt'] PF n. loss (derived from
+snaytx lose)
+tìso’ha: [tI."soP.ha] PF n. enthusiasm, having a
+good attitude (derived from so’ha be entusiastic
+about)
+tìsom: [tI."som] PF n. heat (derived from som
+hot)
+tìsop: [tI."sop^] PF n. journey (derived from sop
+travel)
+tìspe’e: [tI.spE."PE] PF n. capture (derived from
+spe’e capture)
+tìspxin: [tI."sp'in] PF n. the state of being ill, sickness
+(derived from spxin sick)
+tìsraw: [tI."sRaw] PF n. pain (derived from sraw
+painful)
+tìsraw seyki: [tI."sRaw sEj."k·i] PF vtr. hurt (someone
+or something) (c.w. from tìsraw pain
+and s«eyk»i make (causative))
+tìsraw si: [tI."sRaw "s·i] PF vin. hurt, be painful
+(derived from tìsraw pain)
+tìsrese’a: [tI."sRE.sE.Pa] PF n. prophecy (derived
+from srese’a prophetize)
+tìsteftxaw: [tI.stE."ft'aw] PF n. examination (derived
+from steftxaw examine)
+tìsti: [tI."sti] PF n. anger (derived from sti be
+angry)
+tìsung: [tI."suN] Lance n. addition, post script
+(P.S.) (derived from sung add)
+tìsyor: [tI."sjor] PF n. relaxation (derived from
+syor relax)
+tìtaron: [tI."ta.Ron] PF n. hunting (derived from
+taron hunt)
+tìterkup: [tI."tER.kup^] PF n. death (in abstract
+sense) (derived from terkup die)“Death is inevitable."
+tìtsan’ul: [tI."
+>
+tsan.Pul] PF n. improvement (in
+the general or abstract sense) (derived from
+tsan’ul improve)
+tìtslam: [tI."
+>
+tslam] PF n. understanding, intelligence
+(derived from tslam understand)
+tìtstew: [tI."
+>
+tstEw] PF n. courage, bravery
+tìtstewnga’: [tI."
+>
+tstEw.NaP] PF adj. courageous,
+brave (derived from tìtstew courage, bravery)
+nfp. (e.g. a brave deed)
+tìtstunwi: [tI."
+>
+tstun.wi] PF n. kindness (derived
+from tstunwi kind)
+tìtsunslu: [tI."
+>
+tsun.slu] PF n. possibility (derived
+from tsunslu may, be possible)
+tìtsyär: [tI."
+>
+tsjæR] PF n. rejection (derived from
+tsyär reject)
+tìtusaron: [tI.tu."sa.Ron] PF n. hunting (derived
+from taron hunt)
+tìtxanew: [tI."t'a.nEw] PF n. greed (derived
+from txanew greedy)
+tìtxen: [tI."t'En] PF n. awakeness, the state of waking
+(derived from txen awake)
+tìtxen si: [tI."t'En s·i] PF vin. to wake, to waken,
+wake up (derived from tìtxen awakeness)
+tìtxula: [tI."t'u.la] PF n. construction, constructed
+thing (derived from txula build)
+tìtxur: [tI."t'uR] PF n. strength, power (derived
+from txur strong)
+tìvawm: [tI."vawm] PF n. darkness (derived
+from vawm dark)
+tìväng: [tI."væN] PF n. thirst (derived from
+väng thirsty)
+tìve’kì: [tI.vEP."kI] PF n. hatred (derived from
+ve’kì hate)
+tìwan: [tI."wan] PF n. obfuscation, cover up (derived
+from wan hide)
+tìwäsul: [tI."wæ.sul] PF n. competition (derived
+from wäsul compete)
+tìwäte: [tI.wæ."tE] PF n. dispute, argument (derived
+from wäte argue)
+tìwew: [tI."wEw] PF n. coldness, cold (derived
+from wew cold)
+tìwusem: [tI.wu."sEm] PF n. fighting (derived
+from wem fight)
+tìyawn: [tI."jawn] PF n. love (derived from
+yawne beloved)
+tìyawr: [tI."jawR] PF n. correctness (derived
+from eyawr correct)
+tìyo’: [tI."yoP^] PF n. perfection (derived from
+yo’ be perfect)
+tìyora’: [tI.jo"RaP] PF n. victory, a win (derived
+from yora’ win)
+tìyusom: [tI.ju."som] PF n. eating (the act) (derived
+from yom eat)
+to: [to] PF part. comparative marker than (behaves
+like an adp.)
+tok: [t·ok^] PF vtr. be at, occupy a space
+tokx: [tok'] PF n. body
+32
+tolel: [to."lEl] PF intj. Eureka! I found it! I understand!
+(synonym: tslolam)
+toltem: [t·ol."t·Em] PF vtr. shoot
+tompa: ["tom.pa] PF n. rain
+tompameyp: [tom.pa."mEjp^] PF n. drizzle (derived
+from tompa rain and meyp weak)
+tomperwì: ["tom.pER.wI] PF n. sleet (derived
+from tompa rain and herwì snow)
+tompìva: ["tom.pI.va] PF n. raindrop (derived
+from tompa rain and ìlva drop)
+tor: [toR] PF adj. last, ultimate, terminal (derived
+from toruk last shadow)
+toruk makto: ["to.Ruk^ "mak.to] JC n. toruk rider
+(c.w. from toruk leonopteryx and makto
+ride)
+trr: [tr
+"
+] PF n. day
+trr’awve: [tr
+"
+."Paw.vE] PF n. Sunday (c.w. from
+trr day and ’awve first)
+trr’ong: [tr
+"
+."PoN] PF n. dawn, sunrise (c.w. from
+trr day and ’ong unfold)
+trr’ongmaw: [tr
+"
+."PoN.maw] PF n. dawn after
+sunrise (c.w. from trr’ong dawn and maw after)
+trram: [tr
+"
+."am] PF adv. yesterday (derived from
+trr day and ham previous)
+trray: [tr
+"
+."aj] PF adv. tomorrow (derived from
+trr day and hay next)
+trrkive: [tr
+"
+."ki.vE] PF n. Saturday (c.w. from trr
+day and kive seventh)
+trrmrrve: [tr
+"
+."mr
+"
+.vE] PF n. Thursday (c.w. from
+trr day and mrrve fifth)
+trrmuve: [tr
+"
+."mu.vE] PF n. Monday (c.w. from
+trr day and muve second)
+trrpeve: [tr
+"
+."pE.vE] PF inter. which day (derived
+from trr day and –pe interrogative marker
+and –ve ordinal number marker)
+trrpuve: [tr
+"
+."pu.vE] PF n. Friday (c.w. from trr
+day and puve sixth)
+trrpxeyve: [tr
+"
+."p'Ej.vE] PF n. Tuesday (c.w. from
+trr day and pxeyve third)
+trrtsìve: [tr
+"
+."
+>
+tsI.vE] PF n. Wednesday (c.w. from
+trr day and tsìve fourth)
+trrtxon: [tr
+"
+.t'on] PF n. the day and night cycle of
+Pandora (c.w. from trr day and txon night)
+tukru: [tuk."Ru] PF n. spear
+tul: [t·ul] PF vin. run
+tumpin: ["tum.pin] PF n. red, orange (derived
+from tun red, orange)
+tun: [tun] PF adj. red, orange
+tung: [t·uN] PF v. allow
+tungzup: [t·uN."z·up^] PF vtr. drop (c.w. from
+tung allow and zup fall)
+tup: [tup^] PF conj. instead of, rather than
+tupe: ["tu.pE] PF inter. who allomorph of pesu
+tut: [tut^] PF part. continuation marker
+tuté: [tu."tE] PF n. female (person) (derived from
+tute person)
+tutan: [tu."tan] PF n. male (person) (derived
+from tute person)
+tute: ["tu.tE] PF n. person
+tuteo: ["tu.tE.o] PF pn. somebody, someone (derived
+from tute person)
+tutsena: ["tut.sE.na] PF n. stretcher (c.w. from
+tute person and sähena carrier)
+tuvon: ["t·u.v·on] PF v. lean
+Ts
+tsa’u: ["
+>
+tsa.Pu] PF dem. that (thing) (c.w. from
+tsa that and ’u thing)
+tsafya: [>
+tsa."fja] PF adv. that way, like that (c.w.
+from tsa- that and fya’o way)
+tsa-hey: ["
+>
+tsa."hEj] ZS intj. expression of warning
+or frustration, ’crap!’, ’ah, hell!’
+tsaheyl si: [>
+tsa."hEjl "s·i] PF vin. bond with,
+establish a neural connection (derived from
+tsaheylu bond)
+tsaheylu: [>
+tsa."hEj.lu] JC,PF n. bond (neural connection)
+tsakem: ["
+>
+tsa.kEm] or [
+>
+tsa."kEm] PF dem. that
+(action) (derived from tsa- that and kem action)
+tsakrr: [>
+tsa."kr
+"
+] PF adv. then, at that time (derived
+from tsa- that and krr time)
+tsakrrvay: [>
+tsa."kr
+"
+.vaj] PF adv. until then, in the
+meantime (c.w. from tsakrr then and vay up
+to)
+tsal: [>
+tsal] PF pn. that, it (transitive subject)
+tsalsungay: [>
+tsal.su."Naj] PF adv. nevertheless,
+even so
+tsam: [>
+tsam] PF n. war
+tsamopin: ["
+>
+tsa.mo.pin] PF n. warpaint (c.w.
+from tsam war and ’opin color)
+33
+tsampongu: ["
+>
+tsam.po.Nu] PF n. war party (c.w.
+from tsam war and pongu party)
+tsamsiyu: ["
+>
+tsam.si.ju] PF n. warrior (derived
+from tsam si make war and –yu agent suffix)
+tsan’ul: ["
+>
+tsan.P·ul] PF vin. improve, get better
+(c.w. from siltsan good and ’ul increase)
+tsang: [>
+tsaN] PF n. a piercing
+tsap’alute: [>
+tsap."Pa.lu.tE] PF n. apology
+tsap’alute si: [>
+tsap."Pa.lu.tE "s·i] PF vin. apologise
+(apologize) (derived from tsap’alute apology)
+tsapo: ["
+>
+tsa.po] PF pn. that one (for people only)
+(c.w. from tsa– that and po he/she)
+tsaria: ["
+>
+tsa.Ri.a] PF pn., sbd. that (c.w. from
+tsa’u-ri that (topical) and a subordinator)
+tsat: [>
+tsat^] PF pn. that, it (as object)
+tsata: ["
+>
+tsa.ta] PF pn., sbd. that (c.w. from
+tsa’u-t that (patientive) and a subordinator)
+tsatseng: [>
+tsa."
+>
+tsEN] or ["
+>
+tsa.
+>
+tsEN] PF dem., n.
+there, that place (c.w. from tsa that and tseng
+place)
+tsatu: ["
+>
+tsa.tu] PF dem. that person (c.w. from
+tsa that and tute person)
+tsaw: [>
+tsaw] PF dem., pn. that, it (as intransitive
+subject)
+tsawa: ["
+>
+tsa.wa] PF pn., sbd. that (c.w. from
+tsa’u that (subjective) and a subordinator)
+tsawke: ["
+>
+tsaw.kE] PF n. sun
+tsawl: [>
+tsawl] PF adj. big (in size), tall ofp.
+tsawlhì’: [>
+tsawl."hIP] PF n. size (c.w. from tsawl
+big (in size) and hì’i small (in size))
+tsawl slu: ["
+>
+tsawl "sl·u] PF vin. grow (c.w. from
+tsawl big and slu become)
+tsawlultxa: [>
+tsawl.ul."t'a] PF n. large gathering,
+conference (c.w. from tsawl big and ultxa meeting)
+tsä’: [>
+ts·æP] PF v. squirt
+tse: [>
+tsE] PF part. well (conversation starter)
+tse’a: [>
+ts·E."P·a] PF vtr. see (physical sense)
+tse’atswo: [>
+tsE."Pa.
+>
+tswo] PF n. (sense of) sight,
+vision (derived from tse’a see)
+tseltsul: ["
+>
+tsEl.
+>
+tsul] PF n. whitewater rapids
+(countable, but only rarely)
+tsenga: ["
+>
+tsE.Na] PF conj. where, place where (derived
+from tseng place)
+tseng(e): ["
+>
+tsEN(E)] PF n. place
+tsengo: ["
+>
+tsE.No] PF pn. somewhere (derived
+from tseng place)
+tsengpe: ["
+>
+tsEN.pE] PF inter. where allomorph
+of peseng
+tseo: ["
+>
+tsE.o] PF n. art
+tsewtx: [>
+tsEwt'] PF adj. dirty
+tsim: [>
+tsim] PF n. source
+tsìk: [>
+tsIk] PF adv. suddenly, without warning
+tsìlpey: [>
+tsIl."pEj] PF n. hope (abstract idea) (derived
+from tìsìlpey hope)
+tsìng: [>
+tsIN] PF num. four
+tsìsyì: ["
+>
+ts·I.sy·I] PF vin. whisper
+tsìve: ["
+>
+tsI.vE] PF adj. fourth (ordinal) (derived
+from tsìng four)
+tskalep: ["
+>
+tska.lEp^] PF n. crossbow
+tsko: [>
+tsko] PF n. bow (weapon)
+tsko swizaw: ["
+>
+tsko swi."zaw] PF n. bow and arrow
+(c.w. from tsko bow and swizaw arrow)
+tskxaytsyìp: ["
+>
+tsk'aj.
+>
+tsjIp^] PF n. hail (derived
+from tskxepay ice)
+tskxe: [>
+tsk'E] PF n. rock, stone
+tskxekeng: ["
+>
+tsk'E.kEN] PF n. training, exercise
+tskxekeng si: ["
+>
+tsk'E.kEN "s·i] PF vin. exercise,
+train (derived from tskxekeng training)
+tskxepay: ["
+>
+tsk'E.paj] PF n. ice (derived from
+tskxe stone and pay water)
+tslam: [>
+tsl·am] PF vtr. understand
+tsleng: [>
+tslEN] PF adj. false
+tslolam: [>
+tslo."lam] PF intj. get it, I understand
+(derived from tslam understand and «ol»
+perfective aspect infix)
+tsmìm: [>
+tsmIm] PF n. track, trace (of animal or
+person)
+tsmuk: [>
+tsmuk^] PF n. sibling
+tsmukan: ["
+>
+tsmu.kan] PF n. brother (derived
+from tsmuk sibling)
+tsmuke: ["
+>
+tsmu.kE] PF n. sister (derived from
+tsmuk sibling)
+tsmuktu: ["
+>
+tsmuk.tu] PF n. sibling (derived
+from tsmuk sibling)
+tsngal: [>
+tsNal] PF n. cup
+tsngan: [>
+tsNan] PF n. meat
+tsngawpay: ["
+>
+tsNaw.paj] PF n. tears (c.w. from
+tsngawvìk cry and pay water)
+tsngawpayvi: ["
+>
+tsNaw.paj.vi] PF n. teardrop
+(c.w. from tsngawvìk cry and pay+vi water,
+with partitive marker)
+tsngawvìk: ["
+>
+tsN·aw.v·Ik^] PF vin. cry, weep
+tsnì: [>
+tsnI] PF sbd. that (function word) (with
+subjunctive verb in dependant clause)
+tsong: [>
+tsoN] PF n. valley
+34
+tsongropx: ["
+>
+tsoN.Rop'] PF n. hole, cavity, excavation
+with a bottom (visible or presumed) (c.w.
+from tsong valley and ropx hole)
+tsongtsyìp: ["
+>
+tsoN.
+>
+tsjIp] PF n. dimple (derived
+from tsong valley)
+tsopì: ["
+>
+tso.pI] PF n. lung
+tspang: [>
+tsp·aN] PF vtr. kill
+tsranten: ["
+>
+tsR·an.t·En] PF vin. matter, be of importance
+tsray: [>
+tsRaj] PF n. village
+tsre’i: ["
+>
+tsR·E.P·i] PF vtr. throw
+tsrul: [>
+tsRul] PF n. nest; protected area serving as
+the home of Pandoran fauna
+tstal: [>
+tstal] PF n. knife
+tstalsena: ["
+>
+tstal.sE.na] PF n. knife sheath (c.w.
+from tstal knife and sähena carrier)
+tstew: [>
+tstEw] PF adj. brave ofp.
+tstu: [>
+tstu] PF adj. closed, shut, overcast (for
+cloudy skies)
+tstunwi: ["
+>
+tstun.wi] PF adj. kind, thoughtful,
+considerate
+tstu si: ["
+>
+tstu "s·i] PF vin. close (derived from
+tstu closed)
+tstxo: [>
+tst'o] PF n. name
+tstxolì’u: ["
+>
+tst'o.lI.Pu] PF n. noun (c.w. from
+tstxo name and lì’u word)
+tsu’o: ["
+>
+tsu.Po] PF n. ability
+tsuksìm: ["
+>
+tsuk.sIm] PF n. chin
+tsuktswa’: [>
+tsuk."
+>
+tswaP] PF adj. forgettable (derived
+from tswa’ forget)
+tsukyom: [>
+tsuk."jom] PF adj. edible (derived
+from yom eat)
+tsulfä: [>
+tsul."fæ] PF n. mastery
+tsulfä si: [>
+tsul."fæ "s·i] PF vin. master (derived
+from tsulfä mastery)
+tsulfätu: [>
+tsul."fæ.tu] PF n. master of an art,
+craft, or skill, expert (derived from tsulfä
+mastery)
+tsulfätunay: [>
+tsul.fæ.tu."naj] PF n. near-master
+(derived from tsulfätu master)
+tsun: [>
+ts·un] PF vim. can, be able
+tsunslu: ["
+>
+ts·un.sl·u] PF vin. may, be possible
+(c.w. from tsun be able and slu become)
+tsurokx: [>
+ts·u."R·ok'] PF vin. rest
+tswa’: [>
+tsw·aP] PF vtr. forget
+tswayon: ["
+>
+tsw·aj.·on] PF vin. fly
+tswin: [>
+tswin] PF n. queue, braid
+tswintsyìp: ["
+>
+tswin.
+>
+tsjIp^] PF n. little queue (derived
+from tswin queue)
+tsyafe: ["
+>
+tsja.fE] PF adj. mild, moderate, comfortable
+tsyal: [>
+tsjal] PF n. wing
+tsyär: [>
+tsj·æR] PF vtr. reject
+tsyeym: [>
+tsjEjm] PF n. treasure; something rare
+and of great value
+tsyìl: [>
+tsjIl] PF vtr. climb, scale (pulling entire body
+up)
+tsyo: [>
+tsjo] PF n. flour
+tsyokx: [>
+tsjok'] PF n. hand
+tsyosyu: ["
+>
+tsjo.sju] PF n. food made from flour
+(c.w. from tsyo flour and syuve food)
+Tx
+txa’: [t'aP] PF adj. hard
+txal: [t'al] PF n. back (of the body)
+txampay: [t'am."paj] PF n. sea, ocean (c.w. from
+txan much and pay water)
+txampxì: [t'am."p'I] PF n. majority, most, large
+part (derived from txan much)
+txan: [t'an] PF adj. much
+txanatan: ["t'a.na.tan] PF adj. bright, vivid (c.w.
+from txan much and atan light)
+txanew: ["t'a.nEw] PF adj. greedy (c.w. from txan
+much and new want)
+txanfwerwì: [t'an."fwER.wI] PF n. blizzard (derived
+from txan much and hufwe+herwì
+wind+snow)
+txankrr: [t'aN."kr
+"
+] PF adv. for a long time (c.w.
+from txan much and krr time)
+txanro’a: [t'an."R·o.P·a] PF vin. be famous (c.w.
+from txan much and ro’a inspire awe or respect)
+txantompa: [t'an."tom.pa] PF n. rainstorm, heavy
+rain (c.w. from txan much and tompa
+rain)
+txantsan: ["t'an.
+>
+tsan] PF adj. excellent
+txantslusam: ["t'an.
+>
+tslu.sam] PF adj. wise (c.w.
+from txan much and tsl«us»am understand)
+txantstew: ["t'an.
+>
+tstEw] PF n. hero (c.w. from
+txan much and tstew brave)
+txantur: ["t'an.tuR] PF adj. powerful (c.w. from
+txan much and txur strong)
+35
+txantxew: [t'an."t'Ew] PF n. maximum (c.w.
+from txan much and txew limit, border, end)
+txantxewvay: [t'an."t'Ew.vaj] PF adv. maximally
+(derived from txantxew maximum)
+txanwawe: [t'an.wa."wE] PF adj. personally meaningful,
+significant (c.w. from txan much
+and wawe significance)
+txasom: ["t'a.som] PF adj. very hot (derived
+from txan much and som hot)
+txawew: ["t'a.wEw] PF adj. very cold (derived
+from txan much and wew cold)
+txay: [t'·aj] PF vin. be horizontal, lie flat
+txayo: ["t'a.jo] PF n. field, open terrain, plain
+txärem: ["t'æ.REm] PF n. bone
+txe’lan: [t'EP."lan] PF n. heart
+txele: ["t'E.lE] PF n. matter (subject)
+txen: [t'En] PF adj. awake
+txep: [t'Ep^] PF n. fire
+txepìva: ["t'E.pI.va] PF n. ash, cinder (derived
+from txep fire and ìlva flake)
+txeptseng: ["t'Ep.
+>
+tsEN] PF n. place where a fire
+is burning or has burned (c.w. from txep fire
+and tseng place)
+txeptsyìp: ["t'Ep.
+>
+tsjIp^] PF n. dear or cute little
+fire (derived from txep fire)
+txepvi: ["t'Ep.vi] PF n. spark (derived from txep
+fire)
+txew: [t'Ew] PF n. edge, brink, limit, border, end
+txewk: [t'Ewk^] PF n. club (weapon)
+txewm: [t'Ewm] PF adj. scary, frightening
+txewnga’: ["t'Ew.NaP] PF adj. having a limit, not
+without bounds, finite (c.w. from txew limit
+and nga’ contain)
+txey: [t'·Ej] PF v. halt
+txi: [t'i] PF n. hurry, hurriedness, frenzy
+txin: [t'in] PF adj. main, primary
+txintìn: ["t'in.tIn] PF n. occupation, primary role
+in society (c.w. from txin main and tìn activity
+that keeps one busy)
+txìm: [t'Im] PF n. butt, rear end, ass
+txìng: [t'·IN] PF vtr. leave, abandon
+txo: [t'o] PF conj. if
+txoa: ["t'o.a] PF n. forgiveness
+txokefyaw: ["t'o.kE.fjaw] PF conj. if not, or else,
+otherwise (c.w. from txo-ke-fya’o-’aw if not
+one path)
+txon: [t'on] PF n. night
+txon’ong: [t'on."PoN] PF,P rr n. night-fall, sunset,
+dusk, gloaming (c.w. from txon night and
+’ong unfold)
+txon’ongmaw: [t'on."PoN.maw] PF n. twilight,
+the time before dark, after sunset (c.w. from txon’ong
+sunset and maw after)
+txonam: [t'o."nam] PF adv. last night (derived
+from txon night and ham previous)
+txonay: [t'o."naj] PF adv. tomorrow night (derived
+from txon night and hay next)
+txonkrr: ["t'on.kr
+"
+] PF adv. at night (c.w. from
+txon night and krr time)
+txopu: ["t'o.pu] PF n. fear
+txopu si: ["t'o.pu "s·i] PF vin. be afraid (derived
+from txopu fear)
+txukx: [t'uk'] PF adj. deep (physically)
+txula: ["t'·u.l·a] PF vtr. build, construct
+txum: [t'um] PF n. poison
+txumnga’: ["t'um.NaP] PF adj. poisonous (derived
+from txum poison and nga’ contain)
+txur: [t'uR] PF adj. strong (physically)
+txurtel: ["t'uR.tel] PF n. rope (c.w. from txur
+strong and telem cord)
+U
+uk: [uk^] PF n. shadow (derived from toruk last
+shadow)
+ukxo: [u."k'o] PF adj. dry
+ulte: ["ul.tE] PF conj. and (clausal conjunction)
+ultxa: [ul."t'a] PF n. meeting
+ultxarun: [ul."t'a.R·un] PF vtr. encounter, meet
+by chance (ii) (c.w. from ultxa meeting and
+run find)
+ultxa si: [ul."t'a "s·i] PF vin. meet with someone
+intentionally (use hu with) (derived from ultxa
+meeting)
+ultxatu: [ul."t'a.tu] PF n. meeting participant
+(derived from ultxa meeting)
+um: [um] PF adj. loose
+unil: ["u.nil] JC n. dream
+uniltìrantokx: [u.nil.tI."Ran.tok'] JC,PF n. avatar,
+dreamwalker body (c.w. from uniltìranyu
+dreamwalker and tokx body)
+uniltìrantokxolo’: [u.nil.tI."Ran.tok'.o.loP] PF
+n. clan, or group of avatars (c.w. from uniltìrantokx
+avatar, dreamwalker body and olo’
+clan)
+36
+uniltìranyu: [u.nil.tI."Ran.ju] PF n. dreamwalker
+(c.w. from unil dream and tìranyu walker)
+unyor: [un."joR] PF adj. sweetly aromatic (a flowery
+or aromatic woody sort of smell; may also
+refer to some spices used in Na’vi cooking)
+uo–: ["u.o] PF adp. behind
+uran: ["u.Ran] PF n. boat
+utral: ["ut.Ral] PF n. tree
+utraltsyìp: ["ut.Ral.
+>
+tsjIp^] PF n. bush (derived
+from utral tree)
+uvan: [u."van] PF n. game
+uvan letokx: [u."van lE."tok'] n. physical or
+athletic game, sport (c.w. from uvan game
+and letokx physical)
+uvan si: [u."van "s·i] PF vin. play (a game) (derived
+from uvan game)
+V
+var: [v·aR] PF vim. to persist in a state, to continue
+to perform an action
+vawm: [vawm] PF adj. dark
+vawmpin: ["vawm.pin] PF n. dark color (derived
+from vawm dark)
+vawt: [vawt^] PF adj. solid, not hollow
+vay–: [vaj] PF adp. up to
+vaykrr: [vaj."kr
+"
+] PF conj. until (c.w. from vay–
+up to and krr time)
+vä’: [væP] PF adj. unpleasant to the senses, noisome
+väng: [væN] PF adj. thirsty
+ve’kì: [v·EP."k·I] PF vtr. hate
+ve’o: ["vEP.o] PF n. order (as opposed to disorder
+or chaos), organization
+vefya: ["vE.fja] PF n. system, process, procedure,
+approach (c.w. from ve’o order, organization
+and fya’o way, manner)
+velek: ["v·E.l·Ek^] PF vin. give up, surrender, concede
+defeat
+velke: ["vEl.ke] PF adj. chaotic, messy, disorganized,
+in shambles (c.w. from ve’o order, organization
+and luke without)
+venga’: ["vE.NaP] PF adj. organized, “on top of
+things” (c.w. from ve’o order, organization
+and nga’ contain)
+venu: ["vE.nu] PF n. foot
+venzek: ["vEn.zEk^] PF n. toe (c.w. from venu
+foot and zekwä finger)
+vewng: [v·EwN] PF vtr. look after, take care of, be
+responsible for
+vey: [vEj] PF n. food made from animal origin,
+flesh
+vezeyko: [vE.zEj."ko] PF vtr. put in order, organize
+(derived from vezo be in order)
+vezo: [vE."z·o] PF vin. be in order, be organized
+(c.w. from ve’o order and zo be as it should
+be)
+vin: [v·in] PF vtr. request, ask for
+vingkap: ["v·iN.k·ap^] PF vtr. occur to one, pop
+into one’s mind
+virä: [v·i."R·æ] PF v. spread, proliferate
+vitra: [vit."Ra] PF n. soul
+vll: [vl
+"
+] PF vin., vtr. indicate, point at
+vol: [vol] PF num. eight
+volve: ["vol.vE] PF adj. eighth (ordinal) (derived
+from vol eight)
+vospxì: [vo."sp'I] PF n. month (derived from
+vosìpxì twelfth and zìsìtä of a year)
+vospxìam: [vo.sp'I."am] PF n. last month (derived
+from vospxì month)
+vospxìay: [vo.sp'I."aj] PF n. next month (derived
+from vospxì month)
+vrrìn: ["v·r"
+.·In] PF svin. be busy (negative sense):
+be tired out and overwhelmed by an activity
+that’s keeping one busy (derived from ’ìn
+be busy)
+vrrtep: ["vr
+"
+.tEp^] PF n. demon
+vul: [vul] PF n. branch (of a tree)
+vur: [vuR] PF n. story
+vurvi: ["vuR.vi] PF n. summary, synopsis (derived
+from vur story)
+37
+W
+walak: ["wa.lak^] PF adj. energetic, active
+wan: [w·an] PF vtr. hide
+wawe: [wa."wE] PF n. meaning, importance, significance
+way: [waj] PF n. song (ancient, ceremonial)
+way a plltxe: [waj a pl"
+.t'E] PF ph. spoken poem
+(as a melodic recital) (derived from way sing
+(ceremonial register))
+way a rol: [waj a Rol] PF ph. sung poem (derived
+from way sing (ceremonial register))
+wayä aylì’u: [waj.æ ajlI.Pu] PF ph. words of a
+poem or lyrics of a song (derived from way
+sing (ceremonial register))
+way si: ["waj "s·i] PF vin. sing (derived from
+way song)
+waytelem: ["waj.tE.lEm] PF n. song cord (c.w.
+from way song and telem cord)
+wä+: [wæ] PF adp. against (as in: fight against)
+wäsul: ["wæ.s·ul] PF vin. compete
+wäte: [wæ."t·E] PF vtr. argue, dispute
+wätu: ["wæ.tu] PF n. opponent (derived from
+wä- against)
+wätx: [w·æt'] PF vtr. be bad at
+we’ay: ["wE.Paj] PF adj. sour
+wem: [w·Em] PF vin. fight
+wempongu: ["wEm.po.Nu] PF n. squad, military
+clan, battle party (c.w. from wem fight and
+pongu group)
+wew: [wEw] PF adj. cold
+weyn: [w·Ejn] PF vtr. draw, illustrate
+win: [win] PF adj. fast
+win säpi: ["win sæ."p·i] PF vin. hurry (c.w. from
+win fast and s«äp»i do (reflexive))
+win si: ["win "s·i] PF vin. rush something, make
+something fast (derived from win fast)
+wip: [wip^] PF adj. salty
+wiya: ["wi.ja] ZS intj. expression of warning or
+frustration, ’damn!’
+wìntxu: [w·In."t'·u] PF vtr. show
+wo: [w·o] PF vtr. reach for
+wok: [wok^] PF adj. loud
+wokau: [wok."a.u] JC,PF n. pendulum drum
+(c.w. from wok loud and au drum)
+wotx: [wot'] PF n. totality, whole
+wrrpa: ["wr
+"
+.pa] PF n., adv. outside
+wum: [wum] PF adv. approximately, roughly
+wur: [wuR] PF adj. cool, chilly
+wutso: ["wu.
+>
+tso] PF n. dinner, served meal
+Y
+ya: [ja] PF n. air
+yafkeyk: ["ja.fkEjk^] PF n. weather (derived
+from fkeytok exist)
+yak: [jak^] PF n. fork, branch, point of divergence
+yak si: [j·ak^ s·i] PF vin. diverge, change direction,
+go astray (derived from yak point of divergence)
+yapay: ["ja.paj] PF n. mist, fog, steam (c.w. from
+ya air and pay water)
+yawne: ["jaw.nE] PF adj. beloved
+yawnetu: ["jaw.nE.tu] PF n. loved one (derived
+from yawne beloved)
+yawntu: ["jawn.tu] PF n. loved one (derived
+from yawne beloved)
+yawnyewla: [jawn."jEw.la] PF n. broken heart,
+broken heartedness (c.w. from yawne beloved
+and yewla disappointment)
+yawo: [ja."w·o] PF vin. take off, launch (c.w.
+from ya air and wo reach for)
+yayayr: [ja."jajR] PF n. confusion
+yayayrnga’: [ja."jajR.NaP] PF adj. confusing (derived
+from yayayr confusion)
+yayayrtsim: [ja."jajR.
+>
+tsim] PF n. something confusing,
+source of confusion (c.w. from yayayr
+confusion and tsim source)
+yaymak: ["jaj.mak^] PF adj. foolish, ignorant
+yayo: ["ja.jo] PF n. bird (c.w. from ya air and
+ioang animal)
+yayotsrul: ["ja.jo.
+>
+tsRul] PF n. bird’s nest (c.w.
+from yayo bird and tsrul nest)
+yän: [j·æn] PF vtr. fasten, tie down
+ye: [jE] PF adj. satisfied, content, satiated, full
+ye’krr: ["jEP.kr
+"
+] PF adv. early (derived from
+ye’rìn soon and krr time)
+ye’rìn: ["jEP.RIn] PF adv. soon
+yehakx: ["jE.hak'] PF adj. satisfied from hunger,
+full (derived from ye full and ohakx hungry)
+yem: [j·Em] PF vtr. put, place
+yemfpay: [jEm."fpaj] PF n. dipping, immersion
+(into liquid) (c.w. from yem put and pay wa-
+38
+ter)
+yemfpay si: [jEm."fpaj "s·i] PF vin. dip into
+liquid (derived from yemfpay dipping)
+yemstokx: ["j·Em.stok'] PF vtr. put on (clothing),
+don (c.w. from yem sìn put on and tokx
+body)
+yeväng: ["jE.væN] PF adj. satisfied from thirst by
+drink, feeling quenched, slaked (derived from
+ye satisfied and väng thirsty)
+yewla: ["jEw.la] PF n. disappointment, emotional
+let-down, failed expectation
+yey: [jEj] PF adj. straight
+yeyfya: ["jEj.fja] PF n. straight line (derived
+from yey straight and fya’o path)
+yì: [jI] PF n. shelf, ledge, level, step, rung (Can also
+be used metaphorically to refer to the level
+of anything scalable - anything that can
+have levels or degrees, highs and lows, water
+level, temperature, talent, anger, etc.)
+yìm: [j·Im] PF vtr. bind
+yll: [jl
+"
+] PF adj. communal
+ylltxep: ["jl
+"
+.t'Ep^] PF n. communal fire or fire pit
+(c.w. from yll communal and txep fire)
+yo: [jo] PF n. surface
+yo’: [j·oP^] PF svin. be perfect, flawless
+yo’ko: ["joP.ko] PF n. circle (derived from yo’
+perfect and ko’on ring)
+yoa–: ["jo.a] PF adp. in exchange for
+yol: [jol] PF adj. short (of time)
+yom: [j·om] PF vtr. eat
+yomtìng: ["jom.t·IN] PF vin. feed (with dative object)
+(ii) (c.w. from yom eat and tìng give)
+yora’: [jo·."R·aP] PF vtr. win
+yora’tu: [jo."RaP.tu] PF n. winner (derived from
+yora’ win)
+yrr: [jr
+"
+] PF adj. wild, natural (something in its
+original, unmodified, untampered-with natural
+state)
+yrrap: ["jr
+"
+.ap^] PF n. storm (derived from ya air
+and hrrap danger)
+yuey: ["ju.Ej] PF adj. beautiful (inner beauty)
+ofp.
+yune: ["j·u.n·E] PF vtr. listen to (intentionally)
+yur: [j·uR] PF vtr. wash
+Z
+za’ärìp: [za."P·æ.R·Ip^] PF vtr. pull (derived
+from ’ärìp move)
+za’u: ["z·a.P·u] PF vin. come
+zam: [zam] PF num. sixty four
+zamunge: [za."m·u.N·E] PF vtr. bring (derived
+from munge bring)
+zapxì: [za."p'I] PF n. front (part or section) (derived
+from hapxì part)
+zare’: [za."REP] PF n. forehead, brow (c.w. from
+zapxì front and re’o head)
+zasrìn: [za."sR·In] PF vtr. borrow (derived from
+srìn temporarily transfer from one to another)
+zawng: [z·awN] PF vin. scream
+zäfi: ["zæ.fi] PF adj. modified, interfered with, no
+longer in a natural state
+zekwä: ["zEk.wæ] PF n. finger
+zel: [zEl] PF adv. then (counterfactual use)
+zene: ["z·E.n·E] PF vim. must
+zenke: ["z·EN.kE] PF vim. must not (ii) (c.w.
+from zene must and ke not)
+zerok: ["z·E.R·ok^] PF vtr. remember
+zeswa: ["zE.swa] PF n. grass
+zeswavi: ["zE.swa.vi] PF n. blade of grass (derived
+from zeswa grass)
+zet: [z·Et^] PF vtr. treat (emotionally), display an
+attitude towards
+zey: [zEj] PF adj. special, distinct
+zeyko: [zEj."k·o] PF vtr. heal, fix (derived from
+zo be well and «eyk» causative infix)
+zir: [ziR] PF n. touch, feel, texture
+zìm: [z·Im] PF vtr. feel (not intentially)
+zìma’uyu: [zI."ma.Pu.ju] PF n. newcomer, someone
+who has just arrived on the scene
+zìmtswo: ["zIm.
+>
+tswo] PF n. (sense of) touch (derived
+from zìm touch)
+zìsìkrr: ["zI.sI.kr
+"
+] PF n. season (derived from
+zìsìt year and krr time)
+zìsìt: ["zI.sIt^] PF n. year
+zìsìtay: ["zI.sIt.aj] PF n. next year (derived from
+zìsìt year)
+zo: [z·o] PF svin. be well, be intact, be as it should
+be, work correctly or as nature intended
+zong: [z·oN] PF v. save, defend
+zongtseng: ["zoN.
+>
+tsEN] PF n. safe place, refuge
+(c.w. from zong save and tseng place)
+39
+zoplo: [zop."lo] PF n. offence, insult
+zoslu: ["zo.sl·u] PF vin. heal, become well, get fixed
+(ii) (c.w. from zo be well and slu become)
+zun: [zun] PF conj. if (counterfactual use)
+zup: [z·up^] PF vin. fall
+zusawkrr: [zu."saw.kr
+"
+] PF n. future (c.w. from
+z«us»a’u coming and krr time)
+40
+A The Number System
+The following are charts of Na’vi numbers, which are adjectives that modify nouns in their
+singular form, like ’awa tute. Note that it is not a decimal, but an octal system. Underlining
+indicates where the stress ought to fall. The numbers 8 and 9 are included for terrestrial number
+reference, such as in phone numbers. They do not signify the value of 8 or 9.
+Note that when using numbers in conversational Na’vi, Dr. Frommer has introduced a
+grammatical rule, called “the Koren Holpxayä”, or “the Number Principle”, which states that
+in referring to the same entity, express number only once per clause. For example, the sentence “You
+two are teachers.” in Na’vi would be “Menga lu karyu.” and the sentence “They are teachers.”
+would be “Fo lu karyu.”.
+Na’vi Numbers: 0 – 39
+0 1 2 3 4
+0 kew vol mevol pxevol tsìvol
+1 ’aw volaw mevolaw pxevolaw tsìvolaw
+2 mune vomun mevomun pxevomun tsìvomun
+3 pxey vopey mevopey pxevopey tsìvopey
+4 tsìng vosìng mevosìng pxevosìng tsìvosìng
+5 mrr vomrr mevomrr pxevomrr tsìvomrr
+6 pukap vofu mevofu pxevofu tsìvofu
+7 kinä vohin mevohin pxevohin tsìvohin
+Na’vi Numbers: 40 – 63
+5 6 7
+0 mrrvol puvol kivol
+1 mrrvolaw puvolaw kivolaw
+2 mrrvomun puvomun kivomun
+3 mrrvopey puvopey kivopey
+4 mrrvosìng puvosìng kivosìng
+5 mrrvomrr puvomrr kivomrr
+6 mrrvofu puvofu kivofu
+7 mrrvohin puvohin kivohin
+Ordinal Numbers
+Number + -ve
+0 – 8 volve
+1 ’awve 9 volawve
+2 muve 10 vomuve
+3 pxeyve 11 vopeyve
+4 tsìve 12 vosìve
+5 mrrve 13 vomrrve
+6 puve 14 vofuve
+7 kive 15 vohive
+More Na’vi Numbers:
+x1 combining x8 x64 x512 x4096
+1 ’aw -aw vol zam vozam zazam
+2 mune -mun mevol mezam mevozam mezazam
+3 pxey -pey pxevol pxezam pxevozam pxezazam
+4 tsìng -sìng tsìvol tsìzam tsìvozam tsìzazam
+5 mrr -mrr mrrvol mrrzam mrrvozam mrrzazam
+6 pukap -fu puvol puzam puvozam puzazam
+7 kinä -hin kivol kizam kivozam kizazam
+41
+Example Number
+zamtsìvosìng zam + tsìvo + sìng 64 + 48 + 4 100
+Non-Na’vi Numbers
+8 ’eyt 9 nayn
+B Time
+Here is a list of the Pandoran times of the day, as well as names made for the terrestrial week.
+Stress is again shown with underlining.
+Trrtxon
+trr’ong dawn
+trr’ongmaw after dawn
+rewon morning
+srekamtrr before noon
+kxamtrr noon
+kxamtrrmaw after noon
+ha’ngir early afternoon
+kaym late afternoon
+sreton’ong before nightfall
+txon’ong nightfall
+txon’ongmaw after nightfall
+txon night
+srekamtxon before midnight
+kxamtxon midnight
+kxamtxomaw after midnight
+txon night
+sresrr’ong before dawn
+trr’ong dawn
+Days of the TerrestrialWeek
+Sunday trr’awve
+Monday trrmuve
+Tuesday trrpxeyve
+Wednesday trrtsìve
+Thursday trrmrrve
+Friday trrpuve
+Saturday trrkive
+C Na’vi LoanWords
+’Ìnglìsì: ["PIN.lI.sI] PF n. English language (loaned
+from Eng. English)
+’Rrta: ["Pr
+"
+.ta] PF,P rr prop.n. Earth (loaned
+from Eng. Earth)
+Europa: [E.u."Ro.pa] PF prop.n. Europe (loaned
+from Greek Europe)
+ewro: ["Ew.Ro] PF n. euro (loaned from Eng. euro)
+hametsì: [ha.mE.
+>
+tsI] PF n. leavened bread (loaned
+from Hebrew chametz)
+Jakesully: [ZEjk'su:l
+"
+i] M n. moron, toruk maktoyu
+(loaned from Eng. Jake Sully) (not normally
+allowable under Na’vi phonotactic
+rules)
+kunsìp: ["kun.sIp^] PF n. gunship (loaned from
+Eng. gunship)
+lì’upuk: ["lI.Pu.puk^] PF n. dictionary (loaned
+from Na’vi / Eng. word book)
+LosÄntsyelesì: [los."ants
+"
+JE.lE.sI] PF pn. Los
+Angeles (loaned from Eng. Los Angeles)
+matsa: [ma.
+>
+tsa] PF n. matsa, crackers (loaned
+from Hebrew matsa)
+nìFranse: [nI."fRan.sE] PF adv. French, in French
+(loaned from Eng. French)
+nìToitsye: [nI."to.i.tsjE] PF adv. German,
+Deutsch (loaned from Deutsch German)
+nìTsyungwen: [nI."
+>
+tsjuN.wEn] PF adv. Zhongwen
+(loaned from Mandarin Chinese
+Zhongwen)
+42
+Pari: [pa.Ri] PF prop.n. Paris (loaned from
+French Paris)
+paynäpll: ["paj.næ.pl"
+] PF n. pineapple (loaned
+from Eng. pineapple)
+päsketpol: [pæ.skEt.pol] PF n. basketball (loaned
+from Eng. basketball)
+pätsì: ["pæ.
+>
+tsI] PF n. badge (loaned from Eng.
+badge)
+pìlok: [pI."lok^] PF n. blog (loaned from Eng.
+blog)
+postì: ["po.stI] PF n. (forum/blog) post (loaned
+from Eng. post)
+puk: [puk^] PF n. book (loaned from Eng. book)
+puktsyìp: ["puk.
+>
+tsjIp^] PF n. pamphlet, booklet
+(derived from puk book)
+pxir: [p'iR] PF n. beer (loaned from Deutsch bier)
+skxaypxe: ["sk'aj.p'E] PF n. Skype (loaned from
+English Skype)
+Sweriye: [swERijE] PF prop.n. Sweden
+tawsìp: ["taw.sIp^] PF n. sky-ship (loaned from
+Eng. ship)
+tìreyn: [+tI."REjn] PF n. train (loaned from Eng.
+train)
+Toitslan: ["to.i.
+>
+tslan] PF prop.n. Germany (loaned
+from German Deutschland)
+Toitsye: ["to.i.
+>
+tsjE] PF adj. German (language)
+(loaned from German Deutsch)
+toktor: ["tok.toR] PF n. doctor (loaned from
+Eng. doctor)
+tsyänel: [>
+tsjæ.nEl] PF n. TV channel (loaned
+from Eng. channel)
+tsyìräfì: [>
+tsjI.Ræ.fI] PF n. giraffe (loaned from
+Eng. giraffe)
+tsyoklìt: ["
+>
+tsjok.lIt^] PF n. chocolate (loaned
+from Eng. chocolate)
+txolar: ["t'o.lar] PF n. dollar (loaned from Eng.
+dollar)
+wou: ["w·o.·u] PF svin. be amazing, fascinating
+(slang) (loaned from Eng. whoa)
+Yeysu: [jEj.su] PF prop.n. Jesus (loaned from
+Italian Jesu)
+Yuesey: [ju.E.sEj] PF prop.n. U.S.A. (loaned
+from Eng. U.S.A.)
+43
+D Na’vi Proper Nouns
+Akwey: [ak."wEj] JC prop.n. male Na’vi
+Amhul: [am."hul] PF prop.n. female Na’vi
+Ateyitan: [a.tEj.i.tan] JC prop.n. son of Ateyo
+(derived from Ateyo male name and ’itan
+son)
+Ateyo: [a."tE.jo] JC prop.n. male Na’vi
+ayRam aLusìng: [aj."Ram a.lu."sIN] PF prop.n.
+the Floating Mountains (c.w. from ram
+mountain and lìng hover)
+ayVitrayä Ramunong: [aj.vit."Ra.jæ Ra."mu.noN]
+JC prop.n.Well of Souls (c.w. from vitra soul
+and ramunong well)
+Änsìt: ["æn.sIt^] PF prop.n. male Na’vi
+Entu: ["En.tu] PF prop.n. male Na’vi
+Eytukan: ["Ej.tu.kan] JC prop.n. male leader of
+the Omatikaya
+Eywa: ["Ej.wa] JC prop.n. world spirit, Gaia (derived
+from Proto-Indo-European *aiw) RL
+Eywa’eveng: [Ej.wa."PE.vEN] JC,PF prop.n.
+Pandora (informal pronunciation [Ej."wE.vEN])
+(c.w. from Eywa Gaia and ’eveng child)
+Iknimaya: ["ik.ni."ma.ja] JC prop.n. Stairway to
+Heaven, the rite of passage for young Na’vi
+Ìstaw: [I."staw] PF prop.n. male Na’vi
+Kamun: ["ka.mun] PF prop.n. male Na’vi (affectionate
+form Kamtsyìp)
+Kelutral: ["kEl.ut.Ral] PF prop.n. Hometree (c.w.
+from kelku home and utral tree)
+Lì’ona: [lI.Po.na] G,PF prop.n. a clan
+Loak: ["lo.ak^] PF prop.n. male Na’vi
+Mo’at: ["mo.Pat^] JC prop.n. tsahìk of the Omatikaya
+(also pronounced Moat)
+Mo’at’ite: [mo.Pat.Pi.tE] JC prop.n. daughter of
+Mo’at (derived from Mo’at a woman and ’ite
+daughter)
+Na’vi: ["naP.vi] PF prop.n. the People, indigenous
+Pandoran sentient race
+Newey: [nE."wEj] PF prop.n. female Na’vi
+Neytiri: [nEj.ti.Ri] JC prop.n. female Na’vi of the
+Omatikaya
+Ninat: [ni.nat^] JC prop.n. female singer of the
+Omatikaya
+Omatikaya: [o.ma.ti."ka.ja] JC prop.n. Blue
+Flute Clan
+Otranyu: [ot."Ran.ju] JC prop.n. name
+Peyral: [pEj."Ral] PF prop.n. female of the Omatikaya
+Ralu: ["Ra.lu] PF prop.n. male Na’vi
+Rini: ["Ri.ni] PF prop.n. female Na’vi
+Rongloa: ["RoN.lo.a] JC prop.n. a clan
+Seze: ["sE.zE] ZS prop.n. Neytiri’s banshee
+Silwanin: [sil.wa.nin] JC prop.n. Neytiri’s sister
+Sorewn: [so."REwn] PF prop.n. female Na’vi
+Swotulu: ["swo.tu.lu] PF prop.n. sacred river
+(derived from swotu sacred place)
+Tawtute: ["taw.tu.tE] PF prop.n. Sky-person,
+human (c.w. from taw sky and tute person)
+Tsahìk: ["
+>
+tsa.hIk^] JC prop.n. matriarch, high
+priestess, interpreter
+Tsenu: ["
+>
+tsE.nu] PF prop.n. female Na’vi
+Tskaha: ["
+>
+tska.ha] JC prop.n. a tribe or clan
+Tsu’tey: [>
+tsuP."tEj] JC prop.n. male of the Omatikaya
+Tsumongwi: [>
+tsu.moN.wi] JC prop.n. original
+name for the Omatikaya
+Tuke: ["tu.kE] PF prop.n. female Na’vi
+Txewì: ["t'E.wI] PF prop.n. male Na’vi
+Txilte: ["t'il.tE] PF prop.n. female Na’vi
+Uniltaron: [u.nil."ta.Ron] PF prop.n. Dream
+Hunt (c.w. from unil dream and taron hunt)
+Utral Aymokriyä: ["ut.Ral aj."mok.Ri.jæ] JC,PF
+prop.n. Tree of Voices (c.w. from utral tree
+and mokri voice)(from utraya mokri)
+Va’ru: ["vaP.Ru] PF prop.n. male Na’vi
+Vitrautral: [vit."Ra.ut.Ral] PF prop.n. Tree of
+Souls (c.w. from vitra soul and utral tree)
+44
+E Flora and Fauna
+Flora
+’ampirikx: ["Pam.pi.Rik'] PF n. leaf pitcher plant
+(c.w. from ’ampi touch and rikx move)
+’ä’o: ["Pæ.Po] PF n. pitcher plant
+’ele’wll: ["PE.lEP.wl
+"
+] PF n. thorny paw, cactus
+(derived from ’ewll plant)
+anìheyu: [a.nI."hE.ju] PF n. fibonacci, blue spiral
+plant (c.w. from ean blue and ’ìheyu spiral)
+apxangrr: [a."p'a.Nr
+"
+] PF n. delta tree (c.w. from
+apxa large and ngrr root)
+atokirina’: [a.to.ki."Ri.naP] JC n. seeds of the great
+tree
+awaiei: [a.wa.i."E.i] PF n. banshee of paradise
+eanean: ["E.an."E.an] PF n. cheadle, herbaceous
+plant (c.w. from ean blue)
+eyaye: [E."ja.jE] PF n. warbonnet
+fkxakewll: ["fk'a.kE.wl
+"
+] PF n. itch plant (c.w.
+from fkxake itch and ’ewll plant)
+flefle: ["flE.flE] PF n. Sol’s delight, magnetotrophic
+plant
+fngapsutxwll: ["fNap.sut'.wl
+"
+] PF n. metalfollowing
+plant (c.w. from fngap metal and
+sutx follow)
+fwäkìwll: ["fwæ.kI.wl
+"
+] PF n. mantis orchid (c.w.
+from fwäkì mantis and ’ewll plant)
+hìrumwll: [hI."Rum.wl
+"
+] PF n. puffer plant
+kllpxiwll: [kl
+"
+."p'i.wl
+"
+] PF n. lionberry (c.w. from
+kllte ground and pxiwll sharp plant)
+kxaylte: ["k'ajl.tE] PF n. cillaphant (derived
+from kxayl high)
+loreyu: [lo."RE.ju] PF n. helicoradian, beautiful
+spiral (c.w. from lor beautiful and ’ìheyu spiral)
+mìnyu: ["mIn.ju] PF n. turner, twisted lily (derived
+from mìn turn)
+mulpxar: [mul."p'aR] PF n. roosterhead plant
+pa’liwll: ["paP.li.wl
+"
+] PF n. direhorse pitcher plant
+(c.w. from pa’li direhorse and ’ewll plant)
+pamtseowll: ["pam.
+>
+tsE.o.wl
+"
+] PF n. cat ear, music
+plant (c.w. from pamtseo music and ’ewll
+plant)
+paywll: ["paj.wl
+"
+] PF n. water plant, dapophet
+(c.w. from pay water and ’ewll plant)
+penghrrap: [pEN."hr
+"
+.ap^] PF n. binary sunshine,
+fringed lamp (c.w. from peng tell and hrrap
+danger)
+pxayzekwä: [p'aj."zEk.wæ] PF n. spiny whips
+(c.w. from pxay many and zekwä finger)
+pxiut: ["p'i.ut^] PF n. razor palm, sharp tree (c.w.
+from pxi sharp and utral tree)
+pxiwll: ["p'i.wl
+"
+] PF n. hermit bud plant (c.w.
+from pxi sharp and ’ewll plant)
+pxorna’: ["p'oR.naP] PF n. episoth, exploding seed
+(c.w. from pxor explode and rina’ seed)
+pxorna’lor: ["p'oR.naP."loR] PF n. sari, beautiful
+exploding seed plant (c.w. from pxorna’ exploding
+seed and lor beautiful)
+rawp: [Rawp^] PF n. bladder polyp
+rumut: ["Rum.ut^] PF n. ball tree (c.w. from rum
+ball and utral tree)
+seze: ["sE.zE] PF,ZS n. blue flower
+smaoe: [sma."o.E] PF n. phalanxia, heavily thorned
+plant
+sngukx: [sNuk'] PF n. grub plant
+somtìlor: ["som.tI.loR] PF n. popsicle, hot beauty
+(c.w. from som hot and tìlor beauty)
+syeptute: ["sjEp.tu.tE] PF n. hyneman, person
+trapper (c.w. from syep trap and tute person)
+tautral: ["ta.ut.Ral] PF n. sky tree (c.w. from taw
+sky and utral tree)
+tawtsngal: ["taw.
+>
+tsNal] PF n. panopyra, sky cup
+(c.w. from taw sky and tsngal cup)
+tìhawnuwll: [tI."haw.nu.wl
+"
+] PF n. spartan, protection
+plant (c.w. from tìhawnu protection
+and ’ewll plant)
+tompawll: ["tom.pa.wl
+"
+] PF n. geode, rain plant
+(c.w. from tompa rain and ’ewll plant)
+torukspxam: ["to.Ruk.sp'am] PF n. octoshroom,
+great leonopteryx fungus (c.w. from toruk
+great leonopteryx and spxam mushroom)
+tsawlapxangrr: ["
+>
+tsawl.a.p'a.Nr
+"
+] PF n. unidelta
+tree, lit. tall large root (c.w. from tsawl big
+and ngrr root)(for short, tsawlapx)
+tstxa’a: ["
+>
+tst'a.Pa] PF n. canalyd
+tsyorina’wll: [>
+tsjo.Ri."naP.wl
+"
+] PF n. cycad, flour
+seed plant (c.w. from rina’ seed and ’ewll
+plant)
+txll’u: ["t'l
+"
+.Pu] PF n. hookagourd
+txumpaywll: ["t'um.paj.wl
+"
+] PF n. scorpion
+thistle, poison water plant (c.w. from txum
+poison and paywll water plant)
+45
+txumtsä’wll: [t'um."
+>
+tsæP.wl
+"
+] PF n. Baja tickler,
+poison-squirting plant (c.w. from tsä’ squirt
+and ’ewll plant)
+väfewll: ["væ.fE.wl
+"
+] PF n. Centipede, bad-smell
+plant (c.w. from vä’ unpleasant and fahew
+smell)
+värumut: ["væ.Ru.mut^] PF n. vein pod (c.w.
+from vä’ unpleasant and rum ball)
+yomhì’ang: [jom."hIP.aN] PF n. small animal/
+insect eater, dakteron (c.w. from yom eat
+and hì’ang insect)
+yomioang: [jom.i."o.aN] PF n. chalice plant (c.w.
+from yom eat and ioang animal)
+Fauna
+’angtsìk: ["PaN.
+>
+tsIk^] PF n. hammerhead
+eltungawng: ["El.tu.NawN] PF n. brainworm
+(c.w. from eltu brain and ngawng worm)
+fkio: ["fki.o] PF n. tetrapteron
+fpxafaw: ["fp'a.faw] PF n. medusa
+fwampop: ["fwam.pop^] PF n. tapirus
+fwäkì: ["fwæ.kI] PF n. mantis
+ikran: ["ik.Ran] JC n. banshee
+ikranay: [ik.Ra."naj] JC/PF n. forest banshee
+kali’weya: [ka.liP.wE.ja] ASG n. species of poisonous
+arachnid
+kenten: ["kEn.tEn] PF n. fan lizard
+nantang: ["nan.taN] JC,PF n. viperwolf Caniferratus
+costatus, striped armored wolf
+pa’li: ["paP.li] PF n. direhorse
+palulukan: [pa.lu."lu.kan] JC n. thanator (colloquial
+[pa."lu.kan])
+riti: ["Ri.ti] JC n. stingbat
+syaksyuk: [sjak."sjuk^] PF n. prolemuris
+talioang: ["tal.i.o.aN] JC n. sturmbeest (derived
+from ioang animal)
+teylu: ["tEj.lu] JC n. beetle larva
+toruk: ["to.Ruk^] JC n. great leonopteryx, last shadow
+yerik: ["jE.Rik^] PF n. hexapede
+zize’: [zi."zEP] PF n. hellfire wasp
+46
+F Useful Phrases
+These are some useful phrases. Often the word order can be changed, although the morphemes
+are probably invariable. We’ve included these not only to show instances where a phrase
+encapsulates a single semantic meaning, but also to illustrate set common constructions. For
+this reason we have also included some single words again here. Most of these are taken from
+Dr. Frommer’s blog at Naviteri.org. They’ve been included in no specific conversational order,
+but rather alphabetically.
+’awa swawtsyìp: [] PF ph. just a tiny moment, hold on a bit
+’efu ohakx: ["P·E.f·u o."hak'] PF ph. be hungry
+’ivong nìk’ong: [] PF ph. slow is fine
+’ìn nga fyape nìfkrr: [] PF ph. what’s been keeping you busy lately?
+aytele a ngeyä hapxìmì kifkeyä lu fyape?: [] PF ph. How are things in your part of the world?
+ätxäle pa(lu)lukanur: [æ."t'æ.lE pa."lu.ka.nuR] PF ph. Na’vi idiom: Ätxäle si palulukanur tsnì
+smarit livonu; “Ask a thanator to release it’s prey”, it’s a foregone conclusion
+etrìpa syayvi: ["Et.RI.pa "sjaj.vi] PF ph. good luck
+Eywa ngahu: ["Ej.wa "Na.hu] PF,JC ph. goodbye, Eywa (be) with you
+fìpor syaw fko Ìstaw: [] PF ph. this is Ìstaw
+fnu, ma ’evi. Sa’nur leru hawtsyìp. Tsivurokx ko.: [] PF ph. Quiet, young one. Mommy is taking
+a nap. Let her rest.
+ftia oel lì’fyati leNa’vi nì’o’ nìwotx: [] PF ph. studying Na’vi is a ton of fun for me!
+ftxey...fuke: [ft'Ej fu."kE] PF ph. whether...or (derived from ftxey whether and fuke or not)
+fwa kan ke tam; zene swizawit livonu.: [] LN,PF ph. Na’vi proverbial phrase: To aim is not
+enough; one must release the arrow.; Intent is not enough; it’s action that counts.
+fwäkì ke fwefwi: ["fwæ.kI kE "fw·E.fw·i] PF ph. Na’vi idiom: “a mantis doesn’t whistle”, it’s against
+someone’s or something’s nature
+fyape fko syaw ngar?: ["fja.pE fko sj·aw NaR] PF ph. what are you called, what is your name
+hayalo ta oe (oeta): [ha."ja.lo ta "o.E ("wE.ta)] PF ph. next time from me
+hayalovay: [ha."ja.lo.vaj] PF ph. until next time (c.w. from hayalo next time and vay- until)
+irayo: [i."Ra.jo] PF intj. thanks, thank you
+kaltxì: [kal."t'I] PF intj. hello (casual)
+kaltxì sivi, ma Ìstaw: [] PF ph. say hello, Ìstaw
+ka wotx: [ka wot'] PF ph. generally, for the most part (literally: across the totality)
+kea tìkin: ["kE.a tI."kin] PF ph. no need (for thanks)
+kefya srak: [kE."fja "sRak^] PF ph. isn’t that so? right? no?
+ke...kaw’it: [kE kaw."Pit^] PF ph. not...at all (derived from ke not and kaw’it at all)
+kem amuiä, kum afe’: [] PF ph. Na’vi proverbial phrase: Proper action, bad result (Said when
+something that should have turned out well didn’t)
+ke pxan: [kE p'an] PF ph. I’m not worthy
+ke tare: [kE "t·a.R·E] PF ph. It’s irrelevant; It doesn’t matter
+ke tslolam: [] PF ph. I didn’t get that, I didn’t understand
+ke zene win säpivi: [] PF ph. take your time, don’t rush
+kìyevame: [kI.jE."va.m·E] PF intj. good-bye, see you again soon
+krro krro: ["kr
+"
+.o "kr
+"
+.o] PF ph. at times, on occasion
+kunsìpìri txana tìmeyp lu tsyal a mìn.: [] PF ph. The gunship’s main weakness is the rotor system.
+kxetse sì mikyun kop plltxe: ["k'E.
+>
+tsE sI "mik.jun kop^ pl
+"
+."t'E] LN,PF ph. Na’vi proverbial phrase:
+the tail and ears also speak; body language is important
+47
+ma frapo, ayngaru oeyä tsmukit alu Newey: [] PF ph. everybody, please allow me to introduce (to
+you) my sister, Newey
+makto zong: ["mak.to zoN] PF ph. take care, travel safely
+ne kllte: ["nE "kl
+"
+.tE] PF ph. get down (c.w. from ne to and kllte ground)
+nga läpivawk nì’it nì’ul ko: [] PF ph. tell me a bit more about yourself
+nga läpivawk nìno ko: [] PF ph. tell me all about yourself
+nga pesuhu käteng nìtrrtrr: [] PF ph. who do you normally spend time with?
+ngari solalew polpxaya zìsìt: [] PF ph. how old are you?, how many years have you passed?
+ngari txe’lan mawey livu: ["Na.Ri t'EP."lan ma."wEj li."vu] PF ph. don’t worry, may your heart be
+calm
+ngaru lu fpom srak?: ["Na.Ru lu fpom sRak^] PF ph. How are you? are you well?
+ngaru lu pefnetxintìn nìtrrtrr: [] PF ph. what is your primary role in society?
+ngaru oeyä lertut: [] PF ph. allow me to introduce my colleague
+ngaru tsulfä: ["Na.Ru
+>
+tsul."fæ] PF ph. to your the mastery
+ngaru tut: ["Na.Ru tut^] PF ph. and to you? and you? (After a question with a dative subject)
+nga yawne lu oer: [Na "jaw.nE lu wER] PF ph. I love you, you are beloved to me
+nga zola’u ftu peseng: [] PF ph. where did you come from?
+ngenga lu tupe: [] PF ph. who are you?
+ngeyä kxetse lu oeru: ["NEj.æ "k'E.
+>
+tsE l·u "wE.Ru] PF,JC ph. Na’vi idiom: “your tail is mine!”,
+you’re going down!
+nìlun ayioi a’eoio ayeyktanä lu lor frato: [] PF ph. Of course the ceremonial wardrobes of the
+leaders are the most beautiful
+nìprrte’: [nI."pr
+"
+.tEP] PF adv. gladly, I did it with pleasure
+oe ’olongokx mì sray a txampayìri sim, slä set kelku si mì Helutral: [] PF ph. I was born in a
+town near the ocean, but I now live in Hometree
+oe irayo si ngaru: ["o.E i."Raj.o s·i "Na.Ru] PF ph. I give thanks to you, thank you
+oel ngati kameie: [wEl "Na.ti "ka.mE.i.E] PF ph. I see you, hello (familiar)
+oeri solalew zìsìt apxevol: [] PF ph. I am 24 years old
+oeru meuia: ["wE.Ru mE."u.i.a] PF ph. an honor to me, it was an honor
+oeru syaw (fko) Txewì: [] PF ph. my name is Txewì
+oeru teya si: ["wE.Ru tE."ja s·i] PF ph. fills me with satisfaction, joy
+oeru txoa livu: ["wE.Ru "t'o.a li."vu] PF ph. please forgive me, may forgiveness be to me
+oe tskxekeng si säsulìnur alu tsko swizaw: [] PF ph. I practice my hobby, which is archery
+oeyä txintìn lu fwa stä’nì fayoangit: [] PF ph. my central role in society is to catch fish
+pefya nga fpìl: [] PF ph. what do you think? (literally: how do you think?)
+pum ngeyä: [pum "NE.jæ] PF ph. yours, I should thank you
+rutxe läpivawk nì’it: [] PF ph. please talk a little bit about yourself
+rutxe liveyn: [] PF ph. could you repeat that please?
+rutxe tivìng mikyun, ma frapo: [] PF ph. Your attention, please, everyone!
+säfpìl asteng tìkan ateng: [] PF ph. Na’vi proverbial phrase: “Great minds think alike!”
+seykxel sì nitram: [sEj."k'El sI nit."Ram] PF ph. strong and happy!, congratulations
+smon nìprrte’: [smon nI."pr
+"
+.tEP^] PF ph. nice to know you
+srake fnan ngal lì’fyati leNa’vi: [] PF ph. are you good at Na’vi?
+srake smon ngar oeyä meylan alu Entu sì Kamun: [] PF ph. do you know my friends Entu and
+Kamun?
+srefereiey nìprrte’: [] PF ph. looking forward to it
+sre fwa sngap zize’: [] PF ph. as quickly as possible (Na’vi idiom: before the hellwasp stings)
+stum ke: [stum kE] PF ph. almost not (Note: Use instead of hardly, barely, or scarcely.)
+48
+taronyut yom smarìl: ["ta.Ron.jut j·om smaR.Il] PF ph. Na’vi idiom: “the prey eats the hunter”, a
+totally botched situation, chaos
+tì’efumì oeyä: [tI."PE.fu.mI "wE.jæ] PF ph. in my opinion
+tì’i’avay krrä: [tI."PiP.a.vaj "kr
+"
+.æ] PF ph. forever, until the end of time
+tì’o’ìri peu sunu ngar frato: [] PF ph. what is your favorite (favourite) way to have fun?
+tìk’ìnìri kempe si nga: [] PF ph. what do you do in your free time?
+tìkangkemìri varmrrìn oe nìwotx: [] PF ph. I was completely swamped at work
+tìkxey ngaru: [tI."k'Ej "Na.Ru] PF ph. you’re wrong
+tìomummì oeyä: [tI."o.mum.mI wE.jæ] PF ph. to my knowledge
+tìyawr ngaru: [tI."jawR "Na.Ru] PF ph. you’re right
+tokx eo tokx: ["tok' "E.o "tok'] PF ph. face to face, in person
+tsalì’uri alu X, ral lu ’upe: [] PF ph. what does X mean?
+tstunwi: ["
+>
+tstun.wi] PF adj. kind, that was kind of you to say
+tsun miväkxu hìkrr srak: [] PF ph. may I interrupt a moment?
+tsun nga law sivi nì’it srak: [] PF ph. could you make that a bit clearer?, could you explain that
+further?
+txìm a’aw ke tsun hiveyn mì tal mefa’liyä.: [] LN,PF ph. Na’vi proverbial phrase: One butt
+cannot sit on the backs of two direhorses.; You can’t take two positions or sit on the fence; you
+need to decide.
+txo ke nìyo’ tsakrr nìyol: [t'o kE nI."yoP
+>
+tsa."kr
+"
+nI."yol] PF ph. Na’vi proverbial phrase: “If you
+can’t be flawless, at least be brief"
+txon lefpom: [t'on lE."fpom] PF ph. good night, peaceful night
+X-(ì)ri peral: [] PF ph. what does X mean?
+X nìNa’vi (slu) pelì’u: [] PF ph. how do you say X in Na’vi?
+Yewla!: ["jEw.la] PF conv. Bummer! That’s a shame! What a shame!
+za’u nì’eng: ["za.Pu nI."PEN] PF ph. share an interest in common
+zola’u nìprrte’: [zol."a.P·u nI."pr
+"
+.tEP] PF ph. come pleasurably, welcome
+49
+G The Alphabet
+Kemaweyan, Plumps, Prrton, and Tirea Aean came up with a uniquely Na’vi way of listing and
+pronouncing the 33 phonemes (distinct sounds) in the language—20 consonants, 7 vowels, 2
+“pseudo-vowels” (ll, rr), and 4 diphthongs (aw, ay, ew, ey). Here is that list.
+The Alphabet
+’ tìFtang k KeK s Sä
+a A kx Kxekx t TeT
+aw AW l LeL tx TxeTx
+ay AY ll ’Ll ts Tsä
+ä Ä m MeM u U
+e E n NeN v Vä
+ew EW ng NgeNg w Wä
+ey EY o O y Yä
+f Fä p PeP z Zä
+h Hä px PxePx
+i I r ReR
+ì Ì rr ’Rr
+50
+H Inflections
+Verbal Infixes
+alm: [al.m] LN perfective past tense verbal infix in position 1 (PERF.PAST), derived from am +
+ol: Oe tsng«alm»awvìk. I wept.
+aly: [al.j] LN perfective future tense verbal infix in position 1 (PERF.FUT.), derived from ay + ol:
+Oe h«aly»angham. I will have laughed.
+am: [a.m] LN past tense verbal infix in position 1 (PAST.): Oe tsw«am»ayon. I flew.
+arm: [aR.m] LN imperfective past tense verbal infix in position 1 (IMPF.PAST.), derived from am
++ er: Oe tsng«arm»awvìk. I was weeping.
+ary: [aR.j] LN imperfective future tense verbal infix in position 1 (IMPF.FUT.), derived from ay
++ er: Oe h«ary»angham. I will be laughing.
+asy: [a.sj] PF future tense with intention or determination verbal infix in position 1 (FUT.D.):
+Oel tsp«asy»ang palulukanit. I will definitely kill the thanator.
+ats: [a.
+>
+ts] LN inferential, indicating uncertainty or indirect knowledge verbal infix in position
+2 (INFR.): Oel tsp«ats»ang poanit. I killed him (I think.)
+awn: [aw.n] PF passive participle verbal infix in position 1 (P.PART.): Oe t«awn»aron-a túte lu.
+I am a hunted person.
+ay: [a.j] LN future tense (predictive) verbal infix in position 1 (FUT.): Oel yerikit t«ay»aron. I
+will hunt the yerik.
+äng: [æ.N] LN pejorative affect verbal infix in position 2 (PEJ.): Oe sr«äng»ew. I dance (ugh!).
+Optionally, when «äng» occurs before the vowel i, the vowel of the infix may be raised,
+giving «eng». For example, Fìskxawngìri tsap’alute s«eng»i oe.
+äp: [æ.p] PF reflexive verbal infix the pre-first position (REFL.): Oe st«äp»eftxaw. I check myself.
+ei: [E.i] LN laudative affect verbal infix in position 2 (LAUD.): Oe sr«ei»ew. I dance (hooray!).
+er: [E.R] PF imperfective aspect verbal infix in position 1 (IMPF.): Oe t«er»ìran. I am walking.
+eyk: [Ej.k] PF causative verbal infix the pre-first position (CAUS.): Oel t«eyk»erkup pot. I caused
+him to die.
+ilv: [il.v] PF present perfective subjunctive verbal infix in position 1 (PRES.PER.SUBJ.): Oe new
+tsl«ilv»am. I want to understand.
+imv: [im.v] PF past subjunctive verbal infix in position 1 (PAST.SUBJ.): Oeyä swizaw nìngay
+timvakuk. May my arrow have struck true.
+irv: [iR.v] PF present imperfective subjunctive verbal infix in position 1 (PRES.IMPF.SUBJ.): Oe
+new tsl«irv»am. I want to be understanding.
+iv: [i.v] LN subjunctive mood verbal infix in position 1 (SUBJ.): Ngal new futa oe w«iv»em. You
+want this thing: for me to fight.
+iyev: [i.jE.v] PF future subjunctive verbal infix in position 1 (FUT.SUBJ.): Oel k«iyev»ame ngati.
+I will see you.
+ìlm: [Il.m] LN perfective recent past tense verbal infix in position 1 (PERF.REC.PAST.), derived
+from ìm + ol: Oe t«ìlm»ätxaw. I just now returned.
+ìly: [Il.j] LN perfective immediate future tense verbal infix in position 1 (PERF.IMM.FUT.), derived
+from ìy + ol: Oe h«ìly»ahaw. I will have slept soon.
+ìm: [I.m] LN recent past verbal infix in position 1 (REC.PAST.): Oe tsw«ìm»ayon. I just flew.
+ìrm: [IR.m] LN imperfective recent past tense verbal infix in position 1 (IMPF.REC.PAST.), derived
+from ìm + er: Oe t«ìrm»ätxaw. I was just now returning.
+ìry: [IR.j] LN imperfective immediate future tense verbal infix in position 1 (IMPF.IMM.FUT.),
+derived from ìy + er: Oe h«ìry»ahaw. I will be sleeping soon.
+51
+ìsy: [I.sj] PF immediate future tense with determination verbal infix in position 1 (IMM.FUT.D.):
+Oel tsp«ìsy»ang palulukanit. I will definitely kill the thanator soon.
+ìy: [I.j] LN immediate future tense verbal infix in position 1 (IMM.FUT.): Oel yerikit t«ìy»aron.
+I will hunt the yerik soon.
+ìyev: [I.jE.v] PF future subjunctive verbal infix in position 1 (FUT.SUBJ.): Oel k«ìyev»ame ngati.
+I will see you.
+ol: [o.l] PF perfective aspect verbal infix in position 1 (PERF.): Oe t«ol»ìran. I walked (finished
+action).
+us: [u.s] LN active participle verbal infix in position 1 (A.PART.): Oe t«us»aron-a túte lu. I am a
+hunting person.
+uy: [u.j] PF honorific (honourific) or ceremonial verbal infix in position 2 (HON.): Na’viyä,
+l«uy»u hapxì. You are part of The People.
+Noun Case Inflections
+–ä: [æ] PF genitive suffix for nouns ending in a everything but a, ä, e, i and ì (allomorph of yä)
+(GEN.): Oel yom ikranä yerikit. I eat the ikran’s yerik.
+–it: [it^] PF patientive suffix for nouns ending in a consonant, dipthong, or pseudo-vowel (allomorph
+of t, ti) (PAT.): Oel taron yerikit. I hunt the yerik.
+–ìl: [Il] PF agentive case suffix for nouns ending in a consonant, dipthong, or pseudo-vowel
+(allomorph of l) (ERG.): Ikranìl taron yerikit. The ikran hunts the yerik.
+–ìri: [IRi] PF topical suffix for nouns ending in a consonant, dipthong, or pseudo-vowel (allomorph
+of ri) (TOP.): Fìskxawngìri tsap’alute sengi oe. I apologise for this moron.
+–l: [l] LN agentive case for nouns ending in a vowel (ERG.): Oel taron yerikit. I hunt the yerik.
+–r: [R] LN dative suffix for nouns ending in a vowel (allomorph of –ru) (DAT.): eltur tìtxen si
+intriguing
+–ri: [Ri] PF topical for nouns ending in a vowel (TOP.): Ayngari zene hivum You must leave.
+–ru: [Ru] LN dative suffix for nouns ending in a vowel (allomorph of –ur) (DAT.): Oel syuvet
+ngaru tìng. I give food to you.
+–t: [t^] LN patientive suffix for nouns ending in a vowel (allomorph of it, ti) (PAT.): Oel ngat
+kame. I see you.
+–ti: [ti] LN patientive for pronouns and nouns (PAT.): Ngati taron torukìl. The toruk hunts you.
+–ur: [uR] PF dative suffix for nouns ending in a consonant, dipthong, or pseudo-vowel (allomorph
+of –ru) (DAT.): Ayeylanur oeyä. To my friends.
+–y: [j] PF genitive for pronouns ending in a or e (casual speech) (GEN.): Ngey toruk sìltsan lu.
+Your toruk is good.
+–ya: [ja] PF,M vocative suffix for collective nouns: Mawey, Na’viya. Calm, you Na’vi.
+–yä: [jæ] LN genitive suffix for nouns ending in a a, ä, e, i and ì (allomorph of ä) (GEN.): Oel
+yeiom Neytiriyä yerikit. I happily eat Neytiri’s yerik. (Causes vowel fronting of a in pronouns:
+may look like –eyä)
+Other Inflections
+This is a list of Na’vi morphemes that can attach to the word that changes some aspect of
+the meaning. Not all Na’vi inflections are productive. (pro.) indicates complete productivity,
+where they can be applied to any of the subset of words that Dr. Frommer has indicated they
+can modify, and would be canonical, even if unattested. They cannot be used on parts of speech
+that aren’t specified. All of the verbal infixes and case markers above are entirely productive.
+52
+–a–: [a] PF (pro.) adjectival attribution and subordination marker: Oel txantsana ikranit aean
+tswayon. I fly the excellent blue ikran.
+–an: [an] LN masculine suffix for certain nouns: Poan täftxuyu lu. He is a weaver.
+ay+: [aj] PF (pro.) plural for nouns (PL.): Ay+horen flä. The rules succeed.
+–e: [E] PF feminine suffix for certain nouns: Poe taronyu lu. She is a hunter.
+fay+: [faj] PF (pro.) these for nouns (THESE): Fayawkx tsawl lu. These cliffs are tall.
+fì–: [fI] PF (pro.) this for nouns (THIS): Oel kame fìnantangit. I see this viper-wolf.
+–fkeyk: [fkEjk^] PF (pro.) suffix for nouns meaning state, condition: Kilvanfkeyk lu fyape fìtrr?
+What’s the condition of the river today?
+fne–: [fnE] PF (pro.) kind, type for nouns (KIND): Fneutralpe tsa’u lu? What kind of tree is that?
+fra–: [fRa] PF (pro.) every deriving affix Oel kamame frapot. I saw everyone.
+fray+: [fRaj] PF (pro.) all of these plural for nouns (ALL OF THESE): Frayhelutral lor lu. All of
+these houses are beautiful.
+kaw–: [kaw] PF not one deriving affix Oe kawkrr ke kamä. I never went.
+–lo: [lo] PF multiplicative number suffix for ’aw, mune, pxey: ’Awlo oe ramol. Once I sang.
+me+: [mE] LN (pro.) dual for nouns (DU.): Oel new me+orati. I want two lakes.
+munsna–: [mun.sna] PF (pro.) pair for nouns (PAIR): munsnahawnven a pair of shoes
+–nay: [naj] PF (unpro.) creates a new noun that is related to the original by being a step down
+in some relevant heirarchy - size, rank, accomplishment, etc.: . .
+–o: [o] PF (pro.) indefinite suffix, durative suffix: Oel kalmame tuteot ayzìsìto. I saw someone
+for years.
+pay+: [paj] PF (pro.) plural inter. marker: Paystalit ngal tsrame’i? What knives did you throw?
+–pe+: [pE] LN (pro.) affix inter. marker: pe+hrr nga lrrtok sayi. What time (when) will you smile?
+pxe+: [p'E] PF (pro.) trial for nouns and pronouns (TRI.): Pxoeng Pxe+veng lu. We are three
+children. (Note that e + e cannot be together, and so ellision occurs, and that oe is a pronoun
+which often undergoes ellision)
+sna–: [sna] PF prefix group marker for nouns; pro. when referring to living things, unpro.
+otherwise. : snanantang a pack of viperwolves Note: sna- indicates naturally occurring groups
+or sets. Use sästarsìm to indicate a collection intentionally put together by a person.
+tsa–: [>
+tsa] PF (pro.) that for nouns (THAT): Oel tse’a tsanantangit. I see that nantang.
+tsay+: [>
+tsaj] PF (pro.) those for nouns (THOSE): Tsayora txukx lu. Those lakes are deep.
+–tsyìp: [>
+tsjIp^] PF (pro.) diminutive suffix for nouns, pronouns: Za’u fìtseng, ma ’itetsyìp.
+Come here, little daughter.
+–ve: [vE] PF (pro.) ordinal suffix for numbers: Koren a’awve tìruseyä ’awsiteng. The first rule
+of living together.
+–vi: [vi] PF partitive relationship marker: Oe nume mì numtsengvi. I learn in the classroom.
+Other Inflectional Morphology
+These derivational morphemes are different than the inflectional morphemes (in technical
+speak) above. In other words, the markers here don’t just change the meaning - they change
+the part of speech. Some of these, only Dr. Frommer can use in order to make a canonical word,
+like tì–. Others are productive for certain subsets, like –yu, which can go on any verb.
+ketsuk–: [kE.
+>
+tsuk^] PF (pro.) not able to (do the verb prefixed) deriving affix Swaw lamu
+ketsuktswa’ The moment was unforgettable
+le–: [lE] PF adjective deriving affix Poan lehrrap lu. He is dangerous.
+–nga’: [NaP^] PF adjective deriving affix ’Akra apaynga’ lu. It is moist soil.
+53
+nì–: [nI] LN adverbial deriving affix Oe nìNa’vi plltxe. I speak na’vi-ly. (Like a Na’vi.) (Pro. for
+adjectives only, unproductive for other forms - otherwise modify nìfya’o with appropriate
+adjective or relative clause)
+sä–: [sæ] PF instrumental noun deriving affix Sänumeri oe nume. I learn the teaching.
+si: [s·i] LN postpositional verb deriving affix Oe kelku si Kelutralmì. I live in Hometree. (lit. I
+home make in Hometree.)
+tì–: [tI] LN noun deriving affix Tìngay sìltsan lu. The truth is good.
+tì– –us–: [tI us] PF (pro.) gerund (verbal noun) deriving affix Tìkusar eltur tìtxen si. Teaching
+is interesting.
+tsuk–: [>
+tsuk^] PF (pro.) able to (do the verb prefixed) deriving affix Fìioang lu tsukyom. This
+animal is edible / can be eaten.
+–tswo: [>
+tswo] PF (pro.) suffix that changes a verb to a noun indicating the ability to perform
+the action of the verb: Pori wemtswo fratsamsiyur rolo’a nìtxan. His ability to fight greatly
+impressed all the warriors.
+–tu: [tu] PF person noun from non-verbal stem deriving affix Oe reltseotu lu. I am an artist.
+–yu: [ju] LN (pro.) agent noun deriving affix Oe kea ska’ayu ke lu. I am no destroyer.
+54
+I Non-FrommerianWords
+These are words that are not from Dr. Frommer: We have included them as they are in the
+extant corpus, but they are not to be regarded as Na’vi words. They are, for the most part, spurious
+inventions for the Activist’s Survival Guide, Pandorapedia, or the Avatar Game. None
+of these words were run by Dr. Frommer before being published, and the general consensus
+is that they ought to be ignored. They are included here for those who would otherwise not
+know what their definitions or derivations are. These words are not canonical, and their use
+is highly discouraged. Many of them flout Na’vi inflectional rules or phonotactic constraints.
+Some include illegal sounds, as illustrated below.
+’h [Ph], b [b], c [k], ch [tS], d [d], g [g], h’ [hP], ii [i:], j [Z], sh [S], uu [u:]
+Amanti: [a.man.ti] G prop.n. female of the Tipani
+Anurai: [a.nu.Ra.i] G prop.n. clan name
+ar’lek: [arPlEk^] G n. a seed-bearing plant
+Beyda’amo: [bEjdaPamo] G prop.n. male warrior
+of the Tipani
+chan’tu gor’ek nuuto: [tSanPtu gorPEk^nuuto]
+ASG n. stone jar
+chey: [tSEj] ASG n. possesions rack (derived from
+P’ah s’ivil chey rack)
+Eywa k’sey nivi’bri’sta: [Ejwa kPsEj niviPbriPsta]
+ASG n. hammock, from Eywa cradles
+everyone
+Eywa s’ilivi mas’kit nivi: [Ejwa sPilivi masPkit^
+nivi] ASG Ewya’s wisdom is revealed to all
+of us
+Eywa te’ _ tan’sey mak’ta: [Ejwa tEP tanPsEj
+makPta] ASG n. ikran queue harness, lit.
+the love of Eywa’s embrace is gifted to (personal
+name)
+feru m’predu’k: [fEru mPpREduPk^] ASG n. basket
+Fmilam: [fmi.lam] G prop.n. female of the Tipani
+Gro’lryc: [gRoPlRjc] G prop.n. a series of caves
+Hukato: [hu.ka.to] G prop.n. male of the Tipani
+Ikalu: [i.ka.lu] G prop.n. male of the Tipani
+iveh k’nivi s’dir: [ivEh kPnivi sPdir] ASG n. baby
+sling
+k’sey nivi: [kPsEj nivi] ASG n. group sleep
+Kaoliä Tei: [ka.o.li.æ tE.i] G prop.n. the plains
+of Goliath
+Koo Tsura: [ko:
+>
+tsu.Ra] G prop.n. a Tipani village
+Kusati: [ku.sa.ti] G prop.n. female warrior of the
+Tipani
+Kyuna: [kjuna] G prop.n. female of the Anurai
+lenay’ga: [lEnajPga] ASG n. slinger, predatory
+animal
+Lompo: [lom.po] G prop.n. male of the Tawkami
+Lungoray: [lu.No.Raj] G prop.n. shaman of the
+Tipani
+m’resh’tuyu: [mPRESPtuju] or [mPREshPtuju]
+ASG n. shield
+Malimi: [ma.li.mi] G prop.n. male of the Tawkami
+malmoks: [malmoks] G n. rings of stone
+Marali: [ma.Ra.li] G prop.n. female of the Tipani
+mas’kit nivi sa’nok: [masPkit^nivi saPnok^]
+ASG mother loom
+Maweytakuk: [ma.wEj.ta.kuk^] G prop.n. male
+Na’vi
+Mekanei: [mE.ka.nE.i] G prop.n. male of the Tipani
+Mendala: [mEn.da.la] G prop.n. male of the Tipani
+meresh’ti cau’pla: [mERESPti kauPpla] or
+[meReshPti kauPpla] ASG n. banshee catcher,
+bola, lit. nothing to see
+mesh’kai huru: [mESPkai huRu] PND n. cooking
+pot
+mreki u’lito: [mREki uPlito] ASG n. fire pit
+Mukata: [mu.ka.ta] G prop.n. male of the Tawkami
+na’hla buk’ne: [naPhla bukPnE] ASG n. direhorse
+lead, lit. face pull
+Naalot: [na:.lot^] G prop.n. male of the Tipani
+Nera’nak: [nE.RaP.nak^] G prop.n. female of the
+Tawkami
+nikt’chey: [niktP
+>
+tshEj] or [niktPtSEj] ASG n.
+small bit of food, packed lunch
+nivi: [ni.vi] ASG n. hammock (informal), us (derived
+from Eywa k’sey nivi’bri’sta Ewya
+cradles everyone)
+55
+Nok: [nok^] G prop.n. male of the Tawkami
+Oloniwin: [o.lo.ni.win] G prop.n. male elder of
+the Tipani
+Omati: [o.ma.ti] G prop.n. male of the Tawkami
+omati s’ampta: [omati sPampta] ASG n. blue
+flute
+Onantu: [o.nan.tu] G prop.n. male of the Tawkami
+Otamu: [o.ta.mu] G prop.n. male of the Tipani
+P’ah s’ivil chey: [pPah sPivil tSEj] ASG n. personal
+belongings rack
+pxtxawng: [p't'awN] JC n. douchebag
+Rai’uk: [Ra.i.Puk^] G prop.n. male of the Anurai
+Raltaw: [Ral.taw] G prop.n. male hunter of the
+Tipani
+Sänume: [sæ.nu.mE] G prop.n. tsahìk of the Tipani
+(derived from sänume teaching)
+Seyvaro: [sEj.va.Ro] G prop.n. male of the Tawkami
+shah-tell: [Sah.tEl] ASG n. shuttle (loaned from
+Eng. shuttle) (not normally allowable under
+Na’vi phonotactic rules)
+su’shiri t’acto sa: [suPshiri tPacto sa] or
+[suPshiri tPacto sa] ASG n. toy ikran
+sumin’sey hulleh: [suminPsEj hul
+"
+Eh] ASG sleeping
+outside of the group
+sumin jiit’luy: [sumin ZiitPluy] ASG n. leaf plate
+Swawta: [swaw.ta] G prop.n. male of the Tipani
+t’riti so jahmka: [tPRiti so Zahmka] ASG n. pendulum
+drum
+Ta’antasi: [ta.Pan.ta.si] G prop.n. Tantalus,
+rocky place on Pandora
+Tan Jala: [tan jala] G prop.n. male of the Tipani
+Tasun: [ta.sun] G prop.n. male hunter of the
+Lì’ona
+Tawkami: [taw.ka.mi] G prop.n. a clan (c.w.
+from taw sky and kame see)
+Tilikaru: [ti.li.ka.Ru] G prop.n. a Tipani village
+Tipani: [ti.pa.ni] G prop.n. a clan
+tìtakuk: [tI."ta.kuk^] G n. strike (derived from
+takuk strike)
+tmi nat’sey: [tmi natPsEj] ASG n. bladder lantern,
+from food here
+Tsa’law: [>
+tsaP.law] G prop.n. male of the Tawkami
+Tsaro: [>
+tsa.Ro] G prop.n. male of the Tipani
+Tsmuke: [>
+tsmu.kE] G prop.n. a Tipani village
+txei: [t'E.i] G n. plain
+u’imi: [u.Pi.mi] ASG n. streamer, pendant
+U’imi huyuticaya: [uPimi hujutikaja] ASG
+prop.n. a clan
+Ukamtsu: [u.kam.
+>
+tsu] G prop.n. male of the Tipani
+ulivi mari’tsey mak’dini’to: [Ulivi mariP
+>
+tsEj
+makPdiniPto] ASG loom, lit. branches of the
+tree look to each other for strength, or many
+branches together are strong
+ulu’tah inib’sey mulsi: [uluPtah inibPsEy mulsi]
+ASG n. leaf plate
+Umkansa: [um.kan.sa] G prop.n. a Tipani village
+Unipey: [u.ni.pEj] G prop.n. female of the Tipani
+utral utu mauti: [ut.Ral u.tu ma.u.ti] ASG n.
+push fruit tree (c.w. from utral tree and utu
+mauti push fruit)
+utu mauti: [u.tu ma.u.ti] ASG n. banana fruit,
+push fruit
+Va’erä Ramunong: [va.PE.Ræ Ra.mu.noN] G
+prop.n. Vaderas Hollow
+Vayaha: [va.ja.ha] G prop.n. a Tipani village
+56
+J The Changelog
+Following is a brief record of the most recent revisions...
+• 13.10 - Vocabulary added from naviteri.org, August 31, 2014.
+• 13.091 - Corrected several missing infix markers.
+• 13.09 - Vocabulary added from naviteri.org, July 31, 2014.
+• 13.08 - Added fray+ productive prefix in “Other Inflections“
+• 13.074 - Corrected definition for ay and asy infixes for clarity. Also re-marked zerok as
+transitive.
+• 13.073 - Corrected format error for hena.
+• 13.072 - IPA for yo’ko corrected. Thanks to Tirea Aean.
+• 13.071 - Definitions corrected for a few of the last additions. Thanks to Blue Elf.
+• 13.07 - Vocabulary added from naviteri.org, June 1, 2014.
+• 13.06 - Vocabulary added from naviteri.org, March 31, 2014.
+• 13.05 - Vocabulary added from naviteri.org, February 28, 2014.
+• 13.04 - Added tìsteftxaw. Thanks to Plumps for catching this long lost noun.
+• 13.03 - Clarified definition of kaw’it
+• 13.02 - Added nìyawr
+• 13.01 - Added glosses to äo- , io- and nìwin, per Paul.
+• 13.00 - Vocabulary added from naviteri.org, September 30, 2013. srese’a and weyn marked
+as vtr. (Not really worthy of a major revision increment, but I ran out of decimals! :)
+-Markì)
+• 12.9961 - Corrected entry for -tu by removing (pro.) reference since it’s not.
+• 12.996 - Corrected example in sä- (Other inflectional morphology)
+• 12.995 - Added nìkemweypey and kelemweypey per email from Paul to Blue Elf.
+• 12.994 - Corrected a bunch of URLs in the preface. Thanks to Blue Elf!
+• 12.993 - Vocabulary added from naviteri.org, July 31, 2013. vm. tag retired. Irregular version
+increment, pending major revision coming soon.
+• 12.992 - Clarified distinction between sämok and tìmok
+• 12.991 - Clarified grammatical note on transitivity in the dictionary preface.
+57
